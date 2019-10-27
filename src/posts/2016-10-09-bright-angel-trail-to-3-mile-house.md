@@ -1,0 +1,25 @@
+---
+id: 680
+title: Bright Angel Trail to 3 Mile House
+date: 2016-10-09T23:45:26+00:00
+author: scott
+excerpt: Grand Canyon South Rim
+layout: post
+guid: http://trailcoffee.net/?p=680
+permalink: /bright-angel-trail-to-3-mile-house/
+map:
+  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65105.9222242831!2d-112.17093855639732!3d36.06761223287064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x864e99540608b624!2sBright+Angel+Trailhead!5e1!3m2!1sen!2sus!4v1476056527068'
+  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65105.9222242831!2d-112.17093855639732!3d36.06761223287064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x864e99540608b624!2sBright+Angel+Trailhead!5e1!3m2!1sen!2sus!4v1476056527068'
+image: /wp-content/uploads/2016/10/IMG_2663_3097.jpg
+categories:
+  - Uncategorized
+tags:
+  - Arizona
+---
+I’ve been meaning to write about the Grand Canyon more here. Even though I’ve been to this place several times on both north and south rims, I have never actually down to the bottom. The hikes I have done have only been a few miles, just scraping the surface of the world-renown canyon. I am not sure how much of an expert I can really claim to be about the Grand Canyon. That being said, I do love this place and there are many ways to be an explorer in the National Parks. Not every trip has to be a monumental excursion.
+
+This hike is the <a href="https://www.nps.gov/grca/planyourvisit/day-hiking.htm">Bright Angel Trail to the 3 Mile Rest House</a>. This area is a very popular place in the park and this trail is very well traveled. The Bright Angel Trail is one of the main routes down to the bottom at Phantom Ranch. If you start at the right time of day, the initial section stays pretty well shaded. It is a fairly steep path with many, many switchbacks. Under ground of the path is a pipeline used to get water up the resort area from the Colorado River. The good news this also means it also has water available to hikers at different points.
+
+After 3 miles you will find your yourself at the eponymously named 3 Mile Rest House. If you are just out for a day hike, this is probably a good turn around point since hiking to the bottom and back in a day is very dangerous in the desert heat.
+
+[gallery link="file" ids="688,689,687,685,686,690,684,683,682,681"]
