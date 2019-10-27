@@ -12,6 +12,15 @@
 		<img src="{{ image }}" class="post-featured-image" />
 
 		{{ content | safe }}
+
+		{% if images %}
+			<div class="image-gallery">
+				{% for img in images %}
+					<img src="{{ img.image }}" alt="{{img.title}}" />
+				{% endfor %}
+			</div>
+		{% endif %}
+
 	</article>
 </main>
 
