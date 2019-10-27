@@ -3,7 +3,6 @@ var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 
 // files
-let svgFiles = ['./src/svg-icons/general/*.svg', './src/svg-icons/home/*.svg'];
 let sassFiles = './src/sass/*.scss';
 
 
@@ -25,50 +24,12 @@ function sassCompile(cb) {
 }
 
 
-// make svg sprite
-
-function spriteCompile(cb) {
-	cb();
-
-	svgFiles.forEach(function (srcLoc) {
-		let srcName = srcLoc.split('/')[3];
-
-		let stream = gulp.src(srcLoc)
-			.pipe(svgSprite({
-				shape: {
-					id: {
-						generator: "icon-%s"
-					}
-				},
-				svg: {
-					xmlDeclaration: false
-				},
-				mode: {
-					symbol: {
-						dest: '.',
-						inline: true,
-						prefix: 'icon-%s',
-						bust: false,
-						sprite: 'icon-sprite-' + srcName + '.svg'
-					}
-				}
-			}))
-			.pipe(gulp.dest('./src/_includes/assets'));
-
-		return stream
-
-	});
-
-}
-
-
 
 // gulp tasks
-exports.default = gulp.series(sassCompile, spriteCompile);
+exports.default = gulp.series(sassCompile);
 
-exports.build = gulp.series(sassCompile, spriteCompile);
+exports.build = gulp.series(sassCompile);
 
 exports.watch = function () {
 	gulp.watch('./src/sass/**/*.scss', sassCompile);
-	gulp.watch(svgFiles, spriteCompile);
 }

@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve",
-    "build": "eleventy",
+    "start": "gulp watch & eleventy --serve",
+    "build": "gulp && eleventy",
     "debug": "DEBUG=Eleventy* eleventy"
   },
   "author": "",
@@ -13,6 +13,11 @@
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "gulp": "^4.0.2"
-  }
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
