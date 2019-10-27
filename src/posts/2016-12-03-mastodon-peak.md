@@ -21,6 +21,5 @@ The southern entrance off Interstate 10 will take you to the <a href="https://ww
 
 The hike from here takes you through a grove of desert palms and up to the rocky outcropping of Mastodon Peak. From the top, you will get views of the southern part of the park as well as far as the Salton Sea to the south. The hike here is only about a mile, but you can opt to take a detour back down by the old and abandoned Mastodon Mine. This loop will take you back to the road you came on.
 
-[gallery link="file" ids="720,721,719,718,717,716,714,715,712,713,710,711"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Mastodon Peak.gpx"]
+

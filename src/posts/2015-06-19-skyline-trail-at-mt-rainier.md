@@ -16,4 +16,3 @@ tags:
 ---
 I am used to hiking in Southern California, which while it provides a variety of climates to explore, but the region tends to be on the dryer side with low humidity. The <a href="http://www.nps.gov/mora/planyourvisit/skyline-trail.htm">Skyline Trail</a> at the Paradise area of Mt. Rainier was a stark contrast to my usual warm/dry climates of my home. The trail is roughly a five mile loop that starts near the main visitor center and climbs steadily upwards to Panorama Point. Instead of a vast panoramic view of it’s namesake, we were surrounded by cold wind and a thick layer of clouds. The cool skies, lush fields of flowers and greenery with close-up views of the Nisqualley Glacier were still a treat though.
 
-[gallery link="file" ids="129,130,131,132,133,134,135"]

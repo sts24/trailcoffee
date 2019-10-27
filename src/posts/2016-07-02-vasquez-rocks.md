@@ -18,4 +18,3 @@ When you have yourself a unique rock formation in the greater Los Angeles region
 
 Due to it’s Hollywood fame, it is a popular area for visitors, even for those who aren’t hiking. There are a handful of trails to explore including the Pacific Crest Trail, although nothing too strenuous or lengthy.
 
-[gallery link="file" ids="606,607,608,609,610"]

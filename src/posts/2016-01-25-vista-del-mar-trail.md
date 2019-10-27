@@ -20,6 +20,5 @@ This trail will lead you up and away from the local neighborhood meander around 
 
 Vista Del Mar may not be the most challenging hike, but sometimes it is nice to have a quick and simple trail available to locals needing some outdoor time.
 
-[gallery link="file" ids="469,470,471,472,473,474,475,476"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Vista Del Mar Trail.gpx"]
+

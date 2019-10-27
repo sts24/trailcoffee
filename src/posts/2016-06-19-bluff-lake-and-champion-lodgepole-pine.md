@@ -20,6 +20,5 @@ This trail starts at the Castle Rock Trailhead west of the Boulder Bay area of B
 
 Once you are at Bluff Lake, you can check out the old YMCA camp, which was the location of the [original Parent Trap movie](https://en.wikipedia.org/wiki/The_Parent_Trap_(1961_film)) from 1961. Just a short walk past the lake is the location of the Champion Lodgepole Pine, which is a giant 110 foot lodgepole pine over 400 years old.
 
-[gallery link="file" ids="573,574,575,576,577,578,579,580,581,582,583,584"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Champion Lodge Pine.gpx"]
+

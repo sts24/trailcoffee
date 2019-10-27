@@ -16,4 +16,3 @@ tags:
 ---
 Only about an hour’s boat ride from Ventura Harbor, the <a href="http://www.nps.gov/chis/">Channel Islands National Park</a> is vastly underrated destination for the outdoors in Southern California. Anacapa Island is the most accessible of the Channel Islands and provides for a unique day trip experience from a short hike to the famous Inspiration Point view point, fields of Coreopsis plants, the old Coast Guard lighthouse, and a habitat for California Sea Lions. Even the boat trip, provided by Island Packers, can be a great experience as the Santa Barbara Channel teams with marine life from the many dolphins, orcas, and gray whales.
 
-[gallery link="file" ids="208,209,210,211,212,213,214,215,216,217"]

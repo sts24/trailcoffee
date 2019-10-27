@@ -16,4 +16,3 @@ tags:
 ---
 Icehouse Canyon is a great little canyon sandwiched between Ontario Peak and Mt San Antonio (which you will know better as Mt. Baldy). <a href="http://www.modernhiker.com/2007/04/19/hiking-icehouse-canyon/">The trail follows along a small creek</a> and steadily rises to Icehouse Saddle at roughly 7,500 feet. Here, you will treated to views of the high desert and the Cajon Pass. The Icehouse Canyon trail is also the launching off point for several other hikes that venture deeper into the high San Gabriels.
 
-[gallery link="file" ids="155,156,157,158,159,160,161,162,163,164"]

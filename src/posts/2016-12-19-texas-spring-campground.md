@@ -22,4 +22,3 @@ tags:
 
 Two things to be aware of: it is first-come first-serve, so be aware of that before you head in. It is also a campsite with very little to no shade. Depending on what time of year you are there, it may not be a problem. This is probably the major difference from Furnace Creek, which has much more foliage to provide shade. However, if you are headed to Death Valley at a cooler time of the year, Texas Spring is an option I would certainly be considering again.
 
-[gallery link="file" ids="733,732,730,731,726,734,727,725,728,729"]

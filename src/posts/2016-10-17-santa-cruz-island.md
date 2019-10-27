@@ -20,4 +20,3 @@ tags:
 
 The hike we are talking about here is the 7.5 mile out-and-back trail to Smugglers Cove. Starting from Scorpion Anchorage, the trail rises up to a large plateau with wide views of the Santa Barbara Channel, the Ventura coast, as well as the Santa Monica Mountains. If you are familiar with the terrain of the Santa Monica’s, this will feel at home for you. The path will then descend into Smuggler’s Cove and you be welcomed by an old ranch house and the olive grove that accompanied it. Smuggler’s Cove is a quiet and secluded beach, a rare thing for Southern California.
 
-[gallery link="file" ids="697,698,700,701,694,699,702,705,695,696,703,704"]

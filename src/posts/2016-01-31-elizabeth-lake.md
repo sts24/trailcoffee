@@ -16,4 +16,3 @@ tags:
 ---
 One of the signature features of the Sierra Nevada mountains are the thousands of alpine lakes nestled away in the high country. Tuolumne Meadows in Yosemite National Park serves as a great jumping off point to these types of landmarks. <a href="http://www.nps.gov/yose/planyourvisit/tmhikes.htm">Elizabeth Lake is an easily accessible 4.8 mile out-and-back hike</a> that starts from the Tuolumne Meadows campground. It then heads up to the lake next to the rocky granite slope of Unicorn Peak. After circling around the lake, there are options to venture deeper into the backcountry. Since this hike is in close proximity to the main campground, it is a good option for hikers to bring along less expereinced friends on something that that is moderately simple but still rewarding.
 
-[gallery link="file" ids="482,483,484,485,486,487,488"]

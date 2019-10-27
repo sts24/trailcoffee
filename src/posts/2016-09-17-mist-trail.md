@@ -18,4 +18,3 @@ Most hikes that people write about on hiking blogs are about taking you to a ext
 
 After about 1.2 miles, you arrive to the top of Vernal Falls. It is 2.7 miles all the way to the top of Nevada Falls. The Mist Trail is also the main route many hikers will take to the top of Half Dome and also shares the starting point of the legendary John Muir Trail.
 
-[gallery link="file" ids="659,652,658,657,655,660,656,654,653"]

@@ -21,6 +21,5 @@ Normally, I don’t think I would have been as motivated to tackle a trail like 
 
 After what seems like an endless set of twists and turns up the side of the Santa Monica Mountains, you rise up to get a big view of Pt. Mugu and the Channel Islands in the distance. Further up, you are treated to a view of Sycamore Canyon and the western face of Boney Mountain. In this time of the year I went, the rains have given a burst of greenery that is unlike anything you’ll see in Southern California the rest of the year. This trail can continue as long as you want it to, but this is mostly an out-and-back trail.
 
-[gallery link="file" ids="740,741,742,743,744,745,746,747,748"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Ray Miller Trail.gpx"]
+

@@ -18,4 +18,3 @@ Hidden away outside the bustle of the Mammoth ski resort lies <a href="http://ww
 
 Access to the National Monument is only available via shuttle bus from the Mammoth ski resort lodge, and also serves as a major jumping off point for Pacific Crest Trail and John Muir Trail Hikers. The Red's Meadow area also offers many other hiking trails and camping as well as a backcountry store. The road to drop off area also offers a great view of the surrounding Sierra peaks at Minaret Vista.
 
-[gallery link="file" ids="459,456,454,457,455,458,460"]
