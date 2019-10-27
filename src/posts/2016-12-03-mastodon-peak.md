@@ -1,13 +1,12 @@
 ---
 title: Mastodon Peak
-date: 2016-12-03
-excerpt: Joshua Tree National Park
-permalink: /mastodon-peak/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109076.60182530613!2d-115.8807748373176!3d33.73689904172951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80da7d016004a3e7%3A0xb4a703dd23711748!2sCottonwood+Spring!5e1!3m2!1sen!2sus!4v1480732609821'
-image: /images/uploads/DSCF4004.jpg
+date: 2016-12-03T00:00:00.000Z
 tags:
   - Joshua Tree
+image: /images/uploads/DSCF4004.jpg
+images:
+  - title: Trail Head
+    image: /images/uploads/dscf3991.jpg
 ---
 I don’t think I am alone in this, but almost every visit to Joshua Tree National Park has me spending most of my time in the northern, high desert region. This area is home to a high concentration of the tree of the park’s namesake, so it make sense most visitors stay around there. Like most outdoor places I have visited frequently, there comes a point where I want to start seeing what else is around. I imagine if you are reading a hiking blog like this, I am not alone.
 
