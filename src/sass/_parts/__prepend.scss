@@ -1,0 +1,88 @@
+:root {
+
+    // colors
+    --color1: #102046;
+    --color1-dark: #0B1732;
+    --color1-light: #1E3D85;
+
+    --color2: #D14900;
+    --color2-dark: #c55316;
+
+    --lightblue: #1a9fe6;
+    --highlight: var(--lightblue);
+
+    --lightgray: #ebebeb;
+    --midgray: #b1b1b1;
+    --darkgray: #333;
+    --gray: #2d2d2d;
+
+    --body-color: var(--darkgray);
+    --body-bg: var(--lightgray);
+
+    --link-color: var(--color2-dark);
+
+    
+    // fonts
+    --primary-font: "Lora", serif;
+    --secondary-font: "Open Sans", sans-serif;
+    --body-font: var(--secondary-font);
+}
+
+$navy: #102046;
+$orange: #e6621a;
+$teal: #5edd9e;
+$lightgray: #ebebeb;
+$midgray: #b1b1b1;
+$darkgray: #333;
+$lightblue: #1a9fe6;
+
+$color1: $navy;
+$color1-dark: darken($color1,5%);
+$color1-light: lighten($color1,15%);
+
+$highlight: $lightblue;
+$color2: $orange;
+$color-bg: $lightgray;
+$body-color: $darkgray;
+$link-color: $orange;
+
+$gray: #2d2d2d;
+
+// fonts
+
+$primary-font: "Lora", serif;
+$secondary-font: "Open Sans", sans-serif;
+$body-font: $secondary-font;
+
+
+
+// convert EMs
+
+@function em($size){
+	@return #{$size/16}em;
+}
+
+@function rem($size){
+	@return #{$size/16}em;
+}
+
+
+// styles
+
+@mixin blue-waves-bg {
+	background-color: var(--color1-light);
+    background-image: url('../images/waves.svg');
+    background-size: 100px auto;
+}
+
+@mixin light-waves-bg {
+	background-color: var(--midgray);
+    background-image: url('../images/waves-light.svg');
+    background-size: 100px auto;
+}
+
+@mixin chevron-pattern {
+    background-color: var(--color1);
+    background-image: url('../images/chevron-pattern.svg');
+    background-size: auto 120px;
+}

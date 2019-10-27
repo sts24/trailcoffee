@@ -1,0 +1,79 @@
+// margin utilities
+
+@for $size from 0 through 5 {
+	.margin-#{$size} {
+		margin: ($base_size * $size);
+	}
+
+	.margin-x-#{$size} {
+		margin-top: ($base_size * $size);
+		margin-bottom: ($base_size * $size);
+	}
+
+	.margin-y-#{$size} {
+		margin-left: ($base_size * $size);
+		margin-right: ($base_size * $size);
+	}
+
+	.margin-top-#{$size} { margin-top: ($base_size * $size); }
+	.margin-right-#{$size} { margin-right: ($base_size * $size); }
+	.margin-bottom-#{$size} { margin-bottom: ($base_size * $size); }
+	.margin-left-#{$size} { margin-left: ($base_size * $size); }
+}
+
+// padding utilities
+
+@for $size from 0 through 5 {
+	.padding-#{$size} {
+		padding: ($base_size * $size);
+	}
+
+	.padding-x-#{$size} {
+		padding-top: ($base_size * $size);
+		padding-bottom: ($base_size * $size);
+	}
+
+	.padding-y-#{$size} {
+		padding-left: ($base_size * $size);
+		padding-right: ($base_size * $size);
+	}
+
+	.padding-top-#{$size} { padding-top: ($base_size * $size); }
+	.padding-right-#{$size} { padding-right: ($base_size * $size); }
+	.padding-bottom-#{$size} { padding-bottom: ($base_size * $size); }
+	.padding-left-#{$size} { padding-left: ($base_size * $size); }
+}
+
+
+
+// visibility utilities
+
+// hide on breakpoint
+
+.hide {
+    display: none;
+}
+
+@each $name, $size in $breakpoints {
+	@if $size != '' {
+		@media (min-width: $size){
+			.hide-on-#{$name} { visibility: collapse; }
+		}
+	}
+	@else {
+		.hide-on-#{$name} { visibility: collapse; }
+	}
+}
+
+// show on breakpoint
+
+@each $name, $size in $breakpoints {
+	@if $size != '' {
+		@media (min-width: $size){
+			.show-on-#{$name} { visibility: visible; }
+		}
+	}
+	@else {
+		.show-on-#{$name} { visibility: visible; }
+	}
+}

@@ -1,0 +1,23 @@
+// variables
+$page_width: 1200px;
+$base_size: 1rem;
+
+// breakpoints
+$breakpoints: (
+	"s": "",
+	"m": "768px",
+	"l": "1024px",
+	"xl": "1200px"
+);
+
+// column system
+$columns: 12;
+$base_col: (100% / $columns);
+
+
+@import '_parts/base';
+@import '_parts/layout';
+@import '_parts/utilities';
+@import '_parts/content';
+@import '_parts/typography';
+@import '_parts/icons';

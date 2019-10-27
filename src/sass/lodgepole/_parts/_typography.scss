@@ -1,0 +1,25 @@
+// text justify
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+// font sizes
+
+@for $i from 1 through 5 {
+	font-size-#{$i} {
+		font-size: ($base_size * $i);
+	}
+}
