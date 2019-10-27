@@ -4,7 +4,6 @@ title: Lembert Dome
 date: 2015-10-11T22:24:14+00:00
 author: scott
 excerpt: Yosemite National Park
-layout: post
 guid: http://trailcoffee.net/?p=331
 permalink: /lembert-dome/
 map:

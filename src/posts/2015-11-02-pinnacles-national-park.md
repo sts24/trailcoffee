@@ -4,7 +4,6 @@ title: Pinnacles National Park
 date: 2015-11-02T01:29:54+00:00
 author: scott
 excerpt: Central California
-layout: post
 guid: http://trailcoffee.net/?p=350
 permalink: /pinnacles-national-park/
 map:

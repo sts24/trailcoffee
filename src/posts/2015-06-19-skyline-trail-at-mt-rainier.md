@@ -4,7 +4,6 @@ title: Skyline Trail
 date: 2015-06-19T02:12:47+00:00
 author: scott
 excerpt: Mt. Rainier National Park
-layout: post
 guid: http://trailcoffee.net/?p=128
 permalink: /skyline-trail-at-mt-rainier/
 map:

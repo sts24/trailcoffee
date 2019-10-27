@@ -4,7 +4,6 @@ title: Mist Trail
 date: 2016-09-17T18:19:35+00:00
 author: scott
 excerpt: Yosemite National Park
-layout: post
 guid: http://trailcoffee.net/?p=651
 permalink: /mist-trail/
 map:

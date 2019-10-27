@@ -4,7 +4,6 @@ title: China Flat
 date: 2015-07-10T03:06:15+00:00
 author: scott
 excerpt: Simi Valley, Ca
-layout: post
 guid: http://trailcoffee.net/?p=175
 permalink: /china-flat-in-simi-valley/
 map:

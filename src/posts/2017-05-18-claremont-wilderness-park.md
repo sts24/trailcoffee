@@ -4,7 +4,6 @@ title: Claremont Wilderness Park
 date: 2017-05-18T02:55:25+00:00
 author: scott
 excerpt: Claremont, Ca
-layout: post
 guid: http://trailcoffee.net/?p=786
 permalink: /claremont-wilderness-park/
 map:

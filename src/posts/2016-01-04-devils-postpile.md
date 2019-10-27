@@ -4,7 +4,6 @@ title: 'Devil&#8217;s Postpile'
 date: 2016-01-04T02:21:55+00:00
 author: scott
 excerpt: Mammoth Lakes
-layout: post
 guid: http://trailcoffee.net/?p=451
 permalink: /devils-postpile/
 map:

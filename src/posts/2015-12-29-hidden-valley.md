@@ -4,7 +4,6 @@ title: Hidden Valley
 date: 2015-12-29T02:19:08+00:00
 author: scott
 excerpt: Joshua Tree National Park
-layout: post
 guid: http://trailcoffee.net/?p=441
 permalink: /hidden-valley/
 map:

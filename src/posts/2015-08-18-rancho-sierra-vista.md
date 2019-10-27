@@ -4,7 +4,6 @@ title: Rancho Sierra Vista
 date: 2015-08-18T02:39:29+00:00
 author: scott
 excerpt: Newbury Park, Ca
-layout: post
 guid: http://trailcoffee.net/?p=262
 permalink: /rancho-sierra-vista/
 map:

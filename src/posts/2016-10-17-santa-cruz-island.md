@@ -4,7 +4,6 @@ title: Santa Cruz Island
 date: 2016-10-17T00:57:26+00:00
 author: scott
 excerpt: Channel Islands National Park
-layout: post
 guid: http://trailcoffee.net/?p=693
 permalink: /santa-cruz-island/
 map:

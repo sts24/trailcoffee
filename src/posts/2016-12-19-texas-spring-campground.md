@@ -4,7 +4,6 @@ title: Texas Spring Campground
 date: 2016-12-19T01:46:18+00:00
 author: scott
 excerpt: Death Valley
-layout: post
 guid: http://trailcoffee.net/?p=724
 permalink: /texas-spring-campground/
 map:

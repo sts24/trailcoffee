@@ -4,7 +4,6 @@ title: Paramount Ranch
 date: 2015-08-31T02:08:24+00:00
 author: scott
 excerpt: Santa Monica Mountains
-layout: post
 guid: http://trailcoffee.net/?p=280
 permalink: /paramount-ranch/
 map:

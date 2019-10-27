@@ -4,7 +4,6 @@ title: Hello and Welcome
 date: 2015-04-04T03:44:15+00:00
 author: scott
 excerpt: What is going on here anyway?
-layout: post
 guid: http://outsidecoffee.net/?p=4
 permalink: /hello-and-welcome/
 image: /wp-content/uploads/2015/04/DSCF1338.jpg

@@ -4,7 +4,6 @@ title: Mosaic Canyon
 date: 2016-09-11T20:38:04+00:00
 author: scott
 excerpt: Death Valley National Park
-layout: post
 guid: http://trailcoffee.net/?p=640
 permalink: /mosaic-canyon/
 map:

@@ -4,7 +4,6 @@ title: Rocky Peak
 date: 2015-09-27T23:30:20+00:00
 author: scott
 excerpt: Simi Valley, Ca
-layout: post
 guid: http://trailcoffee.net/?p=318
 permalink: /rocky-peak/
 map:
