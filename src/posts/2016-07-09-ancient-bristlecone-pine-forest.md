@@ -18,4 +18,3 @@ There is something really special about this corner of Eastern California. The O
 
 A short drive off Highway 395 up into the White Mountains will take you to the Schulman Grove Visitor Center. From here, you can hike the short 1 mile Discovery Trail. This will get you up close with the ancient trees that date to over 4,000 years old. Past the visitor’s center, the road looses it’s pavement. If you are willing to keep driving, there is also the Patriarch Grove of the bristlecone pines.
 
-[gallery link="file" ids="614,615,616,617,618,619,620"]

@@ -20,6 +20,5 @@ There are a variety of trails in the area to choose from. The trail in the botto
 
 This would be a fulfilling enough of a hike at this point, but from here you can venture further up the canyon to the Rising Sun Trail. This step section will take you up to the top of the ridge where you will be treated to views of the ocean and a better vantage point of the ruins.
 
-[gallery link="file" ids="554,555,556,557,558,561,559,560,562,563,564,565"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Solstice Canyon.gpx"]
+

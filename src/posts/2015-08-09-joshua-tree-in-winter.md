@@ -18,4 +18,3 @@ tags:
 
 [embed]https://vimeo.com/20359430[/embed]
 
-[gallery link="file" ids="247,248,249,250,251,252,253,254,255"]

@@ -16,4 +16,3 @@ tags:
 ---
 While it stood as a National Monument since the Teddy Roosevelt administration, <a href="http://www.nps.gov/pinn/index.htm">Pinnacles only recently became a full National Park in 2013</a>. It may not have the expansive acreage of many other parks, but it’s relatively small size makes seeing every aspect of the place approachable to weekend trip. The park offers the craggy high peaks that are favored by the California Condors, sprawling oak woodlands, and two sizable rock caves.
 
-[gallery link="file" ids="375,376,377,378,379,380,381,382,383,384,385,386"]

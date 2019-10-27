@@ -19,5 +19,3 @@ One of the best decisions I've made in recent years of choosing places to go cam
 <a href="http://www.fs.usda.gov/recarea/inyo/recreation/recarea/?recid=20358&amp;actid=50">The Bishop Pass Trail leaves from the trailhead at South Lake</a> and rises quickly to give you a view of this artificially dammed lake. Unfortunately, as of my trip in 2014, this is also a very visible sign of the drought we have been experiencing in California. The snow pack has not at all been close to normal, and this is reflected in the extremely low water level in South Lake.
 
 After a series of switchbacks and more climbing, the trail offers a junction to many other alpine lakes in the area. When the trail levels off, you are treated to your first view of South Lake and it's lush assortment of flora surrounding the waters. The trail stays flat around the edge of the lake and eventually rises up all the way to the top of Bishop Pass, where it connects with the Pacific Crest Trail.
-
-[gallery ids="413,408,412,409,415,411,417,416,410" link="file"]

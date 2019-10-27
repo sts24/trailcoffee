@@ -18,5 +18,3 @@ tags:
 San Antonio Falls are a rarity in this section of the San Gabriel Mountains. Not only are there few waterfalls of significance in these mountains, few are easily accessible of hikers of many abilities. Just about a 20 or 25 minute drive from Claremont takes you to the <a href="http://www.fs.usda.gov/recarea/angeles/recreation/picnickinginfo/recarea/?recid=41776&amp;actid=70">Manker Flats area past Mt. Baldy Village</a>. This trailhead is a popular starting point to not only the waterfall, but further up to the summit of Mt. Baldy as well. Be sure to purchase a Forest Service Adventure Pass to park here and come early to beat the crowds.
 
 The hike to the waterfalls is an out-and-back hike that comes in under a mile and a half. While the distance is short, be ready for the long uphill section right from the start. Don’t get too discouraged though, as the path gives you sweeping views of the valley and further south into the Inland Empire. Once at the waterfall viewing area, keep left and down hill towards the waterfall.
-
-[gallery link="file" columns="1" size="large" ids="668,670,669,671,665,675,667,666,672,673,674"]

@@ -16,4 +16,3 @@ tags:
 ---
 <a href="https://www.nps.gov/deva/planyourvisit/mosaic-canyon.htm">Mosaic Canyon</a> is a small slot canyon that is tucked away in the mountains in the Stovepipe Wells area of Death Valley. From Stovepipe Wells, take the 2.5 mile dirt road to the trailhead. From here, you immediately hike in the narrow canyon and get up close to a variety of rocks polished away by many repeated flooding events. After this, the trail opens up to a much wider canyon and deeper into the foothills.
 
-[gallery link="file" ids="642,643,644,645,649,646,647,648,641"]

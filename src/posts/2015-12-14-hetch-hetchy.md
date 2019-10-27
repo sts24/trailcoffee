@@ -18,6 +18,6 @@ Hetch Hetchy is the man-made lake most famously known for being reservoir within
 
 While we can’t enjoy the valley as it were in years past, <a href="http://www.nps.gov/yose/planyourvisit/hetchhetchy.htm">there is a relatively accessible trail lining the northern end of the lake to Wapama Falls</a>. This five mile trail follows along the lake side and offers many great views deeper into the valley. This area of Yosemite National Park may not be on the top of the list for visitors, but it might be worth the visit for the historical importance.
 
-[gallery link="file" ids="432,431,430,429,428,427,426,425,424,423"]
+
 
 &nbsp;

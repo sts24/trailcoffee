@@ -18,4 +18,3 @@ To those new to exploring Yosemite, Half Dome (very rightly so) is usually the m
 
 Not to discourage anyone, but a good alternative to getting those top of the valley views without the crowds and a view of Half Dome is the hike to North Dome. This is situated almost directly west of Half Dome opposite of the valley. The is a roughly ten mile out-and-back type hike that starts on a trailhead along the Tioga Road at the top of the valley.
 
-[gallery link="file" ids="111,112,113,114,115,116,117,118,119,120,121"]

@@ -21,4 +21,3 @@ This hike is the <a href="https://www.nps.gov/grca/planyourvisit/day-hiking.htm"
 
 After 3 miles you will find your yourself at the eponymously named 3 Mile Rest House. If you are just out for a day hike, this is probably a good turn around point since hiking to the bottom and back in a day is very dangerous in the desert heat.
 
-[gallery link="file" ids="688,689,687,685,686,690,684,683,682,681"]

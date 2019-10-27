@@ -16,6 +16,5 @@ tags:
 ---
 Tucked away in the western portion of <a href="http://trailcoffee.net/wildwood/">Wildwood Park</a> on the northern side of Camarillo is a hidden little gem called <a href="http://www.cosf.org/website/html/hill-canyon-hike.html">Hill Canyon</a>. This is a much less used area, as it was only made accessible for visitors in recent years. The flow from the Wildwood water treatment plant makes for a consistently flowing creek with a lush and green riparian environment to hike along side. While much of the hike next to the creek is flat, you may also choose to hike upwards to the Western Plateau of Wildwood or towards Lizard Rock and the main part of the park.
 
-[gallery link="file" ids="235,236,233,234,238,239,240,232"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Western Plateau - Wildwood.gpx"]
+

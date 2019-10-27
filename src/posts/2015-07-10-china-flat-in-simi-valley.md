@@ -16,6 +16,5 @@ tags:
 ---
 Tucked away in the western section of the Simi Hills, China Flat is a beautiful little section of land with wide views of Simi Valley and the Topa Topa Mountains to the North. The approach from Oak Park on the south side of the ridge is a steep and exposed climb to the top of the flat. From China Flat you can also hike further west to the top of Simi Peak, which is one of the more prominent and distinct peaks in the area. This hike is another great example of the many trails that are hidden away in plain sight of the Conejo and Simi Valley region.
 
-[gallery link="file" ids="176,177,178,179,180,181"]
 
-[sgpx gpx="/wp-content/uploads/gpx/China flat.gpx"]
+

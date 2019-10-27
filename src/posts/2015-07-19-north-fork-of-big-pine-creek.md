@@ -18,6 +18,5 @@ Viewing from a distance while driving up Highway 395, it may not appear to be an
 
 Starting from the parking lot of Glacier Lodge at the end of Big Pine Canyon, you have two options of exploring the two forks of the Big Pine Creek. The North Fork hike starts up a few switchbacks before leveling off around the boundary of the John Muir Wilderness. Following the creek, you will also come across the old stone cabin belonging to actor Lon Chaney. After another set of step switchbacks, the trail climbs to first and second lake. These lakes both have an incredible turquoise color that you have to see with your own eyes. If you wish, the trail continues upwards to the other seven lakes and views of the glacier.
 
-[gallery link="file" ids="192,193,194,195,196,197,198,199,200,201"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Second Lake - Big Pine Creek.gpx"]
+

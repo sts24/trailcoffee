@@ -16,6 +16,5 @@ tags:
 ---
 Officially known as Mt. Allen and standing at 3,114 feet above sea level, this is the highest point in the Santa Monica Mountains. Sandstone Peak is tucked away deep in the western portion of the iconic Southern California mountains and requires a drive on the twisty mountain road of Yerba Buena Road. At the trailhead, you can loop the 5-mile Mishe Mokwa Trail to the top and meander around the Tri-Peaks area with fantasic views of the Conejo Valley, Channel Islands, and even Los Angeles on a clear day. This is a must-do hike in this part of the Santa Monicas.
 
-[gallery link="file" ids="140,141,142,143,144,145,146,147,148,149"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Sandstone Peak.gpx"]
+

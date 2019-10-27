@@ -18,6 +18,5 @@ Hidden away in the hills off the 101 freeway between Agoura Hills and Calabasas 
 
 For a bonus, see if you can find the Ventura/Los Angeles County line marker on the western canyon hillside. Also, if you are feeling adventurous, this trail will link up with the <a href="http://trailcoffee.net/china-flat-in-simi-valley/">Simi Peak/China Flat area to the north.</a>
 
-[gallery link="file" ids="524,525,526,527,528,529,530,531"]
 
-[sgpx gpx="/wp-content/uploads/gpx/Cheseoro long.gpx"]
+
