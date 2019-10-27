@@ -1,5 +1,18 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-	{{ content | safe }}
+
+<main class="row padding-x-3 post">
+	<article class="col-s-12">
+		<header class="post-header">
+			<h1>{{ title }}</h2>
+			<a href="#">{{ tags }}</a>
+		</header>
+
+		<img src="{{ featuredImage }}" class="post-featured-image" />
+
+		{{ content | safe }}
+	</article>
+</main>
+
 {% endblock %}
