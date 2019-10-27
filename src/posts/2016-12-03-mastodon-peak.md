@@ -1,10 +1,13 @@
 ---
 title: Mastodon Peak
 date: 2016-12-03T00:00:00.000Z
+permalink: /mastodon-peak/
 tags:
   - Joshua Tree
 image: /images/uploads/DSCF4004.jpg
 images:
+  - title: Trail Head
+    image: /images/uploads/dscf3991.jpg
   - title: Trail Head
     image: /images/uploads/dscf3991.jpg
 ---
