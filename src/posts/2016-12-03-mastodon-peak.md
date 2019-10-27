@@ -1,17 +1,11 @@
 ---
-id: 709
 title: Mastodon Peak
-date: 2016-12-03T19:32:04+00:00
-author: scott
+date: 2016-12-03
 excerpt: Joshua Tree National Park
-guid: http://trailcoffee.net/?p=709
 permalink: /mastodon-peak/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109076.60182530613!2d-115.8807748373176!3d33.73689904172951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80da7d016004a3e7%3A0xb4a703dd23711748!2sCottonwood+Spring!5e1!3m2!1sen!2sus!4v1480732609821'
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109076.60182530613!2d-115.8807748373176!3d33.73689904172951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80da7d016004a3e7%3A0xb4a703dd23711748!2sCottonwood+Spring!5e1!3m2!1sen!2sus!4v1480732609821'
-image: /wp-content/uploads/2016/12/DSCF4004.jpg
-categories:
-  - Uncategorized
+image: /images/uploads/DSCF4004.jpg
 tags:
   - Joshua Tree
 ---
