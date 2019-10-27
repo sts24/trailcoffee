@@ -1,12 +1,12 @@
 :root {
 
     // colors
-    --color1: #102046;
-    --color1-dark: #0B1732;
-    --color1-light: #1E3D85;
+    --color1: #2C5214;
 
-    --color2: #D14900;
-    --color2-dark: #c55316;
+    --color2: #D1C1B6;
+    --color2-dark: #524034;
+
+    --red: #9F120D;
 
     --lightblue: #1a9fe6;
     --highlight: var(--lightblue);
@@ -16,15 +16,15 @@
     --darkgray: #333;
     --gray: #2d2d2d;
 
-    --body-color: var(--darkgray);
-    --body-bg: var(--lightgray);
+    --body-color: var(--color2-dark);
+    --body-bg: var(--color2);
 
-    --link-color: var(--color2-dark);
+    --link-color: var(--red);
 
     
     // fonts
-    --primary-font: "Lora", serif;
-    --secondary-font: "Open Sans", sans-serif;
+    --primary-font: "Besley", serif;
+    --secondary-font: "National Park", sans-serif;
     --body-font: var(--secondary-font);
 }
 
@@ -49,11 +49,6 @@ $link-color: $orange;
 $gray: #2d2d2d;
 
 // fonts
-
-$primary-font: "Lora", serif;
-$secondary-font: "Open Sans", sans-serif;
-$body-font: $secondary-font;
-
 
 
 // convert EMs

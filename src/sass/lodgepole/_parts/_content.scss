@@ -41,21 +41,3 @@
 		margin: 0;
 	}
 }
-
-.tag-list {
-	padding: 0;
-	margin: 0 0 1em 0;
-
-	> li {
-		font-family: $primary-font;
-		margin: 0.25rem;
-		padding: 0.25em 1em;
-		background-color: rgba(white,0.25);
-		font-size: 1em;
-		border-radius: 100px;
-
-		&:first-child {
-			margin-left: 0;
-		}
-	}
-}
