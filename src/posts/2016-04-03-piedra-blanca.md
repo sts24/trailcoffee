@@ -4,7 +4,6 @@ title: Piedra Blanca
 date: 2016-04-03T23:05:53+00:00
 author: scott
 excerpt: Ojai, Ca
-layout: post
 guid: http://trailcoffee.net/?p=538
 permalink: /piedra-blanca/
 map:

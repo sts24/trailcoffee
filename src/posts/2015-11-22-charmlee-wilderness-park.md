@@ -4,7 +4,6 @@ title: Charmlee Wilderness Park
 date: 2015-11-22T17:43:12+00:00
 author: scott
 excerpt: Malibu, Ca
-layout: post
 guid: http://trailcoffee.net/?p=392
 permalink: /charmlee-wilderness-park/
 map:

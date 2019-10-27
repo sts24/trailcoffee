@@ -4,7 +4,6 @@ title: Ray Miller Trail
 date: 2017-02-05T19:51:07+00:00
 author: scott
 excerpt: Pt Mugu State Park
-layout: post
 guid: http://trailcoffee.net/?p=739
 permalink: /ray-miller-trail/
 map:

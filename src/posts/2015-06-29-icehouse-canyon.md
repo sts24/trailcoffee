@@ -4,7 +4,6 @@ title: Icehouse Canyon
 date: 2015-06-29T01:15:33+00:00
 author: scott
 excerpt: San Gabriel Mountains
-layout: post
 guid: http://trailcoffee.net/?p=154
 permalink: /icehouse-canyon/
 map:

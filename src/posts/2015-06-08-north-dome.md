@@ -4,7 +4,6 @@ title: North Dome
 date: 2015-06-08T01:24:20+00:00
 author: scott
 excerpt: Yosemite National Park
-layout: post
 guid: http://trailcoffee.net/?p=110
 permalink: /north-dome/
 map:

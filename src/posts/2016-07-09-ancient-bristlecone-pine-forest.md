@@ -4,7 +4,6 @@ title: Ancient Bristlecone Pine Forest
 date: 2016-07-09T23:38:59+00:00
 author: scott
 excerpt: Inyo National Forest
-layout: post
 guid: http://trailcoffee.net/?p=613
 permalink: /ancient-bristlecone-pine-forest/
 map:

@@ -4,7 +4,6 @@ title: Hill Canyon
 date: 2015-08-03T03:55:17+00:00
 author: scott
 excerpt: Camarillo, Ca
-layout: post
 guid: http://trailcoffee.net/?p=231
 permalink: /hill-canyon-in-wildwood-park/
 map:

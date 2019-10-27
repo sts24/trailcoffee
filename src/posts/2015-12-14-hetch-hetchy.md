@@ -4,7 +4,6 @@ title: Hetch Hetchy
 date: 2015-12-14T02:11:03+00:00
 author: scott
 excerpt: Yosemite National Park
-layout: post
 guid: http://trailcoffee.net/?p=420
 permalink: /hetch-hetchy/
 map:

@@ -4,7 +4,6 @@ title: Bright Angel Trail to 3 Mile House
 date: 2016-10-09T23:45:26+00:00
 author: scott
 excerpt: Grand Canyon South Rim
-layout: post
 guid: http://trailcoffee.net/?p=680
 permalink: /bright-angel-trail-to-3-mile-house/
 map:

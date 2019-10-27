@@ -4,7 +4,6 @@ title: Bluff Lake and Champion Lodgepole Pine
 date: 2016-06-19T16:50:34+00:00
 author: scott
 excerpt: Big Bear Lake, Ca
-layout: post
 guid: http://trailcoffee.net/?p=572
 permalink: /bluff-lake-and-champion-lodgepole-pine/
 map:

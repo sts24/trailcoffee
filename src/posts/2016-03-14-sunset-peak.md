@@ -4,7 +4,6 @@ title: Sunset Peak
 date: 2016-03-14T02:06:21+00:00
 author: scott
 excerpt: San Gabriel Mountains
-layout: post
 guid: http://trailcoffee.net/?p=507
 permalink: /sunset-peak/
 map:

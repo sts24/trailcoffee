@@ -4,7 +4,6 @@ title: Long Lake
 date: 2015-12-07T01:44:49+00:00
 author: scott
 excerpt: Inyo National Forest
-layout: post
 guid: http://trailcoffee.net/?p=405
 permalink: /long-lake-in-bishop-pass/
 map:

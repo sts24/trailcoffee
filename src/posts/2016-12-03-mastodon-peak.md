@@ -4,7 +4,6 @@ title: Mastodon Peak
 date: 2016-12-03T19:32:04+00:00
 author: scott
 excerpt: Joshua Tree National Park
-layout: post
 guid: http://trailcoffee.net/?p=709
 permalink: /mastodon-peak/
 map:

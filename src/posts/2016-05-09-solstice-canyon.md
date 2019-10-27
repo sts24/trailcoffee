@@ -4,7 +4,6 @@ title: Solstice Canyon
 date: 2016-05-09T03:40:54+00:00
 author: scott
 excerpt: Malibu, Ca
-layout: post
 guid: http://trailcoffee.net/?p=553
 permalink: /solstice-canyon/
 map:

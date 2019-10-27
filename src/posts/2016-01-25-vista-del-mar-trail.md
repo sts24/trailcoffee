@@ -4,7 +4,6 @@ title: Vista Del Mar Trail
 date: 2016-01-25T02:11:29+00:00
 author: scott
 excerpt: Newbury Park, Ca
-layout: post
 guid: http://trailcoffee.net/?p=468
 permalink: /vista-del-mar-trail/
 map:

@@ -4,7 +4,6 @@ title: Joshua Tree in Winter
 date: 2015-08-09T18:03:33+00:00
 author: scott
 excerpt: Joshua Tree National Park
-layout: post
 guid: http://trailcoffee.net/?p=246
 permalink: /joshua-tree-in-winter/
 map:

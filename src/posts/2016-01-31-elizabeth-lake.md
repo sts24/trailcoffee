@@ -4,7 +4,6 @@ title: Elizabeth Lake
 date: 2016-01-31T23:35:27+00:00
 author: scott
 excerpt: Tuolumne Meadows
-layout: post
 guid: http://trailcoffee.net/?p=479
 permalink: /elizabeth-lake/
 map:

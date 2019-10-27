@@ -4,7 +4,6 @@ title: Cheseboro Canyon
 date: 2016-03-23T20:25:42+00:00
 author: scott
 excerpt: Agoura Hills, Ca
-layout: post
 guid: http://trailcoffee.net/?p=523
 permalink: /cheseboro-canyon/
 map:

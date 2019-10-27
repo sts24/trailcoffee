@@ -4,7 +4,6 @@ title: Sandstone Peak
 date: 2015-06-25T02:20:41+00:00
 author: scott
 excerpt: Santa Monica Mountains
-layout: post
 guid: http://trailcoffee.net/?p=139
 permalink: /sandstone-peak/
 map:

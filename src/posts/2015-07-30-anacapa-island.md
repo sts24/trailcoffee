@@ -4,7 +4,6 @@ title: Anacapa Island
 date: 2015-07-30T02:44:34+00:00
 author: scott
 excerpt: Channel Islands National Park
-layout: post
 guid: http://trailcoffee.net/?p=206
 permalink: /anacapa-island/
 map:

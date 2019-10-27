@@ -4,7 +4,6 @@ title: North Fork of Big Pine Creek
 date: 2015-07-19T23:58:51+00:00
 author: scott
 excerpt: Inyo National Forest
-layout: post
 guid: http://trailcoffee.net/?p=191
 permalink: /north-fork-of-big-pine-creek/
 map:

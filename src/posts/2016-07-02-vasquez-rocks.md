@@ -4,7 +4,6 @@ title: Vasquez Rocks
 date: 2016-07-02T00:41:43+00:00
 author: scott
 excerpt: Agua Dulce, Ca
-layout: post
 guid: http://trailcoffee.net/?p=605
 permalink: /vasquez-rocks/
 map:

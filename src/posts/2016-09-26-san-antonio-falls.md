@@ -4,7 +4,6 @@ title: San Antonio Falls
 date: 2016-09-26T01:53:04+00:00
 author: scott
 excerpt: Mt. Baldy
-layout: post
 guid: http://trailcoffee.net/?p=664
 permalink: /san-antonio-falls/
 map:

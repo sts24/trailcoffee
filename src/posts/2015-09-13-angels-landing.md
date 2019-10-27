@@ -4,7 +4,6 @@ title: Angels Landing
 date: 2015-09-13T18:35:57+00:00
 author: scott
 excerpt: Zion National Park
-layout: post
 guid: http://trailcoffee.net/?p=302
 permalink: /angels-landing/
 map:
