@@ -1,0 +1,17 @@
+// svg sprite icons
+
+.svg-icon {
+    display: block;
+}
+
+@for $size from 1 through 6 {
+    .icon-size-#{$size} {
+        width: ($base_size * $size);
+        height: ($base_size * $size);
+    }
+}
+
+.icon-inline {
+    display: inline-block;
+    vertical-align: middle;
+}

@@ -4,7 +4,7 @@
 {{ content | safe }}
 <ul>
 {% for post in collections.post | reverse %}
-	<li>{{ post.data.title }}</li>
+	<li><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></li>
 {% endfor %}
 </ul>
 {% endblock %}

@@ -1,0 +1,80 @@
+// mixins for layout
+@mixin make_columns ($name){
+	@for $i from 1 through $columns {
+		.col-#{$name}-#{$i} {
+			width: ($base_col * $i);
+		}
+		.col-offset-#{$name}-#{$i}{
+			margin-left: ($base_col * $i);
+		}
+	}
+}
+
+
+
+
+
+// row styles
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	margin: auto;
+	max-width: $page_width;
+}
+	.row-no-wrap {
+		flex-wrap: nowrap;
+	}
+
+	.row-expanded {
+		max-width: none;
+	}
+
+	.row-spaced {
+		justify-content: space-between;
+	}
+
+	.row-center {
+		justify-content: center;
+	}
+
+	.row-vertical-center {
+		align-items: center;
+	}
+
+	.row-top {
+		align-items: flex-start;
+	}
+
+	.row-end {
+		align-items: flex-end;
+	}
+
+
+
+
+
+// columns
+
+// all columns get this
+[class^="col-"]{
+	padding: 0 $base_size;
+	flex: 0 0 auto;
+}
+
+// an auto sized column that wraps to content
+.col-auto {
+	width: auto;
+}
+
+// make column css based on breakpoints set in setup file
+@each $name, $size in $breakpoints {
+	@if $size != '' {
+		@media (min-width: $size){
+			@include make_columns($name);
+		}
+	}
+	@else {
+		@include make_columns($name);
+	}
+}
