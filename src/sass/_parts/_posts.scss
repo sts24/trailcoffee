@@ -6,3 +6,18 @@
 	width: 100%;
 	height: auto;
 }
+
+.post-image-gallery {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns: 100%;
+
+	img {
+		width: 100%;
+		height: auto;
+	}
+
+	@media (min-width: 768px){
+		grid-template-columns: 50% 50%;
+	}
+}

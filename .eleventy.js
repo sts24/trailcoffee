@@ -19,6 +19,18 @@ module.exports = function (config) {
 		});
 	});
 
+	config.addShortcode("postTags", function (tags) {
+		let postTags = '';
+
+		tags.forEach(function (tag) {
+			if (tag !== 'post') {
+				postTags += '<a href="#" class="tag-link">' + tag + '</a>';
+			}
+		});
+
+		return postTags;
+	});
+
 	config.addShortcode("cleanString", function (string) {
 		return string.replace(/<\/?[^>]+(>|$)/g, "");
 	});
