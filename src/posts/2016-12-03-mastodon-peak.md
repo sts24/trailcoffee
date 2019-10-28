@@ -6,20 +6,20 @@ tags:
   - Joshua Tree
 image: /images/uploads/DSCF4004.jpg
 images:
-  - title: 
-    alt: /images/uploads/dscf3991.jpg
-  - title: 
-    alt: /images/uploads/DSCF4001.jpg
-  - title: 
-    alt: /images/uploads/DSCF4007.jpg
-  - title:
-    alt: /images/uploads/DSCF4013.jpg
-  - title:
-    alt: /images/uploads/DSCF4018.jpg
-  - title:
-    alt: /images/uploads/DSCF4021.jpg
-  - title: 
-    alt: /images/uploads/DSCF4025.jpg
+  - alt: 
+    image: /images/uploads/dscf3991.jpg
+  - alt: 
+    image: /images/uploads/DSCF4001.jpg
+  - alt: 
+    image: /images/uploads/DSCF4007.jpg
+  - alt:
+    image: /images/uploads/DSCF4013.jpg
+  - alt:
+    image: /images/uploads/DSCF4018.jpg
+  - alt:
+    image: /images/uploads/DSCF4021.jpg
+  - alt: 
+    image: /images/uploads/DSCF4025.jpg
 ---
 I don’t think I am alone in this, but almost every visit to Joshua Tree National Park has me spending most of my time in the northern, high desert region. This area is home to a high concentration of the tree of the park’s namesake, so it make sense most visitors stay around there. Like most outdoor places I have visited frequently, there comes a point where I want to start seeing what else is around. I imagine if you are reading a hiking blog like this, I am not alone.
 
