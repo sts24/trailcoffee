@@ -4,19 +4,21 @@
 
 <main class="row padding-x-3 post">
 	<article class="col-s-12">
-		<header class="post-header">
-			<h1>{{ title }}</h2>
-			<a href="#">{{ tags }}</a>
+		<header class="post-header margin-bottom-3">
+			<h1 class="margin-x-0">{{ title }}</h2>
+			{% postTags tags %}
 		</header>
 
+		{% if image %}
 		<img src="{{ image }}" class="post-featured-image" />
+		{% endif %}
 
 		{{ content | safe }}
 
 		{% if images %}
-			<div class="image-gallery">
+			<div class="post-image-gallery">
 				{% for img in images %}
-					<img src="{{ img.image }}" alt="{{img.title}}" />
+					<img src="{{ img.image }}" alt="{{img.alt}}" />
 				{% endfor %}
 			</div>
 		{% endif %}

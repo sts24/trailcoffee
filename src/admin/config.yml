@@ -25,4 +25,4 @@ collections:
         widget: "list"
         fields:
           - { label: "Image", name: "image", widget: "image" }
-          - { label: "Alt Title", name: "title", widget: "string" }
+          - { label: "Alt Title", name: "alt", widget: "string" }
