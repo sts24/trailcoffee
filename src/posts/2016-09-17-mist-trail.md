@@ -8,7 +8,7 @@ guid: http://trailcoffee.net/?p=651
 permalink: /mist-trail/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31850.827682449224!2d-119.57446943520263!3d37.731413622048414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd97577fea138769b!2sHappy+Isles+Trailhead!5e1!3m2!1sen!2sus!4v1473641043680'
-image: /wp-content/uploads/2016/09/IMG_3305.jpg
+image: /images/uploads/IMG_3305.jpg
 categories:
   - Uncategorized
 tags:

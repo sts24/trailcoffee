@@ -8,7 +8,7 @@ guid: http://trailcoffee.net/?p=262
 permalink: /rancho-sierra-vista/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33437.49463058332!2d-118.97334350695249!3d34.150803908448154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e8398bb9142f4d%3A0x5b931a1279d0f7fd!2sRancho+Sierra+Vista%2FSatwiwa!5e1!3m2!1sen!2sus!4v1488759631150'
-image: /wp-content/uploads/2015/08/IMG_2557.jpg
+image: /images/uploads/IMG_2557.jpg
 categories:
   - Uncategorized
 tags:

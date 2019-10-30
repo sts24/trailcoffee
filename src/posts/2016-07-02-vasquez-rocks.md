@@ -8,7 +8,7 @@ guid: http://trailcoffee.net/?p=605
 permalink: /vasquez-rocks/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d265549.70750517654!2d-118.45999183627676!3d34.48915970192933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c28aa2e0853473%3A0xe90a5b70501e8dd0!2sVasquez+Rocks+Natural+Area+Park!5e1!3m2!1sen!2sus!4v1467418905965'
-image: /wp-content/uploads/2016/07/IMG_4307.jpg
+image: /images/uploads/IMG_4307.jpg
 categories:
   - Uncategorized
 tags:

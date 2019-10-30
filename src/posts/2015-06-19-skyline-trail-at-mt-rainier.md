@@ -8,7 +8,7 @@ guid: http://trailcoffee.net/?p=128
 permalink: /skyline-trail-at-mt-rainier/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111980.24393705992!2d-121.80570884437512!3d46.785317098747186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7fababd0057de35!2sSkyline+Trail!5e1!3m2!1sen!2sus!4v1488760334167'
-image: /wp-content/uploads/2015/06/DSCF2751.jpg
+image: /images/uploads/DSCF2751.jpg
 categories:
   - Uncategorized
 tags:

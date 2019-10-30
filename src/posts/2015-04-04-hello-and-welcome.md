@@ -6,7 +6,7 @@ author: scott
 excerpt: What is going on here anyway?
 guid: http://outsidecoffee.net/?p=4
 permalink: /hello-and-welcome/
-image: /wp-content/uploads/2015/04/DSCF1338.jpg
+image: /images/uploads/DSCF1338.jpg
 categories:
   - Uncategorized
 ---

@@ -8,7 +8,7 @@ guid: http://trailcoffee.net/?p=231
 permalink: /hill-canyon-in-wildwood-park/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33138.73530436836!2d-118.94824277524621!3d34.22897987103881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e831228ef2c72f%3A0x8933034994623840!2sHill+Canyon+Rd%2C+Camarillo%2C+CA+93012!5e1!3m2!1sen!2sus!4v1488759812928'
-image: /wp-content/uploads/2015/08/IMG_2028.jpg
+image: /images/uploads/IMG_2028.jpg
 categories:
   - Uncategorized
 tags:
