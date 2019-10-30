@@ -1,11 +1,11 @@
 ---
 pagination:
-  data: collections
+  data: collections.posts
   size: 1
   alias: tag
 permalink: /places/{{ tag }}/index.html
 ---
-<h1>Tagged “{{ tag }}”</h1>
+
 
 <ol>
 {% set taglist = collections[ tag ] %}
