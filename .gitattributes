@@ -1,3 +1,4 @@
 src/images/uploads/*.jpg filter=lfs diff=lfs merge=lfs -text
 images/uploads/*.jpg filter=lfs diff=lfs merge=lfs -text
+build/images/uploads/*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
