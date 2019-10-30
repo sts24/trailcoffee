@@ -10,7 +10,7 @@
 		</header>
 
 		{% if image %}
-		<img src="{{ image }}" class="post-featured-image" />
+		<img src="{{ image }}?nf_resize=fit&w=1200" class="post-featured-image" />
 		{% endif %}
 
 		{{ content | safe }}
@@ -18,7 +18,7 @@
 		{% if images %}
 			<div class="post-image-gallery">
 				{% for img in images %}
-					<img src="{{ img.image }}" alt="{{img.alt}}" />
+					<img src="{{ img.image }}?nf_resize=fit&w=600" alt="{{img.alt}}" />
 				{% endfor %}
 			</div>
 		{% endif %}
