@@ -1,16 +1,11 @@
 ---
-id: 292
 title: North Rim Hiking
 date: 2015-09-09T14:51:45+00:00
-author: scott
 excerpt: Grand Canyon National Park
-guid: http://trailcoffee.net/?p=292
 permalink: /north-rim-hiking/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d846791.3657447937!2d-112.61324548093928!3d36.19722810910729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87349e44a842677d%3A0xaef22295648456f8!2sGrand+Canyon+North+Rim+Lodge!5e1!3m2!1sen!2sus!4v1470012094195'
 image: /images/uploads/IMG_2580.jpg
-categories:
-  - Uncategorized
 tags:
   - Arizona
 ---

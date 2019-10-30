@@ -1,17 +1,12 @@
 ---
-id: 680
 title: Bright Angel Trail to 3 Mile House
 date: 2016-10-09T23:45:26+00:00
-author: scott
 excerpt: Grand Canyon South Rim
-guid: http://trailcoffee.net/?p=680
 permalink: /bright-angel-trail-to-3-mile-house/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65105.9222242831!2d-112.17093855639732!3d36.06761223287064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x864e99540608b624!2sBright+Angel+Trailhead!5e1!3m2!1sen!2sus!4v1476056527068'
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65105.9222242831!2d-112.17093855639732!3d36.06761223287064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x864e99540608b624!2sBright+Angel+Trailhead!5e1!3m2!1sen!2sus!4v1476056527068'
 image: /images/uploads/IMG_2663_3097.jpg
-categories:
-  - Uncategorized
 tags:
   - Arizona
 ---

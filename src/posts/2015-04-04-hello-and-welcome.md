@@ -1,14 +1,9 @@
 ---
-id: 4
 title: Hello and Welcome
 date: 2015-04-04T03:44:15+00:00
-author: scott
 excerpt: What is going on here anyway?
-guid: http://outsidecoffee.net/?p=4
 permalink: /hello-and-welcome/
 image: /images/uploads/DSCF1338.jpg
-categories:
-  - Uncategorized
 ---
 It has been a long time goal of mine to launch a website project that would be an outlet of some of my interests. This has been an ongoing thing for many years with many attempts and degrees of longevity. What I have found is that working full time with one and a half jobs, the last thing on my mind is to keep sitting at a computer for another side project. However, there has always been that desire to create something that is completely my own and not built to some one else’s design specs. I think this might be it.
 

@@ -1,18 +1,13 @@
 ---
-id: 693
 title: Santa Cruz Island
 date: 2016-10-17T00:57:26+00:00
-author: scott
 excerpt: Channel Islands National Park
-guid: http://trailcoffee.net/?p=693
 permalink: /santa-cruz-island/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
 image: /images/uploads/IMG_8504.jpg
-categories:
-  - Uncategorized
 tags:
   - Ventura County
 ---

@@ -1,16 +1,11 @@
 ---
-id: 613
 title: Ancient Bristlecone Pine Forest
 date: 2016-07-09T23:38:59+00:00
-author: scott
 excerpt: Inyo National Forest
-guid: http://trailcoffee.net/?p=613
 permalink: /ancient-bristlecone-pine-forest/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d183204.4102566483!2d-118.28094967300551!3d37.393102331626174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80be49e630bb0f4d%3A0x626d864ec13dbdba!2sAncient+Bristlecone+Pine+Forest!5e1!3m2!1sen!2sus!4v1468104988157'
 image: /images/uploads/DSCF2647.jpg
-categories:
-  - Uncategorized
 tags:
   - Eastern Sierra Nevada
 ---
