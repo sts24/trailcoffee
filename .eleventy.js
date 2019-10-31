@@ -1,6 +1,5 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-
 module.exports = function (config) {
 
 	// enable tags from directory to be merged with posts' own tags
@@ -19,12 +18,12 @@ module.exports = function (config) {
 		});
 	});
 
-	config.addShortcode("postTags", function (tags) {
+	config.addShortcode("postTags", function (tags, placeData) {
 		let postTags = '';
 
 		tags.forEach(function (tag) {
 			if (tag !== 'post') {
-				postTags += '<a href="#" class="tag-link">' + tag + '</a>';
+				postTags += '<a href="' + placeData[tag] + '" class="tag-link">' + placeData[tag].fullname + '</a>';
 			}
 		});
 
