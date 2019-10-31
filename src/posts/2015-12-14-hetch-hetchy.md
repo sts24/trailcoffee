@@ -6,6 +6,27 @@ permalink: /hetch-hetchy/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206869.85114214697!2d-119.92752967202861!3d37.94655821003056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDU2JzQ3LjYiTiAxMTnCsDQ3JzE0LjgiVw!5e1!3m2!1sen!2sus!4v1469937600275'
 image: /images/uploads/IMG_9996.jpg
+images:
+  - alt: 
+    image: /images/uploads/IMG_9996.jpg
+  - alt: 
+    image: /images/uploads/IMG_9995.jpg
+  - alt: 
+    image: /images/uploads/IMG_9984.jpg
+  - alt: 
+    image: /images/uploads/IMG_9980.jpg
+  - alt: 
+    image: /images/uploads/IMG_0028.jpg
+  - alt: 
+    image: /images/uploads/IMG_0023.jpg
+  - alt: 
+    image: /images/uploads/IMG_0017.jpg
+  - alt: 
+    image: /images/uploads/IMG_0010.jpg
+  - alt: 
+    image: /images/uploads/IMG_0003.jpg
+  - alt: 
+    image: /images/uploads/IMG_0001.jpg
 tags:
   - yosemite
 ---

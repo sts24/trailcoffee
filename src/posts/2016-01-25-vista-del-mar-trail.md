@@ -6,6 +6,23 @@ permalink: /vista-del-mar-trail/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27129.33560563059!2d-119.00714850290164!3d34.17427605664845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDEwJzI3LjQiTiAxMTjCsDU5JzIyLjciVw!5e1!3m2!1sen!2sus!4v1469937124645'
 image: /images/uploads/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg
+images:
+  - alt: 
+    image: /images/uploads/0B8653EE-5D46-4421-960B-ABEFC6AECE4B.jpg
+  - alt: 
+    image: /images/uploads/2CC3B9FE-BE92-4FB7-976B-52EF44C5D82B.jpg
+  - alt: 
+    image: /images/uploads/556E349E-D8AF-4172-A390-0CE3732998AA.jpg
+  - alt: 
+    image: /images/uploads/6195EDBF-61D1-48A8-B7BF-1C28AA58416A.jpg
+  - alt: 
+    image: /images/uploads/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg
+  - alt: 
+    image: /images/uploads/51122043-2836-43D0-BE17-30F6D2294A1A.jpg
+  - alt: 
+    image: /images/uploads/D8EB7E78-42DB-4156-A0EF-13B097B566E3.jpg
+  - alt: 
+    image: /images/uploads/FD10A29E-012A-4DC9-BC22-65987F9D3B36.jpg
 tags:
   - ventura-county
 ---

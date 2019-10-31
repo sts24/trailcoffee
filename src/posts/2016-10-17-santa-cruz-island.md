@@ -8,6 +8,31 @@ map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
 image: /images/uploads/IMG_8504.jpg
+images:
+  - alt: 
+    image: /images/uploads/IMG_8185.jpg
+  - alt: 
+    image: /images/uploads/IMG_8189.jpg
+  - alt: 
+    image: /images/uploads/IMG_8236.jpg
+  - alt: 
+    image: /images/uploads/IMG_8349.jpg
+  - alt: 
+    image: /images/uploads/IMG_5695.jpg
+  - alt: 
+    image: /images/uploads/IMG_8207.jpg
+  - alt: 
+    image: /images/uploads/IMG_8439.jpg
+  - alt: 
+    image: /images/uploads/IMG_8504.jpg
+  - alt: 
+    image: /images/uploads/IMG_5707.jpg
+  - alt: 
+    image: /images/uploads/IMG_5731.jpg
+  - alt: 
+    image: /images/uploads/IMG_8479.jpg
+  - alt: 
+    image: /images/uploads/IMG_8489.jpg
 tags:
   - ventura-county
 ---
