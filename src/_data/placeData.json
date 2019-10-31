@@ -1,0 +1,38 @@
+{
+	"arizona": {
+		"fullname": "Arizona"
+	},
+	"central-california": {
+		"fullname": "Central California"
+	},
+	"death-valley": {
+		"fullname": "Death Valley"
+	},
+	"eastern-sierra-nevada": {
+		"fullname": "Eastern Sierra Nevada"
+	},
+	"joshua-tree": {
+		"fullname": "Joshua Tree"
+	},
+	"san-bernardino-mountains": {
+		"fullname": "San Bernardino Mountains"
+	},
+	"san-gabriel-mountains": {
+		"fullname": "San Gabriel Mountains"
+	},
+	"santa-monica-mountains": {
+		"fullname": "Santa Monica Mountains"
+	},
+	"utah": {
+		"fullname": "Utah"
+	},
+	"ventura-county": {
+		"fullname": "Ventura County"
+	},
+	"washington": {
+		"fullname": "Washington"
+	},
+	"yosemite": {
+		"fullname": "Yosemite"
+	}
+}
