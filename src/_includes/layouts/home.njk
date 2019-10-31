@@ -1,10 +1,17 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-{{ content | safe }}
-<ul>
-{% for post in collections.post | reverse %}
-	<li><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></li>
-{% endfor %}
-</ul>
+
+<main class="row padding-x-3">
+	<div class="col-s-12">
+
+		<ul>
+		{% for post in collections.post | reverse %}
+			<li><a href="{{ post.data.permalink }}">{{ post.data.title | safe }}</a></li>
+		{% endfor %}
+		</ul>
+
+	</div>
+</main>
+
 {% endblock %}
