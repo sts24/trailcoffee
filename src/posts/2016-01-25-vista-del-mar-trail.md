@@ -7,7 +7,7 @@ map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27129.33560563059!2d-119.00714850290164!3d34.17427605664845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDEwJzI3LjQiTiAxMTjCsDU5JzIyLjciVw!5e1!3m2!1sen!2sus!4v1469937124645'
 image: /images/uploads/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg
 tags:
-  - Ventura County
+  - ventura-county
 ---
 Look anywhere in the hills of the Conejo Valley and there is probably a hiking trail hidden away above the suburban landscape. <a href="http://cosf.org/dos-vientos/">Vista Del Mar Trail in Newbury Park, Ca</a> is one of those many easily accessible trails of the renown open space of the Conejo Valley.
 

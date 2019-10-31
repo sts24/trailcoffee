@@ -8,7 +8,7 @@ map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65105.9222242831!2d-112.17093855639732!3d36.06761223287064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x864e99540608b624!2sBright+Angel+Trailhead!5e1!3m2!1sen!2sus!4v1476056527068'
 image: /images/uploads/IMG_2663_3097.jpg
 tags:
-  - Arizona
+  - arizona
 ---
 I’ve been meaning to write about the Grand Canyon more here. Even though I’ve been to this place several times on both north and south rims, I have never actually down to the bottom. The hikes I have done have only been a few miles, just scraping the surface of the world-renown canyon. I am not sure how much of an expert I can really claim to be about the Grand Canyon. That being said, I do love this place and there are many ways to be an explorer in the National Parks. Not every trip has to be a monumental excursion.
 

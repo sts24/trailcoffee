@@ -9,7 +9,7 @@ map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65828.61696579776!2d-119.59188014550611!3d34.048639137413964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x127c1b43246c7cc!2sScorpion+Anchorage!5e1!3m2!1sen!2sus!4v1476664569902'
 image: /images/uploads/IMG_8504.jpg
 tags:
-  - Ventura County
+  - ventura-county
 ---
 <a href="https://www.nps.gov/chis/planyourvisit/santa-cruz-things-to-do.htm">Santa Cruz Island</a> is the largest of the Channel Islands National Park off the coast of Southern California. This island sits just to the <a href="http://trailcoffee.net/anacapa-island/">west of the smaller Anacapa Island</a> with it’s famous lighthouse. The most popular area to visit is Scorpion Anchorage, which features a dock for the ferries and a campground about a quarter of a mile from shore. This campground is the only site in the island chain that has water available, which makes it an easy place to camp. The Scorpion Anchorage area is also popular for ocean kayakers and scuba divers, as well as those wanting to hike deep into the island.
 

@@ -3,7 +3,7 @@ title: Mastodon Peak
 date: 2016-12-03T00:00:00.000Z
 permalink: /mastodon-peak/
 tags:
-  - Joshua Tree
+  - joshua-tree
 image: /images/uploads/DSCF4004.jpg
 images:
   - alt: Desert Palm Trees at Cottonwood Springs

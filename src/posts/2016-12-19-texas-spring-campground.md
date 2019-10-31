@@ -9,7 +9,7 @@ map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105497.86813759904!2d-116.92926043725434!3d36.45609109469367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c73f0cdb944ebd%3A0xc82c03ec6957c8d3!2sTexas+Spring+Campground!5e1!3m2!1sen!2sus!4v1482111729645'
 image: /images/uploads/IMG_5325.jpg
 tags:
-  - Death Valley
+  - death-valley
 ---
 <em>Trying out something a little different with this post. In addition to writing about all of my favorite hikes, this will begin a series of favorite campgrounds.</em>
 
