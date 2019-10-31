@@ -3,6 +3,13 @@
 }
 
 .site-logo {
+	flex: 0 0 400px;
 	margin-bottom: -3px;
-	max-width: 30vw;
+	display: inline-block;
+
+	img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
 }

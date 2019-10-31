@@ -23,7 +23,7 @@ module.exports = function (config) {
 
 		tags.forEach(function (tag) {
 			if (tag !== 'post') {
-				postTags += '<a href="' + placeData[tag] + '" class="tag-link">' + placeData[tag].fullname + '</a>';
+				postTags += 'More from <a href="/places/' + tag + '/" class="tag-link">' + placeData[tag].fullname + '</a>';
 			}
 		});
 

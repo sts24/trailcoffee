@@ -5,8 +5,9 @@
 <main class="row padding-x-3 post">
 	<article class="col-s-12">
 		<header class="post-header margin-bottom-3">
-			<h1 class="margin-x-0">{{ title }}</h2>
-			{# {% postTags tags, placeData %} #}
+			<h1 class="margin-x-0">{{ title }}</h1>
+			<h2 class="margin-x-0">{{ excerpt }}</h2>
+			{% postTags tags, placeData %}
 		</header>
 
 		{% if image %}

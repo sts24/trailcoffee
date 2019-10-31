@@ -1,15 +1,14 @@
 ---
+layout: layouts/page.njk
 pagination:
-  data: collections.posts
+  data: placeData
   size: 1
-  alias: tag
-permalink: /places/{{ tag }}/index.html
+permalink: /places/{{ pagination.items[0] }}/index.html
 ---
+<h1>{{ placeData[pagination.items].fullname }}</h1>
 
-
-<ol>
-{% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse %}
-  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{% endfor %}
-</ol>
+<ul>
+  {% for post in collections[pagination.items[0]] %}
+    <li><a href="{{ post.data.permalink }}">{{ post.data.title | safe }}</a></li>
+  {% endfor %}
+</ul>
