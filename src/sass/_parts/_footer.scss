@@ -1,0 +1,32 @@
+.site-footer {
+	background-color: var(--color1);
+	color: white;
+}
+
+.site-places {
+	header {
+		color: var(--color2);
+		font-family: var(--primary-font);
+		font-size: rem(36);
+		font-weight: normal;
+		margin-bottom: 2rem;
+	}
+
+	ul {
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		columns: 3 auto;
+
+		li {
+			padding: 0;
+			margin: 0;
+
+			a {
+				color: var(--color2);
+				font-size: rem(21);
+			}
+		}
+	}
+}
