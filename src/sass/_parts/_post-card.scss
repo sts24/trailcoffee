@@ -1,0 +1,53 @@
+.post-card {
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	margin: 2rem 0;
+	padding: 2rem;
+
+	h2 {
+		font-family: var(--primary-font);
+		font-weight: normal;
+		color: var(--color1);
+		margin: 0;
+		font-size: rem(36);
+		position: relative;
+		z-index: 5;
+	}
+
+	.excerpt {
+		font-size: rem(24);
+		color: var(--color2-dark);
+		position: relative;
+		z-index: 5;
+		margin: 0;
+	}
+
+	&::after {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+
+		background-color: var(--color2);
+		opacity: 0.5;
+	}
+}
+
+.post-card-link {
+	display: inline-block;
+
+	&::after {
+		display: inline;
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		z-index: 10;
+	}
+}

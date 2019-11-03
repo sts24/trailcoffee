@@ -1,0 +1,5 @@
+<article class="post-card" style="background-image: url('{{ post.data.image }}?nf_resize=fit&w=800');">
+	<h2>{{ post.data.title | safe }}</h2>
+	<p class="excerpt">{{ post.data.excerpt | safe }}</p>
+	<a href="{{ post.url }}" class="post-card-link"><span class="sr-only">View Post</span></a>
+</article>
