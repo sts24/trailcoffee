@@ -1,0 +1,9 @@
+<nav class="pagination row row-spaced margin-x-2">
+	{% if pagination.nextPageHref %}
+	<a href="{{ pagination.nextPageHref }}">Older Posts</a>
+	{% endif %}
+
+	{% if pagination.previousPageHref %}
+	<a href="{{ pagination.previousPageHref }}">Newer Posts</a>
+	{% endif %}
+</nav>

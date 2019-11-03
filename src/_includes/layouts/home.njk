@@ -5,11 +5,11 @@
 <main class="row padding-x-3">
 	<div class="col-s-12">
 
-		<ul>
-		{% for post in collections.post | reverse %}
-			<li><a href="{{ post.data.permalink }}">{{ post.data.title | safe }}</a></li>
+		{% for post in posts %}
+			{% include "partials/post-card.njk" %}
 		{% endfor %}
-		</ul>
+
+		{% include "partials/pagination.njk" %}
 
 	</div>
 </main>
