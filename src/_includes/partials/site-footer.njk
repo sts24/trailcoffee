@@ -1,16 +1,20 @@
 <footer class="site-footer">
 
 	<nav class="row padding-x-3 site-places">
-		<header>Places</header>
-		<ul>
-			{% for key, place in placeData %}
-				<li><a href="/places/{{ place.slug }}/">{{ place.fullname }}</a></li>
-			{% endfor %}
-		</ul>
+		<div class="col-s-12">
+			<header>Places</header>
+			<ul>
+				{% for key, place in placeData %}
+					<li><a href="/places/{{ place.slug }}/">{{ place.fullname }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
 	</nav>
 
 	<div class="row padding-x-3">
-		<p>&copy;2019 <a href="https://www.smithscott.net">Scott Smith</a></p>
+		<div class="col-s-12">
+			<p>&copy;2019 <a href="https://www.smithscott.net">Scott Smith</a></p>
+		</div>
 	</div>
 
 </footer>
