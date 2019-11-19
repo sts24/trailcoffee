@@ -4,20 +4,20 @@
 	background-size: cover;
 	background-color: var(--color2-dark);
 	margin: 2rem 0;
-	padding: 2rem;
+	padding: 1rem;
 
 	h2 {
 		font-family: var(--primary-font);
 		font-weight: normal;
 		color: var(--color1);
 		margin: 0;
-		font-size: rem(36);
+		font-size: rem(24);
 		position: relative;
 		z-index: 5;
 	}
 
 	.excerpt {
-		font-size: rem(24);
+		font-size: rem(21);
 		color: var(--color2-dark);
 		position: relative;
 		z-index: 5;
@@ -35,6 +35,18 @@
 
 		background-color: var(--color2);
 		opacity: 0.75;
+	}
+
+	@media (min-width: 768px){
+		padding: 2rem;
+
+		h2 {
+			font-size: rem(36);
+		}
+
+		.excerpt {
+			font-size: rem(24);
+		}
 	}
 }
 
