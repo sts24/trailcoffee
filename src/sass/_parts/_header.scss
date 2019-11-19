@@ -2,13 +2,13 @@
 	background-color: var(--color1);
 	background-image: url('/images/contour-lines.svg');
 	background-size: cover;
+	overflow: hidden;
 }
 
 .site-logo {
-	flex: 0 0 100%;
-	max-width: 300px;
-	margin-bottom: -3px;
-	display: inline-block;
+	display: block;
+	max-width: 500px;
+	margin-bottom: -1px;
 
 	img {
 		width: 100%;

@@ -2,6 +2,29 @@
 	font-size: rem(24);
 }
 
+.post-header {
+	h1 {
+		font-family: var(--primary-font);
+		font-size: rem(24);
+		font-weight: normal;
+
+		@media (min-width: 768px){
+			font-size: rem(32);
+		}
+	}
+
+
+	h2 {
+		font-size: rem(18);
+	}
+
+	@media (min-width: 768px){
+		h2 {
+			font-size: rem(24);
+		}
+	}
+}
+
 .post-featured-image {
 	width: 100%;
 	height: auto;
