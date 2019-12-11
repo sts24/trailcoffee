@@ -31,5 +31,9 @@ exports.default = gulp.series(sassCompile);
 exports.build = gulp.series(sassCompile);
 
 exports.watch = function () {
-	gulp.watch('./src/sass/**/*.scss', sassCompile);
+	gulp.watch(
+		'./src/sass/**/*.scss', 
+		{ ignoreInitial: false }, 
+		sassCompile
+	);
 }
