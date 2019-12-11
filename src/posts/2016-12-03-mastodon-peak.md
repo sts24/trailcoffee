@@ -1,6 +1,7 @@
 ---
 title: Mastodon Peak
 date: 2016-12-03T00:00:00.000Z
+excerpt: Joshua Tree National Park
 permalink: /mastodon-peak/
 tags:
   - joshua-tree
