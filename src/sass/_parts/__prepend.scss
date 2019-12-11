@@ -1,7 +1,7 @@
 :root {
 
     // color names
-    --red: #9F120D;
+    --red: #7B1714;
     --green: #2C5214;
     --sand: #D1C1B6;
     --brown: #524034;
@@ -13,7 +13,7 @@
 
 
     // global colors
-    --color1: var(--green);
+    --color1: var(--red);
     --color2: var(--sand);
     --color2-dark: var(--brown);
     --highlight: var(--lightblue);
@@ -23,6 +23,7 @@
     --body-color: var(--color2-dark);
     --body-bg: var(--color2);
     --link-color: var(--red);
+    --heading-color: var(--red);
 
     
     // fonts

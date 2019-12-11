@@ -1,6 +1,10 @@
 .site-footer {
-	background-color: var(--color1);
+	background-color: var(--color2-dark);
 	color: white;
+
+	a {
+		color: var(--highlight);
+	}
 }
 
 .site-places {
