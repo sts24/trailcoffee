@@ -1,24 +1,27 @@
 :root {
 
-    // colors
-    --color1: #2C5214;
-
-    --color2: #D1C1B6;
-    --color2-dark: #524034;
-
+    // color names
     --red: #9F120D;
-
+    --green: #2C5214;
+    --sand: #D1C1B6;
+    --brown: #524034;
     --lightblue: #1a9fe6;
-    --highlight: var(--lightblue);
-
     --lightgray: #ebebeb;
     --midgray: #b1b1b1;
     --darkgray: #333;
     --gray: #2d2d2d;
 
+
+    // global colors
+    --color1: var(--green);
+    --color2: var(--sand);
+    --color2-dark: var(--brown);
+    --highlight: var(--lightblue);
+
+    
+    // layout colors
     --body-color: var(--color2-dark);
     --body-bg: var(--color2);
-
     --link-color: var(--red);
 
     
@@ -28,28 +31,8 @@
     --body-font: var(--secondary-font);
 }
 
-$navy: #102046;
-$orange: #e6621a;
-$teal: #5edd9e;
-$lightgray: #ebebeb;
-$midgray: #b1b1b1;
-$darkgray: #333;
-$lightblue: #1a9fe6;
 
-$color1: $navy;
-$color1-dark: darken($color1,5%);
-$color1-light: lighten($color1,15%);
-
-$highlight: $lightblue;
-$color2: $orange;
-$color-bg: $lightgray;
-$body-color: $darkgray;
-$link-color: $orange;
-
-$gray: #2d2d2d;
-
-// fonts
-
+// sass mixins and functions //
 
 // convert EMs
 
