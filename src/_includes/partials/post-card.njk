@@ -1,5 +1,9 @@
-<article class="post-card" style="background-image: url('{{ post.data.image }}?nf_resize=fit&w=800');">
-	<h2>{{ post.data.title | safe }}</h2>
-	<p class="excerpt">{{ post.data.excerpt | safe }}</p>
-	<a href="{{ post.url }}" class="post-card-link"><span class="sr-only">View Post</span></a>
+<article class="post-card">
+	<a href="{{ post.url }}" class="post-card-img">
+		<img srcset="https://www.trailcoffee.net{{ post.data.image }}?nf_resize=smartcrop&w=800&h=800 2x, https://www.trailcoffee.net{{ post.data.image }}?nf_resize=smartcrop&w=400&h=400 1x" width="400" height="400" />
+	</a>
+	<div class="post-card-meta">
+		<h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
+		<p class="excerpt">{{ post.data.excerpt | safe }}</p>
+	</div>
 </article>

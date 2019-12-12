@@ -3,14 +3,15 @@
 {% block content %}
 
 <main class="row padding-x-3">
-	<div class="col-s-12">
+	<div class="col-s-12 post-card-wrapper">
 
 		{% for post in posts %}
 			{% include "partials/post-card.njk" %}
 		{% endfor %}
 
+	</div>
+	<div class="col-s-12">
 		{% include "partials/pagination.njk" %}
-
 	</div>
 </main>
 
