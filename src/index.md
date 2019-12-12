@@ -4,7 +4,7 @@ title: Trail Coffee
 pageType: home
 pagination:
   data: collections.post
-  size: 10
+  size: 12
   reverse: true
   alias: posts
 ---
