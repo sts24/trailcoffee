@@ -7,8 +7,8 @@ permalink: /places/{{ pagination.items[0] }}/index.html
 ---
 <h1>{{ placeData[pagination.items].fullname }}</h1>
 
-<ul>
+<div class="post-card-wrapper">
   {% for post in collections[pagination.items[0]] %}
-    <li><a href="{{ post.data.permalink }}">{{ post.data.title | safe }}</a></li>
+    {% include "partials/post-card.njk" %}
   {% endfor %}
-</ul>
+</div>
