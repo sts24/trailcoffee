@@ -1,6 +1,5 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cloudinary = require('cloudinary');
-const pluginRespimg = require("eleventy-plugin-respimg");
 
 cloudinary.config({
 	cloud_name: 'stsmith'
@@ -50,10 +49,12 @@ module.exports = function (config) {
 
 
 	config.addShortcode("imgPath", function (filename) {
-		const image = cloudinary.image(filename, {
-			version: "1580148807"
+		const image = cloudinary.url('trailcoffee/' + filename, {
+			version: "1580148807",
+			secure: true
 		});
 		console.log(image);
+		return image;
 	});
 
 
