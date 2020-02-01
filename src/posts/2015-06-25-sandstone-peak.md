@@ -5,28 +5,28 @@ excerpt: Santa Monica Mountains
 permalink: /sandstone-peak/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33320.88111427199!2d-118.94414438397106!3d34.11159625812859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e83b92592187f1%3A0xd4455f19e188b390!2sSandstone+Peak+Trailhead!5e1!3m2!1sen!2sus!4v1488760249990'
-image: /images/uploads/DSCF3062.jpg
+image: DSCF3062.jpg
 images:
   - alt: 
-    image: /images/uploads/DSCF3053.jpg
+    image: DSCF3053.jpg
   - alt: 
-    image: /images/uploads/DSCF3062.jpg
+    image: DSCF3062.jpg
   - alt: 
-    image: /images/uploads/IMG_1493.jpg
+    image: IMG_1493.jpg
   - alt: 
-    image: /images/uploads/IMG_1498.jpg
+    image: IMG_1498.jpg
   - alt: 
-    image: /images/uploads/IMG_1500.jpg
+    image: IMG_1500.jpg
   - alt: 
-    image: /images/uploads/IMG_1502.jpg
+    image: IMG_1502.jpg
   - alt: 
-    image: /images/uploads/IMG_5443-Pano.jpg
+    image: IMG_5443-Pano.jpg
   - alt: 
-    image: /images/uploads/IMG_5446.jpg
+    image: IMG_5446.jpg
   - alt: 
-    image: /images/uploads/IMG_5455.jpg
+    image: IMG_5455.jpg
   - alt: 
-    image: /images/uploads/Photo-May-08-12-31-19-PM.jpg
+    image: Photo-May-08-12-31-19-PM.jpg
 tags:
   - santa-monica-mountains
 ---

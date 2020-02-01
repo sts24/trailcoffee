@@ -13,6 +13,8 @@
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "cloudinary": "^1.19.0",
+    "eleventy-plugin-respimg": "^0.1.2",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-sass": "^4.0.2"

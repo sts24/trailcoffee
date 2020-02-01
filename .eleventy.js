@@ -1,6 +1,20 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const cloudinary = require('cloudinary');
+const pluginRespimg = require("eleventy-plugin-respimg");
+
+cloudinary.config({
+	cloud_name: 'stsmith'
+});
 
 module.exports = function (config) {
+
+	// cloudinary setup
+	config.cloudinaryCloudName = 'stsmith';
+	config.srcsetWidths = [320, 640, 960, 1280, 1600, 1920, 2240, 2560];
+	config.fallbackWidth = 640;
+
+	// plugins
+	config.addPlugin(pluginRespimg);
 
 	// enable tags from directory to be merged with posts' own tags
 	config.setDataDeepMerge(true);
@@ -32,6 +46,14 @@ module.exports = function (config) {
 
 	config.addShortcode("cleanString", function (string) {
 		return string.replace(/<\/?[^>]+(>|$)/g, "");
+	});
+
+
+	config.addShortcode("imgPath", function (filename) {
+		const image = cloudinary.image(filename, {
+			version: "1580148807"
+		});
+		console.log(image);
 	});
 
 

@@ -5,22 +5,22 @@ excerpt: Grand Canyon National Park
 permalink: /north-rim-hiking/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d846791.3657447937!2d-112.61324548093928!3d36.19722810910729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87349e44a842677d%3A0xaef22295648456f8!2sGrand+Canyon+North+Rim+Lodge!5e1!3m2!1sen!2sus!4v1470012094195'
-image: /images/uploads/IMG_2580.jpg
+image: IMG_2580.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_1806.jpg
+    image: IMG_1806.jpg
   - alt: 
-    image: /images/uploads/IMG_2437.jpg
+    image: IMG_2437.jpg
   - alt: 
-    image: /images/uploads/IMG_2447.jpg
+    image: IMG_2447.jpg
   - alt: 
-    image: /images/uploads/IMG_2567.jpg
+    image: IMG_2567.jpg
   - alt: 
-    image: /images/uploads/IMG_2572.jpg
+    image: IMG_2572.jpg
   - alt: 
-    image: /images/uploads/IMG_2580.jpg
+    image: IMG_2580.jpg
   - alt: 
-    image: /images/uploads/IMG_5835.jpg
+    image: IMG_5835.jpg
 tags:
   - arizona
 ---

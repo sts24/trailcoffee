@@ -5,24 +5,24 @@ excerpt: Yosemite National Park
 permalink: /lembert-dome/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63066.307808834084!2d-119.37351364133404!3d37.87617383980742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809659e838aae6cf%3A0x19b775eea9573c2a!2sLembert+Dome!5e1!3m2!1sen!2sus!4v1488759117457'
-image: /images/uploads/IMG_3513.jpg
+image: IMG_3513.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_2176.jpg
+    image: IMG_2176.jpg
   - alt: 
-    image: /images/uploads/IMG_3501.jpg
+    image: IMG_3501.jpg
   - alt: 
-    image: /images/uploads/IMG_3505.jpg
+    image: IMG_3505.jpg
   - alt: 
-    image: /images/uploads/IMG_3513.jpg
+    image: IMG_3513.jpg
   - alt: 
-    image: /images/uploads/IMG_5123.jpg
+    image: IMG_5123.jpg
   - alt: 
-    image: /images/uploads/IMG_5136_3989.jpg
+    image: IMG_5136_3989.jpg
   - alt: 
-    image: /images/uploads/IMG_6149.jpg
+    image: IMG_6149.jpg
   - alt: 
-    image: /images/uploads/STA_5124.jpg
+    image: STA_5124.jpg
 tags:
   - yosemite
 ---

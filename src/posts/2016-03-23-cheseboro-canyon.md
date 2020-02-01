@@ -5,24 +5,24 @@ excerpt: Agoura Hills, Ca
 permalink: /cheseboro-canyon/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13567.56255418007!2d-118.7396335300624!3d34.15626281469889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e826ce7c11c117%3A0xc5a886a28e32bbd7!2s5794+Chesebro+Rd%2C+Agoura+Hills%2C+CA+91301!5e1!3m2!1sen!2sus!4v1467000478017'
-image: /images/uploads/IMG_3121.jpg
+image: IMG_3121.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_3121.jpg
+    image: IMG_3121.jpg
   - alt: 
-    image: /images/uploads/IMG_3124.jpg
+    image: IMG_3124.jpg
   - alt: 
-    image: /images/uploads/IMG_3122.jpg
+    image: IMG_3122.jpg
   - alt: 
-    image: /images/uploads/IMG_3125.jpg
+    image: IMG_3125.jpg
   - alt: 
-    image: /images/uploads/IMG_3126.jpg
+    image: IMG_3126.jpg
   - alt: 
-    image: /images/uploads/IMG_3127.jpg
+    image: IMG_3127.jpg
   - alt: 
-    image: /images/uploads/IMG_3128.jpg
+    image: IMG_3128.jpg
   - alt: 
-    image: /images/uploads/IMG_3880.jpg
+    image: IMG_3880.jpg
 tags:
   - ventura-county
 ---

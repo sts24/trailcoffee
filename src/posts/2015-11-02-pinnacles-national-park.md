@@ -5,32 +5,32 @@ excerpt: Central California
 permalink: /pinnacles-national-park/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102639.8949336496!2d-121.24613471807395!3d36.493870088439415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8092438089cedd9f%3A0x9b82fbee98a844ee!2sPinnacles+National+Park!5e0!3m2!1sen!2sus!4v1470011845769'
-image: /images/uploads/IMG_9376.jpg
+image: IMG_9376.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_0126_21411.jpg
+    image: IMG_0126_21411.jpg
   - alt: 
-    image: /images/uploads/IMG_9157.jpg
+    image: IMG_9157.jpg
   - alt: 
-    image: /images/uploads/IMG_9205.jpg
+    image: IMG_9205.jpg
   - alt: 
-    image: /images/uploads/IMG_9233.jpg
+    image: IMG_9233.jpg
   - alt: 
-    image: /images/uploads/IMG_9266.jpg
+    image: IMG_9266.jpg
   - alt: 
-    image: /images/uploads/IMG_9279.jpg
+    image: IMG_9279.jpg
   - alt: 
-    image: /images/uploads/IMG_9331.jpg
+    image: IMG_9331.jpg
   - alt: 
-    image: /images/uploads/IMG_9336.jpg
+    image: IMG_9336.jpg
   - alt: 
-    image: /images/uploads/IMG_9353.jpg
+    image: IMG_9353.jpg
   - alt: 
-    image: /images/uploads/IMG_9360.jpg
+    image: IMG_9360.jpg
   - alt: 
-    image: /images/uploads/IMG_9365.jpg
+    image: IMG_9365.jpg
   - alt: 
-    image: /images/uploads/IMG_9376.jpg
+    image: IMG_9376.jpg
 tags:
   - central-california
 ---

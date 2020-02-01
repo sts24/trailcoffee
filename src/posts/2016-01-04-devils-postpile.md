@@ -5,22 +5,22 @@ excerpt: Mammoth Lakes
 permalink: /devils-postpile/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103885.82452965398!2d-119.1549458372254!3d37.62509782852979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809672fe7d5a369d%3A0x9a5f7b427fb58dc5!2sDevils+Postpile+National+Monument!5e1!3m2!1sen!2sus!4v1469937216064'
-image: /images/uploads/IMG_0272.jpg
+image: IMG_0272.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_0262.jpg
+    image: IMG_0262.jpg
   - alt: 
-    image: /images/uploads/IMG_0292.jpg
+    image: IMG_0292.jpg
   - alt: 
-    image: /images/uploads/IMG_0272.jpg
+    image: IMG_0272.jpg
   - alt: 
-    image: /images/uploads/IMG_0270.jpg
+    image: IMG_0270.jpg
   - alt: 
-    image: /images/uploads/IMG_0260.jpg
+    image: IMG_0260.jpg
   - alt: 
-    image: /images/uploads/IMG_0298.jpg
+    image: IMG_0298.jpg
   - alt: 
-    image: /images/uploads/IMG_0303.jpg
+    image: IMG_0303.jpg
 tags:
   - eastern-sierra-nevada
 ---

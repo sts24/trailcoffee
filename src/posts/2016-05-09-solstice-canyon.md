@@ -5,32 +5,32 @@ excerpt: Malibu, Ca
 permalink: /solstice-canyon/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13586.560521530733!2d-118.75634073185113!3d34.0378358259367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e81f3c18eaaab1%3A0x19d40c0611a2bd27!2sSolstice+Canyon+Hiking+Trail+Parking!5e1!3m2!1sen!2sus!4v1467000103371'
-image: /images/uploads/DSCF4271.jpg
+image: DSCF4271.jpg
 images:
   - alt: 
-    image: /images/uploads/DSCF4226.jpg
+    image: DSCF4226.jpg
   - alt: 
-    image: /images/uploads/DSCF4233.jpg
+    image: DSCF4233.jpg
   - alt: 
-    image: /images/uploads/DSCF4238.jpg
+    image: DSCF4238.jpg
   - alt: 
-    image: /images/uploads/DSCF4242.jpg
+    image: DSCF4242.jpg
   - alt: 
-    image: /images/uploads/DSCF4243.jpg
+    image: DSCF4243.jpg
   - alt: 
-    image: /images/uploads/DSCF4261.jpg
+    image: DSCF4261.jpg
   - alt: 
-    image: /images/uploads/DSCF4248.jpg
+    image: DSCF4248.jpg
   - alt: 
-    image: /images/uploads/DSCF4253.jpg
+    image: DSCF4253.jpg
   - alt: 
-    image: /images/uploads/DSCF4262.jpg
+    image: DSCF4262.jpg
   - alt: 
-    image: /images/uploads/DSCF4271.jpg
+    image: DSCF4271.jpg
   - alt: 
-    image: /images/uploads/DSCF4274.jpg
+    image: DSCF4274.jpg
   - alt: 
-    image: /images/uploads/DSCF4277.jpg
+    image: DSCF4277.jpg
 tags:
   - santa-monica-mountains
 ---

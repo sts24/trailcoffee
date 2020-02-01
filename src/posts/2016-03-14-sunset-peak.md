@@ -5,28 +5,28 @@ excerpt: San Gabriel Mountains
 permalink: /sunset-peak/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27114.959130129686!2d-117.73003740282557!3d34.21897045587994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDEzJzA4LjMiTiAxMTfCsDQyJzQ1LjEiVw!5e1!3m2!1sen!2sus!4v1467000519233'
-image: /images/uploads/IMG_3030.jpg
+image: IMG_3030.jpg
 images:
   - alt: 
-    image: /images/uploads/IMG_2927.jpg
+    image: IMG_2927.jpg
   - alt: 
-    image: /images/uploads/IMG_2940.jpg
+    image: IMG_2940.jpg
   - alt: 
-    image: /images/uploads/IMG_2946.jpg
+    image: IMG_2946.jpg
   - alt: 
-    image: /images/uploads/IMG_2954.jpg
+    image: IMG_2954.jpg
   - alt: 
-    image: /images/uploads/IMG_2961.jpg
+    image: IMG_2961.jpg
   - alt: 
-    image: /images/uploads/IMG_2991.jpg
+    image: IMG_2991.jpg
   - alt: 
-    image: /images/uploads/IMG_2998.jpg
+    image: IMG_2998.jpg
   - alt: 
-    image: /images/uploads/IMG_3015.jpg
+    image: IMG_3015.jpg
   - alt: 
-    image: /images/uploads/IMG_3028.jpg
+    image: IMG_3028.jpg
   - alt: 
-    image: /images/uploads/IMG_3030.jpg
+    image: IMG_3030.jpg
 tags:
   - san-gabriel-mountains
 ---

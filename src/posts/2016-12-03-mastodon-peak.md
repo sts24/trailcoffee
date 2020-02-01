@@ -5,22 +5,22 @@ excerpt: Joshua Tree National Park
 permalink: /mastodon-peak/
 tags:
   - joshua-tree
-image: /images/uploads/DSCF4004.jpg
+image: DSCF4004.jpg
 images:
   - alt: Desert Palm Trees at Cottonwood Springs
-    image: /images/uploads/dscf3991.jpg
+    image: dscf3991.jpg
   - alt: Leading up to the peak
-    image: /images/uploads/DSCF4001.jpg
+    image: DSCF4001.jpg
   - alt: Looking south towards the Salton Sea
-    image: /images/uploads/DSCF4007.jpg
+    image: DSCF4007.jpg
   - alt: The Salton Sea
-    image: /images/uploads/DSCF4013.jpg
+    image: DSCF4013.jpg
   - alt: Low Desert
-    image: /images/uploads/DSCF4018.jpg
+    image: DSCF4018.jpg
   - alt: Mastodon Mine
-    image: /images/uploads/DSCF4021.jpg
+    image: DSCF4021.jpg
   - alt: A dried river bed
-    image: /images/uploads/DSCF4025.jpg
+    image: DSCF4025.jpg
 ---
 I don’t think I am alone in this, but almost every visit to Joshua Tree National Park has me spending most of my time in the northern, high desert region. This area is home to a high concentration of the tree of the park’s namesake, so it make sense most visitors stay around there. Like most outdoor places I have visited frequently, there comes a point where I want to start seeing what else is around. I imagine if you are reading a hiking blog like this, I am not alone.
 
