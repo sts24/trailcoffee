@@ -11,7 +11,7 @@
 		</header>
 
 		{% if image %}
-		<img src="{{ settings.publicURL }}/{{ image }}?nf_resize=fit&w=1200" class="post-featured-image" />
+		<img src="{% image, '1200', '', 'fit %}" class="post-featured-image" />
 		{% endif %}
 
 		{{ content | safe }}

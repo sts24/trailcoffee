@@ -7,13 +7,6 @@ cloudinary.config({
 
 module.exports = function (config) {
 
-	// cloudinary setup
-	config.cloudinaryCloudName = 'stsmith';
-	config.srcsetWidths = [320, 640, 960, 1280, 1600, 1920, 2240, 2560];
-	config.fallbackWidth = 640;
-
-	// plugins
-	config.addPlugin(pluginRespimg);
 
 	// enable tags from directory to be merged with posts' own tags
 	config.setDataDeepMerge(true);
@@ -48,12 +41,15 @@ module.exports = function (config) {
 	});
 
 
-	config.addShortcode("imgPath", function (filename) {
+	config.addShortcode("imgPath", function (filename, w, h, c) {
 		const image = cloudinary.url('trailcoffee/' + filename, {
 			version: "1580148807",
-			secure: true
+			secure: true,
+			width: w,
+			height: h,
+			crop: c
 		});
-		console.log(image);
+
 		return image;
 	});
 

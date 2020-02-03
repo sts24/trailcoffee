@@ -1,6 +1,6 @@
 <article class="post-card">
 	<a href="{{ post.url }}" class="post-card-img">
-		<img srcset="{% imgPath post.data.image %}" width="400" height="400" />
+		<img srcset="{% imgPath post.data.image, '400', '400', 'fill' %}" width="400" height="400" />
 	</a>
 	<div class="post-card-meta">
 		<h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
