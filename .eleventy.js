@@ -42,14 +42,17 @@ module.exports = function (config) {
 
 
 	config.addShortcode("imgPath", function (filename, w, h, c) {
-		const image = cloudinary.url('trailcoffee/' + filename, {
-			version: "1580148807",
-			secure: true,
-			width: w,
-			height: h,
-			crop: c
-		});
 
+		let options = {};
+
+		if (w !== '') { options['width'] = w; }
+		if (h !== '') { options['height'] = h; }
+		if (c !== '') { options['crop'] = c; }
+
+		options['version'] = "1580148807";
+		options['secure'] = true;
+
+		const image = cloudinary.url('trailcoffee/' + filename, options);
 		return image;
 	});
 
