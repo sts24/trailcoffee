@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "gulp watch & eleventy --serve",
-    "build": "gulp && eleventy",
+    "production": "gulp && eleventy",
     "debug": "DEBUG=Eleventy* eleventy"
   },
   "author": "",
