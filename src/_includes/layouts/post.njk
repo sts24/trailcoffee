@@ -16,6 +16,10 @@
 
 		{{ content | safe }}
 
+		{% if gpx %}
+			<a href="/gpx/{{ gpx }}" class="button margin-bottom-3" download>Download GPX File</a>
+		{% endif %}
+
 		{% if images %}
 			<div class="post-image-gallery">
 				{% for img in images %}

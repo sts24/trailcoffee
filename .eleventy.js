@@ -71,6 +71,7 @@ module.exports = function (config) {
 		passthroughFileCopy: true,
 		layout: 'layouts/page.njk',
 		templateFormats: [
+			"gpx",
 			"njk",
 			"md",
 			"jpg",
