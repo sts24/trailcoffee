@@ -5,6 +5,7 @@ excerpt: Big Bear Lake, Ca
 permalink: /bluff-lake-and-champion-lodgepole-pine/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3298.4667105016633!2d-116.96395208483314!3d34.23663281543799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c4b23fd773b8b5%3A0x74634453cb5215bb!2sCastle+Rock+Trail!5e0!3m2!1sen!2sus!4v1466998884971'
+gpx: Champion-Lodge-Pine.gpx
 image: DSCF4326.jpg
 images:
   - alt: 

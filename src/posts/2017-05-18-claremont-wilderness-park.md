@@ -5,6 +5,7 @@ excerpt: Claremont, Ca
 permalink: /claremont-wilderness-park/
 map:
   - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52565.533038405825!2d-117.74155576905989!3d34.143010331255034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c3306c2179ff63%3A0xbce3f5eaf562dec8!2sClaremont+Hills+Wilderness+Park!5e1!3m2!1sen!2sus!4v1495076037489'
+gpx: Claremont-Wilderness-Trail.gpx
 image: IMG_5245.jpg
 images:
   - alt: 

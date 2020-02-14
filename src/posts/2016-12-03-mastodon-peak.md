@@ -5,6 +5,7 @@ excerpt: Joshua Tree National Park
 permalink: /mastodon-peak/
 tags:
   - joshua-tree
+gpx: Mastodon-Peak.gpx
 image: DSCF4004.jpg
 images:
   - alt: Desert Palm Trees at Cottonwood Springs
