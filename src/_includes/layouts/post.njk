@@ -11,7 +11,11 @@
 		</header>
 
 		{% if image %}
-		<img src="{% imgPath image, '1200', '', 'fit' %}" class="post-featured-image" />
+			<img 
+			srcset="{% imgPath image, '1200', '', 'fit' %} 1200w, {% imgPath image, '2400', '', 'fit' %} 2400w, {% imgPath image, '2400', '', 'fit' %} 2x" 
+			sizes="(max-width: 768px) 1200w" 
+			class="post-featured-image" 
+			/>
 		{% endif %}
 
 		{{ content | safe }}
