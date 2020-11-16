@@ -3,9 +3,11 @@ layout: layouts/page.njk
 pagination:
   data: placeData
   size: 1
-permalink: /places/{{ pagination.items[0] }}/index.html
+  alias: placeName
+pageType: places
+permalink: /places/{{ placeName }}/index.html
 ---
-<h1>{{ placeData[pagination.items].fullname }}</h1>
+<h1>{{ placeData[placeName].fullname }}</h1>
 
 <div class="post-card-wrapper">
   {% for post in collections[pagination.items[0]] %}

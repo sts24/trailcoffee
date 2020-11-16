@@ -7,6 +7,8 @@
 
   {% if pageType == 'home' %}
 		<title>Trail Coffee - A Journal of Hiking Photography</title>
+  {% elif page.fileSlug == 'places' %}
+    <title>{{ placeData[placeName].fullname }} - Trail Coffee</title>
   {% else %}
     <title>{{ title | safe }} - Trail Coffee</title>
 	{% endif %}

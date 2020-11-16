@@ -13,6 +13,13 @@ module.exports = function (config) {
 
 
 	// shortcodes
+
+	config.addShortcode("log", function (data) {
+		console.log(data);
+
+		return true
+	});
+
 	config.addShortcode("timestamp", function (UTC) {
 		let newDate = new Date(UTC);
 
