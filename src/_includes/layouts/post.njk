@@ -18,18 +18,26 @@
 			/>
 		{% endif %}
 
-		{{ content | safe }}
+		<div class="row margin-x-3 post-content">
+			<div class="col-s-12">
+				{{ content | safe }}
 
-		{% if gpx %}
-			<a href="/gpx/{{ gpx }}" class="button margin-bottom-3" download>Download GPX File</a>
-		{% endif %}
+				{% if gpx %}
+					<a href="/gpx/{{ gpx }}" class="button margin-bottom-3" download>Download GPX File</a>
+				{% endif %}
+			</div>
+		</div>
 
 		{% if images %}
-			<div class="post-image-gallery">
-				{% for img in images %}
-					<img src="{% imgPath img.image, '600', '', 'fit' %}?nf_resize=fit&w=600" alt="{{img.alt}}" />
-				{% endfor %}
+		<div class="row margin-x-3">
+			<div class="col-s-12">
+				<div class="post-image-gallery">
+					{% for img in images %}
+						<img src="{% imgPath img.image, '600', '', 'fit' %}?nf_resize=fit&w=600" alt="{{img.alt}}" />
+					{% endfor %}
+				</div>
 			</div>
+		</div>
 		{% endif %}
 
 	</article>
