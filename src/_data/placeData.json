@@ -44,6 +44,7 @@
 		"slug": "washington"
 	},
 	"yosemite": {
-		"fullname": "Yosemite"
+		"fullname": "Yosemite",
+		"slug": "yosemite"
 	}
 }
