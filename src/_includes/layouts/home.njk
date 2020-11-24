@@ -5,8 +5,17 @@
 <main class="row padding-x-3">
 	<div class="col-s-12 post-card-wrapper">
 
-		{% for post in posts %}
-			{% include "partials/post-card.njk" %}
+		{% for key, place in placeData %}
+
+			{% for post in collections[place.slug] %}
+
+				{% if loop.last == true %}
+					{% set placeName = place %}
+					{% include "partials/post-card.njk" %}
+				{% endif %}
+
+			{% endfor %}
+
 		{% endfor %}
 
 	</div>

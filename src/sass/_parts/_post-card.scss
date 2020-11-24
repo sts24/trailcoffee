@@ -13,6 +13,20 @@
 	}
 }
 
+.post-card-header {
+	background-color: var(--heading-color);
+	color: white;
+	font-family: var(--primary-font);
+	font-size: rem(21);
+	font-weight: normal;
+
+	> a {
+		color: white;
+		display: block;
+		padding: 1rem;
+	}
+}
+
 .post-card {
 	background-color: white;
 

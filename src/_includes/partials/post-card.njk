@@ -1,4 +1,9 @@
 <article class="post-card">
+	{% if placeName !== '' %}
+		<header class="post-card-header">
+			<a href="/places/{{ placeName.slug }}/">{{ placeName.fullname }}</a>
+		</header>
+	{% endif %}
 	<a href="{{ post.url }}" class="post-card-img">
 		<img srcset="{% imgPath post.data.image, '400', '400', 'fill' %} 1x, {% imgPath post.data.image, '800', '800', 'fill' %} 2x" width="400" height="400" />
 	</a>
