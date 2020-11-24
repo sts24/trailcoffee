@@ -67,6 +67,9 @@ module.exports = function (config) {
 	// add RSS feed
 	config.addPlugin(pluginRss);
 
+	// passthrough
+	config.addPassthroughCopy("src/_includes/svg");
+
 
 	// options
 
