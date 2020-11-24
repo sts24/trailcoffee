@@ -1,14 +1,19 @@
+{% set titleHeading = 'h2' %}
+
+
 <article class="post-card">
-	{% if placeName !== '' %}
+	{% if placeName !== "" %}
+		{% set titleHeading = 'h3' %}
 		<header class="post-card-header">
-			<a href="/places/{{ placeName.slug }}/">{{ placeName.fullname }}</a>
+			<h2><a href="/places/{{ placeName.slug }}/">{{ placeName.fullname }}</a></h2>
+			<a href="/places/{{ placeName.slug }}/" class="more-places-link" aria-hidden="true" tabindex="-1">See more hikes</a>
 		</header>
 	{% endif %}
-	<a href="{{ post.url }}" class="post-card-img">
-		<img srcset="{% imgPath post.data.image, '400', '400', 'fill' %} 1x, {% imgPath post.data.image, '800', '800', 'fill' %} 2x" width="400" height="400" />
+	<a href="{{ post.url }}" class="post-card-img" aria-label="{{ post.data.title }}">
+		<img srcset="{% imgPath post.data.image, '400', '400', 'fill' %} 1x, {% imgPath post.data.image, '800', '800', 'fill' %} 2x" width="400" height="400" alt="{{ post.data.title }}" />
 	</a>
 	<div class="post-card-meta">
-		<h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
+		<{{ titleHeading }} class="post-title"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></{{ titleHeading }}>
 		<p class="excerpt">{{ post.data.excerpt | safe }}</p>
 	</div>
 </article>

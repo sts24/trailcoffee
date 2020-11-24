@@ -11,6 +11,7 @@ permalink: /places/{{ placeName }}/index.html
 
 <div class="post-card-wrapper">
   {% for post in collections[pagination.items[0]] %}
+    {% set placeName = '' %}
     {% include "partials/post-card.njk" %}
   {% endfor %}
 </div>

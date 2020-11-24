@@ -13,24 +13,65 @@
 	}
 }
 
-.post-card-header {
-	background-color: var(--heading-color);
-	color: white;
-	font-family: var(--primary-font);
-	font-size: rem(21);
-	font-weight: normal;
-
-	> a {
-		color: white;
-		display: block;
-		padding: 1rem;
-	}
-}
-
 .post-card {
 	background-color: white;
 
+	position: relative;
+}
+
+
+.post-card-header {
+	background-color: var(--heading-color);
+	color: white;
+	font-weight: normal;
+	padding: 1rem;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+
 	h2 {
+		font-family: var(--primary-font);
+		font-size: rem(24);
+		margin: 0;
+
+		a {
+			color: white;
+			display: block;
+		}
+		
+	}
+
+	.more-places-link {
+		font-size: rem(14);
+		color: white;
+	}
+}
+
+.post-card-img {
+	display: block;
+
+	img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+}
+
+.post-card-meta {
+	padding: 1rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 100;
+
+	background-color: white;
+	margin: 1rem;
+
+	.post-title {
 		font-family: var(--primary-font);
 		font-weight: normal;
 		color: var(--heading-color);
@@ -54,15 +95,4 @@
 			font-size: rem(18);
 		}
 	}
-}
-
-.post-card-img {
-	img {
-		width: 100%;
-		height: auto;
-	}
-}
-
-.post-card-meta {
-	padding: 1rem;
 }
