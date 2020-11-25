@@ -7,7 +7,7 @@ pagination:
 pageType: places
 permalink: /places/{{ placeName }}/index.html
 ---
-<h1>{{ placeData[placeName].fullname }}</h1>
+<h1 class="places-page-heading" style="background-color: {{ placeData[placeName].color }};">{{ placeData[placeName].fullname }}</h1>
 
 <div class="post-card-wrapper">
   {% for post in collections[pagination.items[0]] %}
