@@ -1,50 +1,62 @@
 {
 	"arizona": {
 		"fullname": "Arizona",
-		"slug": "arizona"
+		"slug": "arizona",
+		"color": "#9a3208"
 	},
 	"central-california": {
 		"fullname": "Central California",
-		"slug": "central-california"
+		"slug": "central-california",
+		"color": "#64B9FF"
 	},
 	"death-valley": {
 		"fullname": "Death Valley",
-		"slug": "death-valley"
+		"slug": "death-valley",
+		"color": "#713608"
 	},
 	"eastern-sierra-nevada": {
 		"fullname": "Eastern Sierra Nevada",
-		"slug": "eastern-sierra-nevada"
+		"slug": "eastern-sierra-nevada",
+		"color": "#2D878F"
 	},
 	"joshua-tree": {
 		"fullname": "Joshua Tree",
-		"slug": "joshua-tree"
+		"slug": "joshua-tree",
+		"color": "#ea9243"
 	},
 	"san-bernardino-mountains": {
 		"fullname": "San Bernardino Mountains",
-		"slug": "san-bernardino-mountains"
+		"slug": "san-bernardino-mountains",
+		"color": "#C4BF55"
 	},
 	"san-gabriel-mountains": {
 		"fullname": "San Gabriel Mountains",
-		"slug": "san-gabriel-mountains"
+		"slug": "san-gabriel-mountains",
+		"color": "#6c684b"
 	},
 	"santa-monica-mountains": {
 		"fullname": "Santa Monica Mountains",
-		"slug": "santa-monica-mountains"
+		"slug": "santa-monica-mountains",
+		"color": "#9c6617"
 	},
 	"utah": {
 		"fullname": "Utah",
-		"slug": "utah"
+		"slug": "utah",
+		"color": "#d8760c"
 	},
 	"ventura-county": {
 		"fullname": "Ventura County",
-		"slug": "ventura-county"
+		"slug": "ventura-county",
+		"color": "#547521"
 	},
 	"washington": {
 		"fullname": "Washington",
-		"slug": "washington"
+		"slug": "washington",
+		"color": "#1c3a36"
 	},
 	"yosemite": {
 		"fullname": "Yosemite",
-		"slug": "yosemite"
+		"slug": "yosemite",
+		"color": "#747D8E"
 	}
 }
