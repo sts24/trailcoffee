@@ -3,8 +3,7 @@ title: Elizabeth Lake
 date: 2016-01-31T23:35:27+00:00
 excerpt: Tuolumne Meadows
 permalink: /elizabeth-lake/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51788.90547422372!2d-119.4047092698143!3d37.844942015892485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80965901b9f6fcbd%3A0xface8ac20c007ed1!2sElizabeth+Lake!5e1!3m2!1sen!2sus!4v1469936740757'
+coords: '-119.4047092698143,37.844942015892485'
 image: IMG_5091_4139.jpg
 images:
   - alt: 

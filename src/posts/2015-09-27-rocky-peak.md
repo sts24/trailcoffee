@@ -3,8 +3,7 @@ title: Rocky Peak
 date: 2015-09-27T23:30:20+00:00
 excerpt: Simi Valley, Ca
 permalink: /rocky-peak/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2076.8284618796497!2d-118.63760541189211!3d34.26832744643703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfa6526ed349556a5!2sRocky+Peak+Trailhead!5e1!3m2!1sen!2sus!4v1488759238479'
+coords: '-118.63760541189211,34.26832744643703'
 image: IMG_9093.jpg
 images:
   - alt: 

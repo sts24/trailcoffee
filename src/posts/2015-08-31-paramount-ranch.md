@@ -3,8 +3,7 @@ title: Paramount Ranch
 date: 2015-08-31T02:08:24+00:00
 excerpt: Santa Monica Mountains
 permalink: /paramount-ranch/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d66286.70665460415!2d-118.7911216783056!3d34.115585644331524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e8216653a7b697%3A0xa33b5c9ce078809e!2sParamount+Ranch!5e1!3m2!1sen!2sus!4v1488759390745'
+coords: '-118.7911216783056,34.115585644331524'
 image: DSCF1835.jpg
 images:
   - alt: 

@@ -3,8 +3,7 @@ title: Angels Landing
 date: 2015-09-13T18:35:57+00:00
 excerpt: Zion National Park
 permalink: /angels-landing/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.799477402784!2d-112.95225058476079!3d37.27181784870906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cac178d65e860d%3A0x3c498a7773008a8a!2sAngels+Landing+Trail%2C+Hurricane%2C+UT+84737!5e1!3m2!1sen!2sus!4v1470012023056'
+coords: '-112.95225058476079,37.27181784870906'
 image: IMG_2341.jpg
 images:
   - alt: 

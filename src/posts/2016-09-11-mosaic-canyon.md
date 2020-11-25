@@ -3,8 +3,7 @@ title: Mosaic Canyon
 date: 2016-09-11T20:38:04+00:00
 excerpt: Death Valley National Park
 permalink: /mosaic-canyon/
-map:
-  - 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d151761.944417954!2d-117.17234269906028!3d36.556701278961796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6eacc1b52b409905!2sMosaic+Canyon+Trail!5e1!3m2!1sen!2sus!4v1473623849615'
+coords: '-117.17234269906028,36.556701278961796'
 image: IMG_5180_45396.jpg
 images:
   - alt: 
