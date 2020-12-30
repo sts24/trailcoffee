@@ -1,0 +1,14 @@
+---
+permalink: search.json
+---
+{"search" : [
+{%- for item in collections.post -%}
+  {
+    "url" : "{{ item.url }}",
+    "title" : "{{ item.data.title }}",
+	"excerpt" : "{{ item.data.excerpt }}",
+	"tags" : "{{ item.data.tags }}",
+    "text" : "{{ (item.data.title + " " + item.templateContent) | striptags(false) | escape }}"
+  }{% if not loop.last %},{% else %}{%- endif -%}
+{%- endfor -%}
+]}
