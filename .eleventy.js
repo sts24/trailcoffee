@@ -69,6 +69,7 @@ module.exports = function (config) {
 
 	// passthrough
 	config.addPassthroughCopy("src/_includes/svg");
+	config.addPassthroughCopy("src/_includes/assets");
 
 
 	// options
