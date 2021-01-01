@@ -1,7 +1,7 @@
 <form class="site-search-wrapper" x-data="search()" x-init="init()">
 
 	<label for="site-search">Search Trail Coffee</label>
-	<input id="site-search" name="search" type="search" class="site-search-field" x-model="searchTerm" x-on:keyup="getSearchData($el)" />
+	<input id="site-search" name="search" type="search" class="site-search-field" x-model="searchTerm" x-on:keyup="getSearchData($el)" x-on:keyup.escape="searchTerm = ''; searchResults = []" />
 	{# <button type="submit">Search</button> #}
 
 

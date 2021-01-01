@@ -20,7 +20,7 @@
 	border-radius: 4px;
 	font-size: 1rem;
 	padding: 0.25rem 0.5rem;
-	border: 0;
+	border: 1px solid var(--lightgray);
 
 	&:focus {
 		box-shadow: 0 0 0 2px var(--highlight);
@@ -30,12 +30,16 @@
 .site-search-results {
 	position: absolute;
 	z-index: 2000;
-	margin: 0;
+	margin: 2px 0 0 0;
 	padding: 0;
 	list-style: none;
 	background: white;
 	left: 0.5rem;
 	right: 0.5rem;
+
+	border: 1px solid var(--gray);
+
+	border-radius: 4px;
 
 	> li {
 		padding: 0;
@@ -46,7 +50,7 @@
 			padding: 0.5rem;
 			color: var(--highlight);
 
-			&:hover {
+			&:hover, &:focus {
 				background: var(--highlight);
 				color: white;
 				text-decoration: none;

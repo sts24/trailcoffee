@@ -1,31 +1,23 @@
 function search(){
 	return {
 		searchTerm: '',
-		allSearchTerms: [],
+		searchIndex: [],
 		searchResults: [],
 		init() {
 
-			let $this = this;
-
+			// get search index data
 			fetch('/search.json')
 				.then(response => response.json())
 				.then(res => {
-
-					Object.values(res.search).forEach(function(item){
-						$this.allSearchTerms.push(item);
-					});
-
-					//this.allSearchTerms = res.search;
-
-					return true
+					this.searchIndex = res.search;
 				});
 
 		},
-		getSearchData() {
+		getSearchData(e) {
 
 			if(this.searchTerm.length > 3){
 				const searchInput = this.searchTerm.toLowerCase();
-				const searchData = JSON.parse(JSON.stringify(this.allSearchTerms));
+				const searchData = JSON.parse(JSON.stringify(this.searchIndex));
 
 				this.searchResults = [];
 
@@ -35,10 +27,42 @@ function search(){
 					let results = searchString.includes(searchInput);
 
 					if(results == true){
-						console.log(item);
 						this.searchResults.push(item);
 					}
+
 				});
+
+				this.setupKeyboardControl(e);
+			}
+
+		},
+		setupKeyboardControl(e){
+
+			const resultItems = e.querySelectorAll('.site-search-results > li > a');
+
+			if(resultItems.length > 0){
+
+				const resultsTotal = resultItems.length;
+				let focusIndex = 0;
+				resultItems[focusIndex].focus();
+
+				window.addEventListener('keyup', event => {
+					if(event.code == 'ArrowDown'){
+						focusIndex++;
+						if(focusIndex < resultsTotal){	
+							resultItems[focusIndex].focus();
+						}
+						return false;
+					}
+					else if(event.code == 'ArrowUp'){
+						focusIndex--;
+						if(focusIndex >= 0){	
+							resultItems[focusIndex].focus();
+						}
+						return false;
+					}
+				}, false)
+
 			}
 
 		}
