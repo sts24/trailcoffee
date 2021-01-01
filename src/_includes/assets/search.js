@@ -47,21 +47,24 @@ function search(){
 				resultItems[focusIndex].focus();
 
 				window.addEventListener('keyup', event => {
+					event.preventDefault();
+
 					if(event.code == 'ArrowDown'){
 						focusIndex++;
 						if(focusIndex < resultsTotal){	
 							resultItems[focusIndex].focus();
 						}
-						return false;
 					}
 					else if(event.code == 'ArrowUp'){
 						focusIndex--;
 						if(focusIndex >= 0){	
 							resultItems[focusIndex].focus();
 						}
-						return false;
 					}
-				}, false)
+
+					return false
+
+				}, false);
 
 			}
 
