@@ -33,6 +33,8 @@ function search(){
 				});
 
 				this.setupKeyboardControl(e);
+			} else if(this.searchTerm.length <= 3){
+				this.removeKeyboardControl();
 			}
 
 		},
@@ -46,28 +48,31 @@ function search(){
 				let focusIndex = 0;
 				resultItems[focusIndex].focus();
 
-				window.addEventListener('keyup', event => {
-					event.preventDefault();
-
-					if(event.code == 'ArrowDown'){
-						focusIndex++;
-						if(focusIndex < resultsTotal){	
-							resultItems[focusIndex].focus();
-						}
-					}
-					else if(event.code == 'ArrowUp'){
-						focusIndex--;
-						if(focusIndex >= 0){	
-							resultItems[focusIndex].focus();
-						}
-					}
-
-					return false
-
-				}, false);
+				document.addEventListener('keydown', this.searchResultsKeyboardControl, false);
 
 			}
 
+		},
+		removeKeyboardControl(){
+			document.removeEventListener('keydown', this.searchResultsKeyboardControl);
+		},
+		searchResultsKeyboardControl(event){
+			event.preventDefault();
+
+			if(event.code == 'ArrowDown'){
+				if(focusIndex < resultsTotal){
+					focusIndex++;	
+					resultItems[focusIndex].focus();
+				}
+			}
+			else if(event.code == 'ArrowUp'){
+				if(focusIndex >= 0){
+					focusIndex--;	
+					resultItems[focusIndex].focus();
+				}
+			}
+
+			return false
 		}
 	}
 }
