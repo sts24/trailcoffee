@@ -11,6 +11,8 @@ sections:
   match: "**/*.md"
   exclude: posts.json
   new_doc_ext: md
+  templates:
+  - post
 upload_dir: src/images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
