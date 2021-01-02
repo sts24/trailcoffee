@@ -1,0 +1,38 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: coords
+  label: coords
+- type: text
+  name: gpx
+  label: gpx
+- type: file
+  name: image
+  label: image
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: text
+    name: alt
+    label: alt
+  - type: file
+    name: image
+    label: image
+- type: list
+  name: tags
+  label: tags
