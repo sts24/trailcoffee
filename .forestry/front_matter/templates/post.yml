@@ -1,31 +1,44 @@
 ---
 label: Post
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    required: true
+  default: now
 - type: text
   name: excerpt
-  label: excerpt
+  label: Excerpt
+  description: Short description of this place
+  config:
+    required: true
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
+  config:
+    required: true
 - type: text
   name: coords
-  label: coords
+  label: Coordinates
+  description: Latitude, Longitude
 - type: text
   name: gpx
-  label: gpx
+  label: GPX File
+  description: Name of GPX file
 - type: file
   name: image
-  label: image
+  label: Featured Image
 - type: field_group_list
   name: images
-  label: images
+  label: Image Gallery
   fields:
   - type: text
     name: alt
@@ -35,4 +48,8 @@ fields:
     label: image
 - type: list
   name: tags
-  label: tags
+  label: Region Tag
+  config:
+    use_select: false
+    source:
+      type: simple
