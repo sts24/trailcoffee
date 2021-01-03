@@ -1,6 +1,6 @@
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var autoprefixer = require('gulp-autoprefixer');
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const uglify = require("gulp-uglify");
 
 // files
 let sassFiles = './src/sass/*.scss';
@@ -9,18 +9,14 @@ let sassFiles = './src/sass/*.scss';
 // SASS
 
 function sassCompile(cb) {
-	cb();
 
 	gulp.src(sassFiles)
 		.pipe(sass({
 			outputStyle: 'compressed'
 		}).on('error', sass.logError))
-		.pipe(autoprefixer({
-			cascade: false
-		}))
-		.pipe(gulp.dest('./build/css/'));
+		.pipe(gulp.dest('./build/css/tc.css'));
 
-
+	cb();
 }
 
 
