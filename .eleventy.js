@@ -71,6 +71,8 @@ module.exports = function (config) {
 	config.addPassthroughCopy("src/_includes/svg");
 	config.addPassthroughCopy("src/_includes/assets");
 
+	// watch
+	config.addWatchTarget("./src/sass/");
 
 	// options
 
