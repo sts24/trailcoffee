@@ -53,3 +53,5 @@ fields:
     use_select: false
     source:
       type: simple
+pages:
+- src/posts/test.md

@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/_data/settings.json
   label: Settings
-  match: "**/*"
 - type: directory
   path: src/posts
   label: Posts
