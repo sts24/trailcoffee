@@ -1,3 +1,13 @@
+.special-message {
+	background: black;
+	color: white;
+
+	@media (min-width: 768px){
+		text-align: center;
+		font-size: rem(18);
+	}
+}
+
 a {
 	color: var(--link-color);
 	text-decoration: none;
