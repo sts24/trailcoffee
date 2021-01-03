@@ -6,7 +6,8 @@
   "scripts": {
     "start": "gulp watch & eleventy --serve",
     "production": "gulp && eleventy",
-    "debug": "DEBUG=Eleventy* eleventy"
+    "debug": "DEBUG=Eleventy* eleventy",
+    "clean": "rm -rf dist"
   },
   "author": "",
   "license": "ISC",
@@ -16,9 +17,13 @@
     "cloudinary": "^1.23.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "devDependencies": {
+    "gulp-minify": "^3.1.0"
+  }
 }
