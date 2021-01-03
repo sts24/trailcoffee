@@ -6,16 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   {% if pageType == 'home' %}
-		<title>Trail Coffee - A Journal of Hiking Photography</title>
+		<title>{{ settings.siteName }} - {{ settings.description }}</title>
   {% elif page.fileSlug == 'places' %}
-    <title>{{ placeData[placeName].fullname }} - Trail Coffee</title>
+    <title>{{ placeData[placeName].fullname }} - {{ settings.siteName }}</title>
   {% else %}
-    <title>{{ title | safe }} - Trail Coffee</title>
+    <title>{{ title | safe }} - {{ settings.siteName }}</title>
 	{% endif %}
+
+  <meta name="description" content="{{ settings.description }}">
 
   <link rel="icon" type="image/png" href="/images/favicon.png">
   <link rel="apple-touch-icon" href="/images/site-icon.png">
-  <link rel="alternate" type="application/rss+xml" title="RSS Feed for Trail Coffee" href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ settings.siteName }}" href="/feed.xml" />
 
 	<link rel="stylesheet" type="text/css" href="/css/tc.css" />
 
@@ -27,6 +29,10 @@
 
 </head>
 <body>
+
+  {% if settings.specialMessage %}
+  <div class="padding-1 special-message">{{ settings.specialMessage }}</div>
+  {% endif %}
 
   {% include "partials/site-header.njk" %}
   
