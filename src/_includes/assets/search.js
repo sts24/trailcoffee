@@ -1,4 +1,7 @@
-function search(){
+const Alpine = require('alpinejs');
+
+
+window.search = function(){
 	return {
 		searchTerm: '',
 		searchIndex: [],
