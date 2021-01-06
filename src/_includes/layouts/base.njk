@@ -19,12 +19,12 @@
   <link rel="apple-touch-icon" href="/images/site-icon.png">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ settings.siteName }}" href="/feed.xml" />
 
-	<link rel="stylesheet" type="text/css" href="/css/tc.css" />
+	<link rel="stylesheet" type="text/css" href="/css/tc.css{% cacheBuster %}" />
 
   {% block head %}
   {% endblock %}
 
-  <script src="/js/search.min.js" defer></script>
+  <script src="/js/search.min.js{% cacheBuster %}" defer></script>
 
 </head>
 <body>
@@ -39,10 +39,6 @@
   {% endblock content %}
   
   {% include "partials/site-footer.njk" %}
-
-
-
-
 
 </body>
 </html>
