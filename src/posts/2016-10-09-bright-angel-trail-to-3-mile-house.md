@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Bright Angel Trail to 3 Mile House
 date: 2016-10-09T23:45:26+00:00
 excerpt: Grand Canyon South Rim
