@@ -8,6 +8,9 @@ fields:
   label: Title
   config:
     required: true
+- name: eleventyExcludeFromCollections
+  type: boolean
+  label: Published
 - type: datetime
   name: date
   label: Date
