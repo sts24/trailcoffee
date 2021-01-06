@@ -1,39 +1,62 @@
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var autoprefixer = require('gulp-autoprefixer');
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const bro = require('gulp-bro');
+const minify = require('gulp-minify');
+
 
 // files
-let sassFiles = './src/sass/*.scss';
+const sassFiles = './src/sass/*.scss';
+const jsFiles = './src/_includes/assets/*.js';
+
+
+// JS
+function jsCompile(cb) {
+
+	gulp.src(jsFiles)
+		.pipe(bro())
+		.pipe(minify({
+			ext:{
+				src:'',
+				min:'.min.js'
+			}
+		}))
+		.pipe(gulp.dest('./build/js/'));
+
+	cb();
+
+}
 
 
 // SASS
 
 function sassCompile(cb) {
-	cb();
 
 	gulp.src(sassFiles)
 		.pipe(sass({
 			outputStyle: 'compressed'
 		}).on('error', sass.logError))
-		.pipe(autoprefixer({
-			cascade: false
-		}))
 		.pipe(gulp.dest('./build/css/'));
 
-
+	cb();
 }
 
 
 
 // gulp tasks
-exports.default = gulp.series(sassCompile);
+exports.default = gulp.series(jsCompile, sassCompile);
 
-exports.build = gulp.series(sassCompile);
+exports.build = gulp.series(jsCompile, sassCompile);
 
 exports.watch = function () {
 	gulp.watch(
-		'./src/sass/**/*.scss', 
+		sassFiles, 
 		{ ignoreInitial: false }, 
 		sassCompile
+	);
+
+	gulp.watch(
+		jsFiles, 
+		{ ignoreInitial: false }, 
+		jsCompile
 	);
 }

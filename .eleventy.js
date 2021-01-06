@@ -14,6 +14,14 @@ module.exports = function (config) {
 
 	// shortcodes
 
+	config.addShortcode("cacheBuster", function(){
+
+		let newDate = Date.now();
+
+		return '?v='+newDate;
+
+	});
+
 	config.addShortcode("log", function (data) {
 		console.log(data);
 
