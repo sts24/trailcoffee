@@ -10,7 +10,8 @@ fields:
     required: true
 - name: eleventyExcludeFromCollections
   type: boolean
-  label: Published
+  label: Draft
+  default: false
 - type: datetime
   name: date
   label: Date
