@@ -76,11 +76,11 @@ module.exports = function (config) {
 	config.addPlugin(pluginRss);
 
 	// passthrough
-	config.addPassthroughCopy("src/_includes/svg");
-	config.addPassthroughCopy("src/_includes/assets");
+	config.addPassthroughCopy("./src/_includes/svg");
+	config.addPassthroughCopy({ "./src/_assets/fonts": "assets/fonts" });
 
 	// watch
-	config.addWatchTarget("./src/sass/");
+	config.addWatchTarget("./src/_assets/sass/");
 
 	// options
 

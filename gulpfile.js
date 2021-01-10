@@ -5,8 +5,8 @@ const minify = require('gulp-minify');
 
 
 // files
-const sassFiles = './src/sass/*.scss';
-const jsFiles = './src/_includes/assets/*.js';
+const sassFiles = './src/_assets/sass/*.scss';
+const jsFiles = './src/_assets/js/*.js';
 
 
 // JS
@@ -20,7 +20,7 @@ function jsCompile(cb) {
 				min:'.min.js'
 			}
 		}))
-		.pipe(gulp.dest('./build/js/'));
+		.pipe(gulp.dest('./build/assets/js/'));
 
 	cb();
 
@@ -35,7 +35,7 @@ function sassCompile(cb) {
 		.pipe(sass({
 			outputStyle: 'compressed'
 		}).on('error', sass.logError))
-		.pipe(gulp.dest('./build/css/'));
+		.pipe(gulp.dest('./build/assets/css/'));
 
 	cb();
 }
