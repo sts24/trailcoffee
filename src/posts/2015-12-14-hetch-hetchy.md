@@ -3,7 +3,7 @@ title: Hetch Hetchy
 date: 2015-12-14T02:11:03+00:00
 excerpt: Yosemite National Park
 permalink: /hetch-hetchy/
-coords: '37.94655821003056,-119.92752967202861'
+coords: '37.94659423783129, -119.78741013912882'
 image: IMG_9996.jpg
 images:
   - alt: 

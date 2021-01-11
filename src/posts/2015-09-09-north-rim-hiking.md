@@ -3,7 +3,7 @@ title: North Rim Hiking
 date: 2015-09-09T14:51:45+00:00
 excerpt: Grand Canyon National Park
 permalink: /north-rim-hiking/
-coords: '36.19722810910729,-112.61324548093928'
+coords: '36.20208048147961, -112.0523433711914'
 image: IMG_2580.jpg
 images:
   - alt: 

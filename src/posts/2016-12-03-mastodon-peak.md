@@ -3,6 +3,7 @@ title: Mastodon Peak
 date: 2016-12-03T00:00:00.000Z
 excerpt: Joshua Tree National Park
 permalink: /mastodon-peak/
+coords: '33.73693937064678, -115.8105821522628'
 tags:
   - joshua-tree
 gpx: Mastodon-Peak.gpx

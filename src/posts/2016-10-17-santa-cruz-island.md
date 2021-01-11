@@ -3,7 +3,7 @@ title: Santa Cruz Island
 date: 2016-10-17T00:57:26+00:00
 excerpt: Channel Islands National Park
 permalink: /santa-cruz-island/
-coords: '34.048639137413964,-119.59188014550611'
+coords: '34.04907191537968, -119.55644522575739'
 image: IMG_8504.jpg
 images:
   - alt: 
