@@ -57,13 +57,5 @@ fields:
     use_select: false
     source:
       type: simple
-- name: test
-  type: blocks
-  label: test
-  template_types:
-  - post
-  config:
-    min: 
-    max: 
 pages:
 - src/posts/mount-pinos.md
