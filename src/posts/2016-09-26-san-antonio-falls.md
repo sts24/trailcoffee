@@ -3,7 +3,7 @@ title: San Antonio Falls
 date: 2016-09-26T01:53:04+00:00
 excerpt: Mt. Baldy
 permalink: /san-antonio-falls/
-coords: '-117.76729347033292,34.26647661179057'
+coords: '34.27064350585318, -117.63273246040066'
 image: DSCF4416.jpg
 images:
   - alt: 

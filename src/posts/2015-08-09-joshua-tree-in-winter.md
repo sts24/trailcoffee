@@ -3,7 +3,7 @@ title: Joshua Tree in Winter
 date: 2015-08-09T18:03:33+00:00
 excerpt: Joshua Tree National Park
 permalink: /joshua-tree-in-winter/
-coords: '-116.00067068264576,33.900215282674814'
+coords: '34.011541438894824, -116.16746137441292'
 image: IMG_5502.jpg
 images:
   - alt: 

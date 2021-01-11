@@ -3,7 +3,7 @@ title: Rancho Sierra Vista
 date: 2015-08-18T02:39:29+00:00
 excerpt: Newbury Park, Ca
 permalink: /rancho-sierra-vista/
-coords: '-118.97334350695249,34.150803908448154'
+coords: '34.15270497954094, -118.96634528072882'
 gpx: Sycamore-Canyon-Falls-Newbury-Park.gpx
 image: IMG_2557.jpg
 images:

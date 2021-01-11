@@ -3,7 +3,7 @@ title: Ray Miller Trail
 date: 2017-02-05T19:51:07+00:00
 excerpt: Pt Mugu State Park
 permalink: /ray-miller-trail/
-coords: '-119.10653702095534,34.08629205061949'
+coords: '34.086339130174956, -119.03661247161035'
 gpx: Ray-Miller-Trail.gpx
 image: DSCF4950.jpg
 images:

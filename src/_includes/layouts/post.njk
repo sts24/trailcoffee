@@ -5,6 +5,7 @@
 	{% if coords %}
 		<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
 		<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+		<script src="/assets/js/maps.js" defer></script>
 	{% endif %}
 
 {% endblock %}
@@ -39,25 +40,7 @@
 		
 		{% if coords %}
 
-			<div id="map" class="post-map-view"></div>
-			<script>
-				mapboxgl.accessToken = 'pk.eyJ1Ijoic3RzMjQiLCJhIjoiOVB0MlNrbyJ9.aIGsCG9-ISYzL-jNTaz5cg';
-				var map = new mapboxgl.Map({
-					container: 'map',
-					style: 'mapbox://styles/mapbox/outdoors-v11',
-					center: [ {{ coords}} ],
-					zoom: 11
-				});
-
-				var marker = new mapboxgl.Marker()
-				.setLngLat([ {{ coords}} ])
-				.addTo(map);
-
-				var nav = new mapboxgl.NavigationControl();
-				map.addControl(nav, 'top-left');
-
-				map.scrollZoom.disable();
-			</script>
+			<div id="map" class="post-map-view" data-coords="{{ coords }}"></div>
 
 		{% endif %}
 

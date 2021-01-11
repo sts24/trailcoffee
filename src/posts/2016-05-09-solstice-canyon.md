@@ -3,7 +3,7 @@ title: Solstice Canyon
 date: 2016-05-09T03:40:54+00:00
 excerpt: Malibu, Ca
 permalink: /solstice-canyon/
-coords: '-118.75634073185113,34.0378358259367'
+coords: '34.0377171118512, -118.74739945912927'
 gpx: Solstice-Canyon.gpx
 image: DSCF4271.jpg
 images:

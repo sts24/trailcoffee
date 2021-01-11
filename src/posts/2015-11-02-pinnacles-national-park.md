@@ -3,7 +3,7 @@ title: Pinnacles National Park
 date: 2015-11-02T01:29:54+00:00
 excerpt: Central California
 permalink: /pinnacles-national-park/
-coords: '-121.24613471807395,36.493870088439415'
+coords: '36.49067876612718, -121.14853961714462'
 image: IMG_9376.jpg
 images:
   - alt: 

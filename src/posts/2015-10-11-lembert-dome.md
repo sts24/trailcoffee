@@ -3,7 +3,7 @@ title: Lembert Dome
 date: 2015-10-11T22:24:14+00:00
 excerpt: Yosemite National Park
 permalink: /lembert-dome/
-coords: '-119.37351364133404,37.87617383980742'
+coords: '37.880560884678495, -119.3489308175895'
 image: IMG_3513.jpg
 images:
   - alt: 

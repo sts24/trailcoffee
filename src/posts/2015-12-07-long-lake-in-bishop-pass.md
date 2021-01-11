@@ -3,7 +3,7 @@ title: Long Lake
 date: 2015-12-07T01:44:49+00:00
 excerpt: Inyo National Forest
 permalink: /long-lake-in-bishop-pass/
-coords: '-118.62621183723738,37.14361825599255'
+coords: '37.145559699642874, -118.55671481546739'
 image: DSCF2582.jpg
 images:
   - alt: 
