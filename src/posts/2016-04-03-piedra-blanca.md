@@ -3,7 +3,7 @@ title: Piedra Blanca
 date: 2016-04-03T23:05:53+00:00
 excerpt: Ojai, Ca
 permalink: /piedra-blanca/
-coords: '-119.1821649611907,34.560168898239496'
+coords: '34.560168898239496,-119.1821649611907'
 image: DSCF4098.jpg
 images:
   - alt: 

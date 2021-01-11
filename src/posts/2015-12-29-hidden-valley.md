@@ -3,7 +3,7 @@ title: Hidden Valley
 date: 2015-12-29T02:19:08+00:00
 excerpt: Joshua Tree National Park
 permalink: /hidden-valley/
-coords: '-116.30235639470428,34.00577792745413'
+coords: '34.00577792745413,-116.30235639470428'
 image: IMG_3168.jpg
 images:
   - alt: 

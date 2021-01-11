@@ -3,7 +3,7 @@ title: Sandstone Peak
 date: 2015-06-25T02:20:41+00:00
 excerpt: Santa Monica Mountains
 permalink: /sandstone-peak/
-coords: '-118.94414438397106,34.11159625812859'
+coords: '34.11159625812859,-118.94414438397106'
 gpx: Sandstone-Peak.gpx
 image: DSCF3062.jpg
 images:

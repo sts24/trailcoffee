@@ -3,7 +3,7 @@ title: Angels Landing
 date: 2015-09-13T18:35:57+00:00
 excerpt: Zion National Park
 permalink: /angels-landing/
-coords: '-112.95225058476079,37.27181784870906'
+coords: '37.27181784870906,-112.95225058476079'
 image: IMG_2341.jpg
 images:
   - alt: 

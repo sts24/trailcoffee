@@ -3,7 +3,7 @@ title: North Fork of Big Pine Creek
 date: 2015-07-19T23:58:51+00:00
 excerpt: Inyo National Forest
 permalink: /north-fork-of-big-pine-creek/
-coords: '-118.50386100540733,37.123924067925515'
+coords: '37.123924067925515,-118.50386100540733'
 gpx: Second-Lake-Big-Pine-Creek.gpx
 image: DSCF3653.jpg
 images:

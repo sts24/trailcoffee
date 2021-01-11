@@ -3,7 +3,7 @@ title: China Flat
 date: 2015-07-10T03:06:15+00:00
 excerpt: Simi Valley, Ca
 permalink: /china-flat-in-simi-valley/
-coords: '-118.79263136368084,34.19327973008686'
+coords: '34.19327973008686,-118.79263136368084'
 gpx: China-flat.gpx
 image: IMG_3090.jpg
 images:

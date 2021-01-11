@@ -3,7 +3,7 @@ title: 'Devil&#8217;s Postpile'
 date: 2016-01-04T02:21:55+00:00
 excerpt: Mammoth Lakes
 permalink: /devils-postpile/
-coords: '-119.1549458372254,37.62509782852979'
+coords: '37.62509782852979,-119.1549458372254'
 image: IMG_0272.jpg
 images:
   - alt: 

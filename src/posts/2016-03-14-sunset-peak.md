@@ -3,7 +3,7 @@ title: Sunset Peak
 date: 2016-03-14T02:06:21+00:00
 excerpt: San Gabriel Mountains
 permalink: /sunset-peak/
-coords: '-117.73003740282557,34.21897045587994'
+coords: '34.21897045587994,-117.73003740282557'
 image: IMG_3030.jpg
 images:
   - alt: 
