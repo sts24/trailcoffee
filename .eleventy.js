@@ -60,7 +60,7 @@ module.exports = function (config) {
 
 		const fileVersion = filename.split('/v')[1].split('/')[0];
 		const splitFilename = filename.split('/');
-		const newFilename = '/'+ splitFilename[2] + '/' + splitFilename[3];
+		const newFilename = splitFilename[2] + '/' + splitFilename[3];
 
 		let options = {};
 
