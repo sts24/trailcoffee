@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: src/_data/settings.json
-  label: Settings
 - type: directory
   path: src/posts
   label: Posts
@@ -16,6 +13,13 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: document
+  path: src/_data/places.json
+  label: Place Tags
+  match: "**/*"
+- type: document
+  path: src/_data/settings.json
+  label: Settings
 upload_dir: src/images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
