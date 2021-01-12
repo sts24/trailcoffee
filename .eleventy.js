@@ -58,16 +58,21 @@ module.exports = function (config) {
 
 	config.addShortcode("imgPath", function (filename, w, h, c) {
 
+		const fileVersion = filename.split('/v')[1].split('/')[0];
+		const splitFilename = filename.split('/');
+		const newFilename = '/'+ splitFilename[2] + '/' + splitFilename[3];
+
 		let options = {};
 
 		if (w !== '') { options['width'] = w; }
 		if (h !== '') { options['height'] = h; }
 		if (c !== '') { options['crop'] = c; }
 
-		options['version'] = "1580148807";
+		options['version'] = fileVersion;
 		options['secure'] = true;
 
-		const image = cloudinary.url('trailcoffee/' + filename, options);
+		const image = cloudinary.url(newFilename, options);
+		
 		return image;
 	});
 
