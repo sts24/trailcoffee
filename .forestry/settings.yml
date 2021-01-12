@@ -14,9 +14,8 @@ sections:
   templates:
   - post
 - type: document
-  path: src/_data/places.json
+  path: src/_data/placeData.json
   label: Place Tags
-  match: "**/*"
 - type: document
   path: src/_data/settings.json
   label: Settings
