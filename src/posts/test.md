@@ -6,14 +6,14 @@ excerpt: hi
 permalink: "/test/"
 coords: ''
 gpx: ''
-image: https://res.cloudinary.com/stsmith/image/upload/v1610472871/trailcoffee/los_padres_vqjrzm.jpg
+image: "/v1610472871/trailcoffee/los_padres_vqjrzm.jpg"
 images:
 - alt: scott
   image: "/v1610489698/trailcoffee/IMG_0338_covo4f.jpg"
 - alt: test 2
   image: "/v1610489367/trailcoffee/los_padres_va4cph.jpg"
 - alt: test
-  image: https://res.cloudinary.com/stsmith/image/upload/v1610489256/trailcoffee/marc-thunis-Dw3APludDpE-unsplash_yrgzkn.jpg
+  image: "/v1610489256/trailcoffee/marc-thunis-Dw3APludDpE-unsplash_yrgzkn.jpg"
 tags: []
 
 ---
