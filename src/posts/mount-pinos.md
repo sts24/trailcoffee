@@ -1,14 +1,15 @@
 ---
-date: 2021-01-05T20:38:31-08:00
+date: 2021-01-05T20:38:31.000-08:00
 title: Mount Pinos
 eleventyExcludeFromCollections: true
 excerpt: Los Padres National Forest
 permalink: mount-pinos
-coords: ''
+coords: 34.812855353757435, -119.14555738332662
 gpx: ''
 image: ''
 images: []
-tags: []
+tags:
+- ventura-county
 
 ---
 Mount Pinos is a roughly 8,800 foot mountain near the town of Frazier Park, Ca. While it is the highest point in the San Emigdio range, it is a fairly low-profile peak with only a gradual climb from the trailhead's parking lot.
