@@ -8,6 +8,8 @@ coords: ''
 gpx: ''
 image: https://res.cloudinary.com/stsmith/image/upload/v1610472871/trailcoffee/los_padres_vqjrzm.jpg
 images:
+- alt: scott
+  image: "/v1610489698/trailcoffee/IMG_0338_covo4f.jpg"
 - alt: test 2
   image: "/v1610489367/trailcoffee/los_padres_va4cph.jpg"
 - alt: test
