@@ -56,7 +56,8 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
-      section: place-tags
+      type: documents
+      section: ''
+      file: src/_data/placeData.json
 pages:
 - src/posts/mount-pinos.md
