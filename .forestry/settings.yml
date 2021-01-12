@@ -20,7 +20,7 @@ sections:
   path: src/_data/settings.json
   label: Settings
 upload_dir: trailcoffee
-public_path: ''
+public_path: https://res.cloudinary.com/stsmith/image/upload
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
