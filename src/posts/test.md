@@ -6,7 +6,7 @@ excerpt: hi
 permalink: "/test/"
 coords: ''
 gpx: ''
-image: "/v1610472074/trailcoffee/marc-thunis-Dw3APludDpE-unsplash_mnuwp7.jpg"
+image: "/v1610472267/trailcoffee/IMG_1013_emcwuu.jpg"
 images: []
 tags: []
 
