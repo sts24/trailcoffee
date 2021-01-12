@@ -54,8 +54,9 @@ fields:
   name: tags
   label: Region Tag
   config:
-    use_select: false
+    use_select: true
     source:
-      type: simple
+      type: pages
+      section: place-tags
 pages:
 - src/posts/mount-pinos.md
