@@ -4,32 +4,32 @@ date: 2015-11-02T01:29:54+00:00
 excerpt: Central California
 permalink: /pinnacles-national-park/
 coords: '36.49067876612718, -121.14853961714462'
-image: IMG_9376.jpg
+image: "/v1580148807/trailcoffee/IMG_9376.jpg"
 images:
   - alt: 
-    image: IMG_0126_21411.jpg
+    image: "/v1580148807/trailcoffee/IMG_0126_21411.jpg"
   - alt: 
-    image: IMG_9157.jpg
+    image: "/v1580148807/trailcoffee/IMG_9157.jpg"
   - alt: 
-    image: IMG_9205.jpg
+    image: "/v1580148807/trailcoffee/IMG_9205.jpg"
   - alt: 
-    image: IMG_9233.jpg
+    image: "/v1580148807/trailcoffee/IMG_9233.jpg"
   - alt: 
-    image: IMG_9266.jpg
+    image: "/v1580148807/trailcoffee/IMG_9266.jpg"
   - alt: 
-    image: IMG_9279.jpg
+    image: "/v1580148807/trailcoffee/IMG_9279.jpg"
   - alt: 
-    image: IMG_9331.jpg
+    image: "/v1580148807/trailcoffee/IMG_9331.jpg"
   - alt: 
-    image: IMG_9336.jpg
+    image: "/v1580148807/trailcoffee/IMG_9336.jpg"
   - alt: 
-    image: IMG_9353.jpg
+    image: "/v1580148807/trailcoffee/IMG_9353.jpg"
   - alt: 
-    image: IMG_9360.jpg
+    image: "/v1580148807/trailcoffee/IMG_9360.jpg"
   - alt: 
-    image: IMG_9365.jpg
+    image: "/v1580148807/trailcoffee/IMG_9365.jpg"
   - alt: 
-    image: IMG_9376.jpg
+    image: "/v1580148807/trailcoffee/IMG_9376.jpg"
 tags:
   - central-california
 ---

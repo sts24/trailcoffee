@@ -4,22 +4,22 @@ date: 2016-01-04T02:21:55+00:00
 excerpt: Mammoth Lakes
 permalink: /devils-postpile/
 coords: '37.62517656389745, -119.08505150665609'
-image: IMG_0272.jpg
+image: "/v1580148807/trailcoffee/IMG_0272.jpg"
 images:
   - alt: 
-    image: IMG_0262.jpg
+    image: "/v1580148807/trailcoffee/IMG_0262.jpg"
   - alt: 
-    image: IMG_0292.jpg
+    image: "/v1580148807/trailcoffee/IMG_0292.jpg"
   - alt: 
-    image: IMG_0272.jpg
+    image: "/v1580148807/trailcoffee/IMG_0272.jpg"
   - alt: 
-    image: IMG_0270.jpg
+    image: "/v1580148807/trailcoffee/IMG_0270.jpg"
   - alt: 
-    image: IMG_0260.jpg
+    image: "/v1580148807/trailcoffee/IMG_0260.jpg"
   - alt: 
-    image: IMG_0298.jpg
+    image: "/v1580148807/trailcoffee/IMG_0298.jpg"
   - alt: 
-    image: IMG_0303.jpg
+    image: "/v1580148807/trailcoffee/IMG_0303.jpg"
 tags:
   - eastern-sierra-nevada
 ---

@@ -5,24 +5,24 @@ excerpt: Camarillo, Ca
 permalink: /hill-canyon-in-wildwood-park/
 coords: '34.22693139528978, -118.93043588626199'
 gpx: Western-Plateau-Wildwood.gpx
-image: IMG_2028.jpg
+image: "/v1580148807/trailcoffee/IMG_2028.jpg"
 images:
   - alt: 
-    image: IMG_2028.jpg
+    image: "/v1580148807/trailcoffee/IMG_2028.jpg"
   - alt: 
-    image: IMG_2024.jpg
+    image: "/v1580148807/trailcoffee/IMG_2024.jpg"
   - alt: 
-    image: IMG_2882.jpg
+    image: "/v1580148807/trailcoffee/IMG_2882.jpg"
   - alt: 
-    image: IMG_2063.jpg
+    image: "/v1580148807/trailcoffee/IMG_2063.jpg"
   - alt: 
-    image: IMG_2883.jpg
+    image: "/v1580148807/trailcoffee/IMG_2883.jpg"
   - alt: 
-    image: IMG_1998.jpg
+    image: "/v1580148807/trailcoffee/IMG_1998.jpg"
   - alt: 
-    image: IMG_2019.jpg
+    image: "/v1580148807/trailcoffee/IMG_2019.jpg"
   - alt: 
-    image: IMG_1640.jpg
+    image: "/v1580148807/trailcoffee/IMG_1640.jpg"
 tags:
   - ventura-county
 ---

@@ -5,32 +5,32 @@ excerpt: Malibu, Ca
 permalink: /solstice-canyon/
 coords: '34.0377171118512, -118.74739945912927'
 gpx: Solstice-Canyon.gpx
-image: DSCF4271.jpg
+image: "/v1580148807/trailcoffee/DSCF4271.jpg"
 images:
   - alt: 
-    image: DSCF4226.jpg
+    image: "/v1580148807/trailcoffee/DSCF4226.jpg"
   - alt: 
-    image: DSCF4233.jpg
+    image: "/v1580148807/trailcoffee/DSCF4233.jpg"
   - alt: 
-    image: DSCF4238.jpg
+    image: "/v1580148807/trailcoffee/DSCF4238.jpg"
   - alt: 
-    image: DSCF4242.jpg
+    image: "/v1580148807/trailcoffee/DSCF4242.jpg"
   - alt: 
-    image: DSCF4243.jpg
+    image: "/v1580148807/trailcoffee/DSCF4243.jpg"
   - alt: 
-    image: DSCF4261.jpg
+    image: "/v1580148807/trailcoffee/DSCF4261.jpg"
   - alt: 
-    image: DSCF4248.jpg
+    image: "/v1580148807/trailcoffee/DSCF4248.jpg"
   - alt: 
-    image: DSCF4253.jpg
+    image: "/v1580148807/trailcoffee/DSCF4253.jpg"
   - alt: 
-    image: DSCF4262.jpg
+    image: "/v1580148807/trailcoffee/DSCF4262.jpg"
   - alt: 
-    image: DSCF4271.jpg
+    image: "/v1580148807/trailcoffee/DSCF4271.jpg"
   - alt: 
-    image: DSCF4274.jpg
+    image: "/v1580148807/trailcoffee/DSCF4274.jpg"
   - alt: 
-    image: DSCF4277.jpg
+    image: "/v1580148807/trailcoffee/DSCF4277.jpg"
 tags:
   - santa-monica-mountains
 ---

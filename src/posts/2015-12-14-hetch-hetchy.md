@@ -4,28 +4,28 @@ date: 2015-12-14T02:11:03+00:00
 excerpt: Yosemite National Park
 permalink: /hetch-hetchy/
 coords: '37.94659423783129, -119.78741013912882'
-image: IMG_9996.jpg
+image: "/v1580148807/trailcoffee/IMG_9996.jpg"
 images:
   - alt: 
-    image: IMG_9996.jpg
+    image: "/v1580148807/trailcoffee/IMG_9996.jpg"
   - alt: 
-    image: IMG_9995.jpg
+    image: "/v1580148807/trailcoffee/IMG_9995.jpg"
   - alt: 
-    image: IMG_9984.jpg
+    image: "/v1580148807/trailcoffee/IMG_9984.jpg"
   - alt: 
-    image: IMG_9980.jpg
+    image: "/v1580148807/trailcoffee/IMG_9980.jpg"
   - alt: 
-    image: IMG_0028.jpg
+    image: "/v1580148807/trailcoffee/IMG_0028.jpg"
   - alt: 
-    image: IMG_0023.jpg
+    image: "/v1580148807/trailcoffee/IMG_0023.jpg"
   - alt: 
-    image: IMG_0017.jpg
+    image: "/v1580148807/trailcoffee/IMG_0017.jpg"
   - alt: 
-    image: IMG_0010.jpg
+    image: "/v1580148807/trailcoffee/IMG_0010.jpg"
   - alt: 
-    image: IMG_0003.jpg
+    image: "/v1580148807/trailcoffee/IMG_0003.jpg"
   - alt: 
-    image: IMG_0001.jpg
+    image: "/v1580148807/trailcoffee/IMG_0001.jpg"
 tags:
   - yosemite
 ---

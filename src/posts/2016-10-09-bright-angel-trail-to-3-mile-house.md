@@ -4,28 +4,28 @@ date: 2016-10-09T23:45:26+00:00
 excerpt: Grand Canyon South Rim
 permalink: /bright-angel-trail-to-3-mile-house/
 coords: '36.05767598536565, -112.14380248764297'
-image: IMG_2663_3097.jpg
+image: "/v1580148807/trailcoffee/IMG_2663_3097.jpg"
 images:
   - alt: 
-    image: IMG_3719.jpg
+    image: "/v1580148807/trailcoffee/IMG_3719.jpg"
   - alt: 
-    image: IMG_3722.jpg
+    image: "/v1580148807/trailcoffee/IMG_3722.jpg"
   - alt: 
-    image: IMG_3723.jpg
+    image: "/v1580148807/trailcoffee/IMG_3723.jpg"
   - alt: 
-    image: IMG_2669.jpg
+    image: "/v1580148807/trailcoffee/IMG_2669.jpg"
   - alt: 
-    image: IMG_2663_3097.jpg
+    image: "/v1580148807/trailcoffee/IMG_2663_3097.jpg"
   - alt: 
-    image: IMG_2683_3089.jpg
+    image: "/v1580148807/trailcoffee/IMG_2683_3089.jpg"
   - alt: 
-    image: IMG_2680.jpg
+    image: "/v1580148807/trailcoffee/IMG_2680.jpg"
   - alt: 
-    image: IMG_2705.jpg
+    image: "/v1580148807/trailcoffee/IMG_2705.jpg"
   - alt: 
-    image: IMG_3767.jpg
+    image: "/v1580148807/trailcoffee/IMG_3767.jpg"
   - alt: 
-    image: IMG_2708.jpg
+    image: "/v1580148807/trailcoffee/IMG_2708.jpg"
 tags:
   - arizona
 ---

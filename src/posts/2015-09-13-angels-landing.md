@@ -4,30 +4,30 @@ date: 2015-09-13T18:35:57+00:00
 excerpt: Zion National Park
 permalink: /angels-landing/
 coords: '37.26929926022635, -112.94782956493441'
-image: IMG_2341.jpg
+image: "/v1580148807/trailcoffee/IMG_2341.jpg"
 images:
   - alt: 
-    image: IMG_2338.jpg
+    image: "/v1580148807/trailcoffee/IMG_2338.jpg"
   - alt: 
-    image: IMG_2341.jpg
+    image: "/v1580148807/trailcoffee/IMG_2341.jpg"
   - alt: 
-    image: IMG_5771.jpg
+    image: "/v1580148807/trailcoffee/IMG_5771.jpg"
   - alt: 
-    image: IMG_5780.jpg
+    image: "/v1580148807/trailcoffee/IMG_5780.jpg"
   - alt: 
-    image: IMG_5785.jpg
+    image: "/v1580148807/trailcoffee/IMG_5785.jpg"
   - alt: 
-    image: IMG_8809.jpg
+    image: "/v1580148807/trailcoffee/IMG_8809.jpg"
   - alt: 
-    image: IMG_8834.jpg
+    image: "/v1580148807/trailcoffee/IMG_8834.jpg"
   - alt: 
-    image: IMG_8835.jpg
+    image: "/v1580148807/trailcoffee/IMG_8835.jpg"
   - alt: 
-    image: IMG_8844.jpg
+    image: "/v1580148807/trailcoffee/IMG_8844.jpg"
   - alt: 
-    image: IMG_8863.jpg
+    image: "/v1580148807/trailcoffee/IMG_8863.jpg"
   - alt: 
-    image: IMG_8864.jpg
+    image: "/v1580148807/trailcoffee/IMG_8864.jpg"
 tags:
   - utah
 ---

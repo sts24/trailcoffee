@@ -4,28 +4,28 @@ date: 2015-07-30T02:44:34+00:00
 excerpt: Channel Islands National Park
 permalink: /anacapa-island/
 coords: '34.01547251458818, -119.36467847374855'
-image: IMG_1623.jpg
+image: "/v1580148807/trailcoffee/IMG_1623.jpg"
 images:
   - alt: 
-    image: IMG_1582.jpg
+    image: "/v1580148807/trailcoffee/IMG_1582.jpg"
   - alt: 
-    image: IMG_1603.jpg
+    image: "/v1580148807/trailcoffee/IMG_1603.jpg"
   - alt: 
-    image: IMG_1610.jpg
+    image: "/v1580148807/trailcoffee/IMG_1610.jpg"
   - alt: 
-    image: IMG_1623.jpg
+    image: "/v1580148807/trailcoffee/IMG_1623.jpg"
   - alt: 
-    image: IMG_1631.jpg
+    image: "/v1580148807/trailcoffee/IMG_1631.jpg"
   - alt: 
-    image: IMG_1641.jpg
+    image: "/v1580148807/trailcoffee/IMG_1641.jpg"
   - alt: 
-    image: IMG_1669.jpg
+    image: "/v1580148807/trailcoffee/IMG_1669.jpg"
   - alt: 
-    image: IMG_1679.jpg
+    image: "/v1580148807/trailcoffee/IMG_1679.jpg"
   - alt: 
-    image: IMG_1691.jpg
+    image: "/v1580148807/trailcoffee/IMG_1691.jpg"
   - alt: 
-    image: IMG_1699.jpg
+    image: "/v1580148807/trailcoffee/IMG_1699.jpg"
 tags:
   - ventura-county
 ---

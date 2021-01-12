@@ -4,22 +4,22 @@ date: 2016-01-31T23:35:27+00:00
 excerpt: Tuolumne Meadows
 permalink: /elizabeth-lake/
 coords: '37.84491224575275, -119.36872258591804'
-image: IMG_5091_4139.jpg
+image: "/v1580148807/trailcoffee/IMG_5091_4139.jpg"
 images:
   - alt: 
-    image: IMG_5076.jpg
+    image: "/v1580148807/trailcoffee/IMG_5076.jpg"
   - alt: 
-    image: IMG_5083.jpg
+    image: "/v1580148807/trailcoffee/IMG_5083.jpg"
   - alt: 
-    image: IMG_5091_4139.jpg
+    image: "/v1580148807/trailcoffee/IMG_5091_4139.jpg"
   - alt: 
-    image: IMG_5093_3863.jpg
+    image: "/v1580148807/trailcoffee/IMG_5093_3863.jpg"
   - alt: 
-    image: IMG_5105.jpg
+    image: "/v1580148807/trailcoffee/IMG_5105.jpg"
   - alt: 
-    image: IMG_5114.jpg
+    image: "/v1580148807/trailcoffee/IMG_5114.jpg"
   - alt: 
-    image: IMG_6125.jpg
+    image: "/v1580148807/trailcoffee/IMG_6125.jpg"
 tags:
   - yosemite
 ---

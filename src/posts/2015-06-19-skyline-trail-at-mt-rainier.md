@@ -4,22 +4,22 @@ date: 2015-06-19T02:12:47+00:00
 excerpt: Mt. Rainier National Park
 permalink: /skyline-trail-at-mt-rainier/
 coords: '46.78578042650103, -121.73528335154592'
-image: DSCF2751.jpg
+image: "/v1580148807/trailcoffee/DSCF2751.jpg"
 images:
   - alt: 
-    image: DSCF2737.jpg
+    image: "/v1580148807/trailcoffee/DSCF2737.jpg"
   - alt: 
-    image: DSCF2745.jpg
+    image: "/v1580148807/trailcoffee/DSCF2745.jpg"
   - alt: 
-    image: DSCF2746.jpg
+    image: "/v1580148807/trailcoffee/DSCF2746.jpg"
   - alt: 
-    image: DSCF2751.jpg
+    image: "/v1580148807/trailcoffee/DSCF2751.jpg"
   - alt: 
-    image: IMG_2620.jpg
+    image: "/v1580148807/trailcoffee/IMG_2620.jpg"
   - alt: 
-    image: IMG_2637.jpg
+    image: "/v1580148807/trailcoffee/IMG_2637.jpg"
   - alt: 
-    image: IMG_2641.jpg
+    image: "/v1580148807/trailcoffee/IMG_2641.jpg"
 tags:
   - washington
 ---

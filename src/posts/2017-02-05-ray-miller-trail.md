@@ -5,26 +5,26 @@ excerpt: Pt Mugu State Park
 permalink: /ray-miller-trail/
 coords: '34.086339130174956, -119.03661247161035'
 gpx: Ray-Miller-Trail.gpx
-image: DSCF4950.jpg
+image: "/v1580148807/trailcoffee/DSCF4950.jpg"
 images:
   - alt: 
-    image: DSCF4950.jpg
+    image: "/v1580148807/trailcoffee/DSCF4950.jpg"
   - alt: 
-    image: DSCF4954.jpg
+    image: "/v1580148807/trailcoffee/DSCF4954.jpg"
   - alt: 
-    image: DSCF4960.jpg
+    image: "/v1580148807/trailcoffee/DSCF4960.jpg"
   - alt: 
-    image: DSCF4963.jpg
+    image: "/v1580148807/trailcoffee/DSCF4963.jpg"
   - alt: 
-    image: DSCF4965.jpg
+    image: "/v1580148807/trailcoffee/DSCF4965.jpg"
   - alt: 
-    image: DSCF4966.jpg
+    image: "/v1580148807/trailcoffee/DSCF4966.jpg"
   - alt: 
-    image: DSCF4968.jpg
+    image: "/v1580148807/trailcoffee/DSCF4968.jpg"
   - alt: 
-    image: DSCF4972.jpg
+    image: "/v1580148807/trailcoffee/DSCF4972.jpg"
   - alt: 
-    image: DSCF4973.jpg
+    image: "/v1580148807/trailcoffee/DSCF4973.jpg"
 tags:
   - santa-monica-mountains
 ---

@@ -5,28 +5,28 @@ excerpt: Inyo National Forest
 permalink: /north-fork-of-big-pine-creek/
 coords: '37.12559873488271, -118.48688704650532'
 gpx: Second-Lake-Big-Pine-Creek.gpx
-image: DSCF3653.jpg
+image: "/v1580148807/trailcoffee/DSCF3653.jpg"
 images:
   - alt: 
-    image: DSCF3584.jpg
+    image: "/v1580148807/trailcoffee/DSCF3584.jpg"
   - alt: 
-    image: DSCF3591.jpg
+    image: "/v1580148807/trailcoffee/DSCF3591.jpg"
   - alt: 
-    image: DSCF3594.jpg
+    image: "/v1580148807/trailcoffee/DSCF3594.jpg"
   - alt: 
-    image: DSCF3605.jpg
+    image: "/v1580148807/trailcoffee/DSCF3605.jpg"
   - alt: 
-    image: DSCF3615.jpg
+    image: "/v1580148807/trailcoffee/DSCF3615.jpg"
   - alt: 
-    image: DSCF3617.jpg
+    image: "/v1580148807/trailcoffee/DSCF3617.jpg"
   - alt: 
-    image: DSCF3620.jpg
+    image: "/v1580148807/trailcoffee/DSCF3620.jpg"
   - alt: 
-    image: DSCF3631.jpg
+    image: "/v1580148807/trailcoffee/DSCF3631.jpg"
   - alt: 
-    image: DSCF3641.jpg
+    image: "/v1580148807/trailcoffee/DSCF3641.jpg"
   - alt: 
-    image: DSCF3653.jpg
+    image: "/v1580148807/trailcoffee/DSCF3653.jpg"
 tags:
   - eastern-sierra-nevada
 ---

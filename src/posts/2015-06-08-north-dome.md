@@ -4,30 +4,30 @@ date: 2015-06-08T01:24:20+00:00
 excerpt: Yosemite National Park
 permalink: /north-dome/
 coords: '37.756835553882624, -119.56016379582525'
-image: IMG_9889.jpg
+image: "/v1580148807/trailcoffee/IMG_9889.jpg"
 images:
   - alt: 
-    image: IMG_9846.jpg
+    image: "/v1580148807/trailcoffee/IMG_9846.jpg"
   - alt: 
-    image: IMG_9847.jpg
+    image: "/v1580148807/trailcoffee/IMG_9847.jpg"
   - alt: 
-    image: IMG_9858.jpg
+    image: "/v1580148807/trailcoffee/IMG_9858.jpg"
   - alt: 
-    image: IMG_9874.jpg
+    image: "/v1580148807/trailcoffee/IMG_9874.jpg"
   - alt: 
-    image: IMG_9877.jpg
+    image: "/v1580148807/trailcoffee/IMG_9877.jpg"
   - alt: 
-    image: IMG_9888.jpg
+    image: "/v1580148807/trailcoffee/IMG_9888.jpg"
   - alt: 
-    image: IMG_9889.jpg
+    image: "/v1580148807/trailcoffee/IMG_9889.jpg"
   - alt: 
-    image: IMG_9907.jpg
+    image: "/v1580148807/trailcoffee/IMG_9907.jpg"
   - alt: 
-    image: IMG_9910.jpg
+    image: "/v1580148807/trailcoffee/IMG_9910.jpg"
   - alt: 
-    image: IMG_9911.jpg
+    image: "/v1580148807/trailcoffee/IMG_9911.jpg"
   - alt: 
-    image: IMG_9913.jpg
+    image: "/v1580148807/trailcoffee/IMG_9913.jpg"
 tags:
   - yosemite
 ---

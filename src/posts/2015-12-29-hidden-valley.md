@@ -4,22 +4,22 @@ date: 2015-12-29T02:19:08+00:00
 excerpt: Joshua Tree National Park
 permalink: /hidden-valley/
 coords: '34.01186487731279, -116.169459956855'
-image: IMG_3168.jpg
+image: "/v1580148807/trailcoffee/IMG_3168.jpg"
 images:
   - alt: 
-    image: IMG_3146.jpg
+    image: "/v1580148807/trailcoffee/IMG_3146.jpg"
   - alt: 
-    image: IMG_3150.jpg
+    image: "/v1580148807/trailcoffee/IMG_3150.jpg"
   - alt: 
-    image: IMG_3152.jpg
+    image: "/v1580148807/trailcoffee/IMG_3152.jpg"
   - alt: 
-    image: IMG_3159.jpg
+    image: "/v1580148807/trailcoffee/IMG_3159.jpg"
   - alt: 
-    image: IMG_3160.jpg
+    image: "/v1580148807/trailcoffee/IMG_3160.jpg"
   - alt: 
-    image: IMG_3168.jpg
+    image: "/v1580148807/trailcoffee/IMG_3168.jpg"
   - alt: 
-    image: IMG_3172.jpg
+    image: "/v1580148807/trailcoffee/IMG_3172.jpg"
 tags:
   - joshua-tree
 ---

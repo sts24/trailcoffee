@@ -5,24 +5,24 @@ excerpt: Agoura Hills, Ca
 permalink: /cheseboro-canyon/
 coords: '34.15615624197106, -118.73113626376333'
 gpx: Cheseboro-long.gpx
-image: IMG_3121.jpg
+image: "/v1580148807/trailcoffee/IMG_3121.jpg"
 images:
   - alt: 
-    image: IMG_3121.jpg
+    image: "/v1580148807/trailcoffee/IMG_3121.jpg"
   - alt: 
-    image: IMG_3124.jpg
+    image: "/v1580148807/trailcoffee/IMG_3124.jpg"
   - alt: 
-    image: IMG_3122.jpg
+    image: "/v1580148807/trailcoffee/IMG_3122.jpg"
   - alt: 
-    image: IMG_3125.jpg
+    image: "/v1580148807/trailcoffee/IMG_3125.jpg"
   - alt: 
-    image: IMG_3126.jpg
+    image: "/v1580148807/trailcoffee/IMG_3126.jpg"
   - alt: 
-    image: IMG_3127.jpg
+    image: "/v1580148807/trailcoffee/IMG_3127.jpg"
   - alt: 
-    image: IMG_3128.jpg
+    image: "/v1580148807/trailcoffee/IMG_3128.jpg"
   - alt: 
-    image: IMG_3880.jpg
+    image: "/v1580148807/trailcoffee/IMG_3880.jpg"
 tags:
   - ventura-county
 ---

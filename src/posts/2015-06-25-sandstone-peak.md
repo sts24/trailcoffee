@@ -5,28 +5,28 @@ excerpt: Santa Monica Mountains
 permalink: /sandstone-peak/
 coords: '34.12032845399646, -118.93204910583131'
 gpx: Sandstone-Peak.gpx
-image: DSCF3062.jpg
+image: "/v1580148807/trailcoffee/DSCF3062.jpg"
 images:
   - alt: 
-    image: DSCF3053.jpg
+    image: "/v1580148807/trailcoffee/DSCF3053.jpg"
   - alt: 
-    image: DSCF3062.jpg
+    image: "/v1580148807/trailcoffee/DSCF3062.jpg"
   - alt: 
-    image: IMG_1493.jpg
+    image: "/v1580148807/trailcoffee/IMG_1493.jpg"
   - alt: 
-    image: IMG_1498.jpg
+    image: "/v1580148807/trailcoffee/IMG_1498.jpg"
   - alt: 
-    image: IMG_1500.jpg
+    image: "/v1580148807/trailcoffee/IMG_1500.jpg"
   - alt: 
-    image: IMG_1502.jpg
+    image: "/v1580148807/trailcoffee/IMG_1502.jpg"
   - alt: 
-    image: IMG_5443-Pano.jpg
+    image: "/v1580148807/trailcoffee/IMG_5443-Pano.jpg"
   - alt: 
-    image: IMG_5446.jpg
+    image: "/v1580148807/trailcoffee/IMG_5446.jpg"
   - alt: 
-    image: IMG_5455.jpg
+    image: "/v1580148807/trailcoffee/IMG_5455.jpg"
   - alt: 
-    image: Photo-May-08-12-31-19-PM.jpg
+    image: "/v1580148807/trailcoffee/Photo-May-08-12-31-19-PM.jpg"
 tags:
   - santa-monica-mountains
 ---

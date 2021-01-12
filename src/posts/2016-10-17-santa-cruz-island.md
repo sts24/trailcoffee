@@ -4,32 +4,32 @@ date: 2016-10-17T00:57:26+00:00
 excerpt: Channel Islands National Park
 permalink: /santa-cruz-island/
 coords: '34.04907191537968, -119.55644522575739'
-image: IMG_8504.jpg
+image: "/v1580148807/trailcoffee/IMG_8504.jpg"
 images:
   - alt: 
-    image: IMG_8185.jpg
+    image: "/v1580148807/trailcoffee/IMG_8185.jpg"
   - alt: 
-    image: IMG_8189.jpg
+    image: "/v1580148807/trailcoffee/IMG_8189.jpg"
   - alt: 
-    image: IMG_8236.jpg
+    image: "/v1580148807/trailcoffee/IMG_8236.jpg"
   - alt: 
-    image: IMG_8349.jpg
+    image: "/v1580148807/trailcoffee/IMG_8349.jpg"
   - alt: 
-    image: IMG_5695.jpg
+    image: "/v1580148807/trailcoffee/IMG_5695.jpg"
   - alt: 
-    image: IMG_8207.jpg
+    image: "/v1580148807/trailcoffee/IMG_8207.jpg"
   - alt: 
-    image: IMG_8439.jpg
+    image: "/v1580148807/trailcoffee/IMG_8439.jpg"
   - alt: 
-    image: IMG_8504.jpg
+    image: "/v1580148807/trailcoffee/IMG_8504.jpg"
   - alt: 
-    image: IMG_5707.jpg
+    image: "/v1580148807/trailcoffee/IMG_5707.jpg"
   - alt: 
-    image: IMG_5731.jpg
+    image: "/v1580148807/trailcoffee/IMG_5731.jpg"
   - alt: 
-    image: IMG_8479.jpg
+    image: "/v1580148807/trailcoffee/IMG_8479.jpg"
   - alt: 
-    image: IMG_8489.jpg
+    image: "/v1580148807/trailcoffee/IMG_8489.jpg"
 tags:
   - ventura-county
 ---

@@ -5,28 +5,28 @@ excerpt: Newbury Park, Ca
 permalink: /rancho-sierra-vista/
 coords: '34.15270497954094, -118.96634528072882'
 gpx: Sycamore-Canyon-Falls-Newbury-Park.gpx
-image: IMG_2557.jpg
+image: "/v1580148807/trailcoffee/IMG_2557.jpg"
 images:
   - alt: 
-    image: IMG_2246.jpg
+    image: "/v1580148807/trailcoffee/IMG_2246.jpg"
   - alt: 
-    image: IMG_2248.jpg
+    image: "/v1580148807/trailcoffee/IMG_2248.jpg"
   - alt: 
-    image: IMG_2483.jpg
+    image: "/v1580148807/trailcoffee/IMG_2483.jpg"
   - alt: 
-    image: IMG_2557.jpg
+    image: "/v1580148807/trailcoffee/IMG_2557.jpg"
   - alt: 
-    image: IMG_2656.jpg
+    image: "/v1580148807/trailcoffee/IMG_2656.jpg"
   - alt: 
-    image: IMG_2659.jpg
+    image: "/v1580148807/trailcoffee/IMG_2659.jpg"
   - alt: 
-    image: IMG_7562.jpg
+    image: "/v1580148807/trailcoffee/IMG_7562.jpg"
   - alt: 
-    image: IMG_7574.jpg
+    image: "/v1580148807/trailcoffee/IMG_7574.jpg"
   - alt: 
-    image: IMG_7597.jpg
+    image: "/v1580148807/trailcoffee/IMG_7597.jpg"
   - alt: 
-    image: IMG_7606.jpg
+    image: "/v1580148807/trailcoffee/IMG_7606.jpg"
 tags:
   - santa-monica-mountains
 ---

@@ -4,26 +4,26 @@ date: 2016-09-11T20:38:04+00:00
 excerpt: Death Valley National Park
 permalink: /mosaic-canyon/
 coords: '36.571917270890424, -117.14443551041539'
-image: IMG_5180_45396.jpg
+image: "/v1580148807/trailcoffee/IMG_5180_45396.jpg"
 images:
   - alt: 
-    image: IMG_5177_45393.jpg
+    image: "/v1580148807/trailcoffee/IMG_5177_45393.jpg"
   - alt: 
-    image: IMG_5179.jpg
+    image: "/v1580148807/trailcoffee/IMG_5179.jpg"
   - alt: 
-    image: IMG_5180_45396.jpg
+    image: "/v1580148807/trailcoffee/IMG_5180_45396.jpg"
   - alt: 
-    image: IMG_5181.jpg
+    image: "/v1580148807/trailcoffee/IMG_5181.jpg"
   - alt: 
-    image: IMG_5203.jpg
+    image: "/v1580148807/trailcoffee/IMG_5203.jpg"
   - alt: 
-    image: IMG_5188_45403.jpg
+    image: "/v1580148807/trailcoffee/IMG_5188_45403.jpg"
   - alt: 
-    image: IMG_5191.jpg
+    image: "/v1580148807/trailcoffee/IMG_5191.jpg"
   - alt: 
-    image: IMG_5192_45407.jpg
+    image: "/v1580148807/trailcoffee/IMG_5192_45407.jpg"
   - alt: 
-    image: IMG_4366.jpg
+    image: "/v1580148807/trailcoffee/IMG_4366.jpg"
 tags:
   - death-valley
 ---

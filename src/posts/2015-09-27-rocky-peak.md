@@ -4,26 +4,26 @@ date: 2015-09-27T23:30:20+00:00
 excerpt: Simi Valley, Ca
 permalink: /rocky-peak/
 coords: '34.26832744643703,-118.63760541189211'
-image: IMG_9093.jpg
+image: "/v1580148807/trailcoffee/IMG_9093.jpg"
 images:
   - alt: 
-    image: IMG_9049.jpg
+    image: "/v1580148807/trailcoffee/IMG_9049.jpg"
   - alt: 
-    image: IMG_9050.jpg
+    image: "/v1580148807/trailcoffee/IMG_9050.jpg"
   - alt: 
-    image: IMG_9057.jpg
+    image: "/v1580148807/trailcoffee/IMG_9057.jpg"
   - alt: 
-    image: IMG_9071.jpg
+    image: "/v1580148807/trailcoffee/IMG_9071.jpg"
   - alt: 
-    image: IMG_9082.jpg
+    image: "/v1580148807/trailcoffee/IMG_9082.jpg"
   - alt: 
-    image: IMG_9087.jpg
+    image: "/v1580148807/trailcoffee/IMG_9087.jpg"
   - alt: 
-    image: IMG_9090.jpg
+    image: "/v1580148807/trailcoffee/IMG_9090.jpg"
   - alt: 
-    image: IMG_9093.jpg
+    image: "/v1580148807/trailcoffee/IMG_9093.jpg"
   - alt: 
-    image: IMG_9096.jpg
+    image: "/v1580148807/trailcoffee/IMG_9096.jpg"
 tags:
   - ventura-county
 ---

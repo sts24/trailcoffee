@@ -4,18 +4,18 @@ date: 2016-07-02T00:41:43+00:00
 excerpt: Agua Dulce, Ca
 permalink: /vasquez-rocks/
 coords: '34.485824847740865, -118.31429037090878'
-image: IMG_4307.jpg
+image: "/v1580148807/trailcoffee/IMG_4307.jpg"
 images:
   - alt: 
-    image: IMG_4323.jpg
+    image: "/v1580148807/trailcoffee/IMG_4323.jpg"
   - alt: 
-    image: IMG_4317.jpg
+    image: "/v1580148807/trailcoffee/IMG_4317.jpg"
   - alt: 
-    image: IMG_4312.jpg
+    image: "/v1580148807/trailcoffee/IMG_4312.jpg"
   - alt: 
-    image: IMG_4311.jpg
+    image: "/v1580148807/trailcoffee/IMG_4311.jpg"
   - alt: 
-    image: IMG_4307.jpg
+    image: "/v1580148807/trailcoffee/IMG_4307.jpg"
 tags:
   - san-gabriel-mountains
 ---

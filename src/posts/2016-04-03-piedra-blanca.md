@@ -4,28 +4,28 @@ date: 2016-04-03T23:05:53+00:00
 excerpt: Ojai, Ca
 permalink: /piedra-blanca/
 coords: '34.560237519122815, -119.16464449046299'
-image: DSCF4098.jpg
+image: "/v1580148807/trailcoffee/DSCF4098.jpg"
 images:
   - alt: 
-    image: DSCF4077.jpg
+    image: "/v1580148807/trailcoffee/DSCF4077.jpg"
   - alt: 
-    image: DSCF4081.jpg
+    image: "/v1580148807/trailcoffee/DSCF4081.jpg"
   - alt: 
-    image: DSCF4094.jpg
+    image: "/v1580148807/trailcoffee/DSCF4094.jpg"
   - alt: 
-    image: DSCF4098.jpg
+    image: "/v1580148807/trailcoffee/DSCF4098.jpg"
   - alt: 
-    image: DSCF4107.jpg
+    image: "/v1580148807/trailcoffee/DSCF4107.jpg"
   - alt: 
-    image: DSCF4109.jpg
+    image: "/v1580148807/trailcoffee/DSCF4109.jpg"
   - alt: 
-    image: DSCF4120.jpg
+    image: "/v1580148807/trailcoffee/DSCF4120.jpg"
   - alt: 
-    image: IMG_1067.jpg
+    image: "/v1580148807/trailcoffee/IMG_1067.jpg"
   - alt: 
-    image: IMG_1097.jpg
+    image: "/v1580148807/trailcoffee/IMG_1097.jpg"
   - alt: 
-    image: IMG_1114.jpg
+    image: "/v1580148807/trailcoffee/IMG_1114.jpg"
 tags:
   - ventura-county
 ---

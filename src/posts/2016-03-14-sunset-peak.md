@@ -4,28 +4,28 @@ date: 2016-03-14T02:06:21+00:00
 excerpt: San Gabriel Mountains
 permalink: /sunset-peak/
 coords: '34.21643822001392, -117.68932214417018'
-image: IMG_3030.jpg
+image: "/v1580148807/trailcoffee/IMG_3030.jpg"
 images:
   - alt: 
-    image: IMG_2927.jpg
+    image: "/v1580148807/trailcoffee/IMG_2927.jpg"
   - alt: 
-    image: IMG_2940.jpg
+    image: "/v1580148807/trailcoffee/IMG_2940.jpg"
   - alt: 
-    image: IMG_2946.jpg
+    image: "/v1580148807/trailcoffee/IMG_2946.jpg"
   - alt: 
-    image: IMG_2954.jpg
+    image: "/v1580148807/trailcoffee/IMG_2954.jpg"
   - alt: 
-    image: IMG_2961.jpg
+    image: "/v1580148807/trailcoffee/IMG_2961.jpg"
   - alt: 
-    image: IMG_2991.jpg
+    image: "/v1580148807/trailcoffee/IMG_2991.jpg"
   - alt: 
-    image: IMG_2998.jpg
+    image: "/v1580148807/trailcoffee/IMG_2998.jpg"
   - alt: 
-    image: IMG_3015.jpg
+    image: "/v1580148807/trailcoffee/IMG_3015.jpg"
   - alt: 
-    image: IMG_3028.jpg
+    image: "/v1580148807/trailcoffee/IMG_3028.jpg"
   - alt: 
-    image: IMG_3030.jpg
+    image: "/v1580148807/trailcoffee/IMG_3030.jpg"
 tags:
   - san-gabriel-mountains
 ---
