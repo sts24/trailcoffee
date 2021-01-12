@@ -6,7 +6,7 @@ excerpt: hi
 permalink: "/test/"
 coords: ''
 gpx: ''
-image: "/v1610472267/trailcoffee/IMG_1013_emcwuu.jpg"
+image: https://res.cloudinary.com/stsmith/image/upload/v1610472871/trailcoffee/los_padres_vqjrzm.jpg
 images: []
 tags: []
 
