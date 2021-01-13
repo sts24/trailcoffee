@@ -43,7 +43,7 @@
 }
 
 @function rem($size){
-	@return #{$size/16}em;
+	@return #{$size/16}rem;
 }
 
 
