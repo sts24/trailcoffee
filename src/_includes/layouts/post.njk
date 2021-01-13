@@ -58,6 +58,28 @@
 
 		<footer class="post-footer">
 			<time>Originally published on {% timestamp date %}</time>
+
+				{% set thisURL = page.url %}
+
+			
+				{% for item in tags %}
+					{% if item !== 'post' %}
+						<header class="post-footer-title">See other places in <a href="/places/{{ placeData[item].slug }}/">{{ placeData[item].fullname }}</a></header>
+
+						<div class="post-card-wrapper">
+						{% for post in collections[item] %}
+
+							{% if post.url !== thisURL %}
+								{% set placeName = '' %}
+								{% include "partials/post-card.njk" %}
+							{% endif %}
+
+						{% endfor %}
+						</div>
+
+					{% endif %}
+				{% endfor %}
+			
 		</footer>
 
 	</article>
