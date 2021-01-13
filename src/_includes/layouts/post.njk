@@ -64,7 +64,7 @@
 			
 				{% for item in tags %}
 					{% if item !== 'post' %}
-						<header class="post-footer-title">See other places in <a href="/places/{{ placeData[item].slug }}/">{{ placeData[item].fullname }}</a></header>
+						<header class="post-footer-title margin-top-5 margin-bottom-2">See other places in <a href="/places/{{ placeData[item].slug }}/">{{ placeData[item].fullname }}</a></header>
 
 						<div class="post-card-wrapper">
 						{% for post in collections[item] %}
