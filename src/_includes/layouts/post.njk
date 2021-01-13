@@ -17,7 +17,7 @@
 		<header class="post-header margin-bottom-3">
 			<h1 class="margin-x-0">{{ title }}</h1>
 			<h2 class="margin-x-0">{{ excerpt }}</h2>
-			{% postTags tags, placeData %}
+			<p>{% postTags tags, placeData %}</p>
 		</header>
 
 		{% if image %}
@@ -55,6 +55,10 @@
 			</div>
 		</div>
 		{% endif %}
+
+		<footer class="post-footer">
+			<time>Originally published on {% timestamp date %}</time>
+		</footer>
 
 	</article>
 </main>
