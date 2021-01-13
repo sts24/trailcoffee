@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gulp watch & eleventy --serve",
+    "start": "gulp watch & eleventy --serve --quiet",
     "production": "gulp && eleventy",
     "debug": "DEBUG=Eleventy* eleventy",
     "clean": "rm -rf build"

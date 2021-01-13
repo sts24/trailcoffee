@@ -5,7 +5,7 @@ const minify = require('gulp-minify');
 
 
 // files
-const sassFiles = './src/_assets/sass/*.scss';
+const sassFiles = ['./src/_assets/sass/*.scss','./src/_assets/sass/**/*.scss'];
 const jsFiles = './src/_assets/js/*.js';
 
 
@@ -30,7 +30,7 @@ function jsCompile(cb) {
 // SASS
 
 function sassCompile(cb) {
-
+console.log(sassFiles);
 	gulp.src(sassFiles)
 		.pipe(sass({
 			outputStyle: 'compressed'

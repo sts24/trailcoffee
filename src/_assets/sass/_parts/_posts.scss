@@ -60,7 +60,7 @@
 	}
 
 	@media (min-width: 768px){
-		grid-template-columns: 50% 50%;
+		grid-template-columns: 1fr 1fr;
 	}
 }
 
@@ -96,6 +96,6 @@
 
 	.post-footer-title {
 		font-family: var(--primary-font);
-		font-size: rem(21);
+		font-size: rem(16);
 	}
 }
