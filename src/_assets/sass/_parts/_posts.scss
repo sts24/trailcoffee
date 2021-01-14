@@ -65,21 +65,6 @@
 }
 
 
-.button {
-	display: inline-block;
-	background: var(--color1);
-	color: white;
-	font-family: var(--primary-font);
-	font-weight: normal;
-	line-height: 1;
-	padding: 0.75rem 1rem 0.5rem 1rem;
-	border-radius: 5px;
-
-	&:hover {
-		text-decoration: none;
-		background: var(--lightblue);
-	}
-}
 
 
 .post-map-view {

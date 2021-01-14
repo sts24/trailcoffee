@@ -1,3 +1,13 @@
+.site-masthead {
+	> div:nth-child(1){ order: 2; }
+	> div:nth-child(2){ order: 1; margin-bottom: 2rem; }
+
+	@media (min-width: 768px){
+		> div:nth-child(1){ order: 1; }
+		> div:nth-child(2){ order: 2; margin-bottom: 0; }
+	}
+}
+
 .site-header {
 	background-color: var(--color1);
 	background-image: url('/_includes/svg/contour-lines.svg');
@@ -6,11 +16,11 @@
 
 .site-logo {
 	display: block;
-	max-width: 500px;
 	
 	font-family: var(--primary-font);
 	color: var(--color2);
-	font-size: 2.75em;
+	font-size: 2.5em;
+	line-height: 1.1em;
 
 	&:hover {
 		text-decoration: none;
@@ -19,4 +29,10 @@
 	@media (min-width: 768px){
 		font-size: 3.75em;
 	}
+}
+
+
+.site-tagline {
+	color: var(--sand);
+	font-size: rem(18);
 }
