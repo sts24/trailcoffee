@@ -86,3 +86,12 @@
 		@include make_columns($name);
 	}
 }
+
+
+// force order of elements in flex or grid
+
+@for $i from 1 through $columns {
+	.order-#{$i} {
+		order: $i;
+	}
+}
