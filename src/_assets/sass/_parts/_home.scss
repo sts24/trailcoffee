@@ -1,0 +1,27 @@
+.top-post {
+	background: white;
+
+	.top-post-lead-in {
+		border-bottom: 1px solid var(--color1);
+		font-size: rem(21);
+		color: var(--color1);
+	}
+
+	h1 {
+		font-family: var(--primary-font);
+	}
+
+	time {
+		display: block;
+	}
+
+	@media (min-width: 768px){
+		h1 { font-size: rem(42); }
+	}
+}
+
+.top-post-image {
+	width: 100%;
+	height: auto;
+	display: block;
+}

@@ -3,6 +3,27 @@
 {% block content %}
 
 <main class="row padding-x-3">
+	<header class="col-s-12 margin-bottom-3">
+		<div class="row row-vertical-center top-post padding-x-1">
+			{% for post in collections.post | reverse %}
+				{% if loop.first %}
+
+					<div class="col-s-12 col-m-6">
+						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" /></a>
+					</div>
+					<div class="col-s-12 col-m-6">
+						<p class="top-post-lead-in">Latest Hike</p>
+						<h1 class="margin-0">{{ post.data.title }}</h1>
+						<p class="margin-top-0">{{ post.data.excerpt }}</p>
+						<a href="{{ post.data.permalink }}" class="button">Read about this hike</a>
+					</div>
+
+				{% endif %}
+			{% endfor %}
+		</div>
+	</header>
+
+
 	<div class="col-s-12 post-card-wrapper">
 
 		{% for key, place in placeData %}
@@ -19,9 +40,9 @@
 		{% endfor %}
 
 	</div>
-	<div class="col-s-12">
+	<footer class="col-s-12">
 		{% include "partials/pagination.njk" %}
-	</div>
+	</footer>
 </main>
 
 {% endblock %}
