@@ -24,7 +24,10 @@
 	</header>
 
 
-	<div class="col-s-12 post-card-wrapper">
+	<div class="col-s-12 recent-posts">
+		<h2>Find a Hike</h2>
+
+		<div class="post-card-wrapper">
 
 		{% for key, place in placeData %}
 
@@ -32,12 +35,15 @@
 
 				{% if loop.last == true %}
 					{% set placeName = place %}
+					{% set titleHeading = 'h3' %}
 					{% include "partials/post-card.njk" %}
 				{% endif %}
 
 			{% endfor %}
 
 		{% endfor %}
+
+		</div>
 
 	</div>
 	<footer class="col-s-12">
