@@ -21,11 +21,10 @@
 		</header>
 
 		{% if image %}
-			<img 
-			srcset="{% imgPath image, '1200', '', 'fit' %} 1200w, {% imgPath image, '2400', '', 'fit' %} 2400w, {% imgPath image, '2400', '', 'fit' %} 2x" 
-			sizes="(max-width: 768px) 1200w" 
-			class="post-featured-image" 
-			/>
+			<picture>
+				<source srcset="{% imgPath image, '2400', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
+				<img src="{% imgPath image, '1200', '', 'fit' %}" class="post-featured-image" />
+			</picture>
 		{% endif %}
 
 		<div class="row margin-x-3 post-content">
@@ -48,7 +47,10 @@
 	
 			<div class="post-image-gallery margin-top-3">
 				{% for img in images %}
-					<img src="{% imgPath img.image, '600', '', 'fit' %}"  />
+					<picture>
+						<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
+						<img src="{% imgPath img.image, '600', '', 'fit' %}"  />
+					</picture>
 				{% endfor %}
 			</div>
 			
