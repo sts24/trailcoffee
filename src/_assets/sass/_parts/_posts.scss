@@ -24,7 +24,7 @@
 		font-weight: normal;
 
 		@media (min-width: 768px){
-			font-size: rem(32);
+			font-size: rem(48);
 		}
 	}
 
@@ -75,12 +75,15 @@
 
 
 .post-footer {
+	border-top: 1px solid var(--color2-dark);
+	margin-top: 3rem;
+
 	time {
 		font-size: rem(14);
 	}
 
 	.post-footer-title {
 		font-family: var(--primary-font);
-		font-size: rem(16);
+		font-size: rem(24);
 	}
 }
