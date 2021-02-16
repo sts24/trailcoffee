@@ -83,6 +83,8 @@ module.exports = function (config) {
 	// passthrough
 	config.addPassthroughCopy("./src/_includes/svg");
 	config.addPassthroughCopy({ "./src/_assets/fonts": "assets/fonts" });
+	config.addPassthroughCopy({ "./src/gpx": "gpx" });
+	config.addPassthroughCopy({ "./src/geo-json": "geo-json" });
 
 	// watch
 	config.addWatchTarget("./src/_assets/sass/");
@@ -97,7 +99,6 @@ module.exports = function (config) {
 		passthroughFileCopy: true,
 		layout: 'layouts/page.njk',
 		templateFormats: [
-			"gpx",
 			"njk",
 			"md",
 			"jpg",
