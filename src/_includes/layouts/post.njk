@@ -3,9 +3,12 @@
 {% block head %}
 
 	{% if coords %}
-		<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
-		<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
-		<script src="/assets/js/maps.js" defer></script>
+
+		<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
+		<script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+
+		<script src="/assets/js/hike-map.js" defer></script>
+
 	{% endif %}
 
 {% endblock %}
@@ -30,16 +33,12 @@
 		<div class="row margin-x-3 post-content">
 			<div class="col-s-12">
 				{{ content | safe }}
-
-				{% if gpx %}
-					<a href="/gpx/{{ gpx }}" class="button margin-bottom-3" download>Download GPX File</a>
-				{% endif %}
 			</div>
 		</div>
 		
 		{% if coords %}
 
-			<div id="map" class="post-map-view" data-coords="{{ coords }}"></div>
+			<div id="map" class="post-map-view" data-coords="{{ coords }}" data-geojson="{{ geojson }}"></div>
 
 		{% endif %}
 
