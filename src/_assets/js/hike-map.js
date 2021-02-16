@@ -76,3 +76,16 @@ if(geoJSONfile !== ''){
 		.addTo(map);
 
 }
+
+
+// add reference scale
+var scale = new mapboxgl.ScaleControl({
+	maxWidth: 200,
+	unit: 'imperial'
+});
+map.addControl(scale);
+
+// add navigation controls
+var nav = new mapboxgl.NavigationControl();
+map.addControl(nav, 'top-left');
+
