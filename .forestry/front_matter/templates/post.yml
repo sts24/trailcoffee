@@ -34,9 +34,9 @@ fields:
   label: Coordinates
   description: Latitude, Longitude
 - type: text
-  name: gpx
-  label: GPX File
-  description: Name of GPX file
+  name: geojson
+  label: Geo JSON File
+  description: Name of Geo JSON file
 - type: file
   name: image
   label: Featured Image
