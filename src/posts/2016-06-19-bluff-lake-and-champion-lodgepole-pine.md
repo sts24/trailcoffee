@@ -4,7 +4,7 @@ date: 2016-06-19T16:50:34+00:00
 excerpt: Big Bear Lake, Ca
 permalink: /bluff-lake-and-champion-lodgepole-pine/
 coords: '34.21974862855863, -116.97089050914485'
-gpx: Champion-Lodge-Pine.gpx
+geojson: Champion-Lodge-Pine.geojson
 image: "/v1580148807/trailcoffee/DSCF4326.jpg"
 images:
   - alt: 

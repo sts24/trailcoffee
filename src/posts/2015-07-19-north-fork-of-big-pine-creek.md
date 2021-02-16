@@ -4,7 +4,7 @@ date: 2015-07-19T23:58:51+00:00
 excerpt: Inyo National Forest
 permalink: /north-fork-of-big-pine-creek/
 coords: '37.12559873488271, -118.48688704650532'
-gpx: Second-Lake-Big-Pine-Creek.gpx
+geojson: Second-Lake-Big-Pine-Creek.geojson
 image: "/v1580148807/trailcoffee/DSCF3653.jpg"
 images:
   - alt: 

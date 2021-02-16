@@ -4,7 +4,7 @@ date: 2015-06-25T02:20:41+00:00
 excerpt: Santa Monica Mountains
 permalink: /sandstone-peak/
 coords: '34.12032845399646, -118.93204910583131'
-gpx: Sandstone-Peak.gpx
+geojson: Sandstone-Peak.geojson
 image: "/v1580148807/trailcoffee/DSCF3062.jpg"
 images:
   - alt: 

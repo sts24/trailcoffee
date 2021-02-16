@@ -4,7 +4,7 @@ date: 2015-11-22T17:43:12+00:00
 excerpt: Malibu, Ca
 permalink: /charmlee-wilderness-park/
 coords: '34.05826781474388, -118.87932526951833'
-gpx: Charmlee.gpx
+geojson: Charmlee.geojson
 image: "/v1580148807/trailcoffee/IMG_8671.jpg"
 images:
   - alt: 

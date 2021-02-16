@@ -4,7 +4,7 @@ date: 2016-05-09T03:40:54+00:00
 excerpt: Malibu, Ca
 permalink: /solstice-canyon/
 coords: '34.0377171118512, -118.74739945912927'
-gpx: Solstice-Canyon.gpx
+geojson: Solstice-Canyon.geojson
 image: "/v1580148807/trailcoffee/DSCF4271.jpg"
 images:
   - alt: 

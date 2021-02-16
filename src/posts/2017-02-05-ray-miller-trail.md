@@ -4,7 +4,7 @@ date: 2017-02-05T19:51:07+00:00
 excerpt: Pt Mugu State Park
 permalink: /ray-miller-trail/
 coords: '34.086339130174956, -119.03661247161035'
-gpx: Ray-Miller-Trail.gpx
+geojson: Ray-Miller-Trail.geojson
 image: "/v1580148807/trailcoffee/DSCF4950.jpg"
 images:
   - alt: 

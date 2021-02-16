@@ -4,7 +4,7 @@ date: 2015-08-18T02:39:29+00:00
 excerpt: Newbury Park, Ca
 permalink: /rancho-sierra-vista/
 coords: '34.15270497954094, -118.96634528072882'
-gpx: Sycamore-Canyon-Falls-Newbury-Park.gpx
+geojson: Sycamore-Canyon-Falls-Newbury-Park.geojson
 image: "/v1580148807/trailcoffee/IMG_2557.jpg"
 images:
   - alt: 

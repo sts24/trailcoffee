@@ -4,7 +4,7 @@ date: 2015-07-10T03:06:15+00:00
 excerpt: Simi Valley, Ca
 permalink: /china-flat-in-simi-valley/
 coords: '34.20647817185624, -118.77627751600582'
-gpx: China-flat.gpx
+geojson: China-flat.geojson
 image: "/v1580148807/trailcoffee/IMG_3090.jpg"
 images:
   - alt: 

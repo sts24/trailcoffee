@@ -6,7 +6,7 @@ permalink: /mastodon-peak/
 coords: '33.73693937064678, -115.8105821522628'
 tags:
   - joshua-tree
-gpx: Mastodon-Peak.gpx
+geojson: Mastodon-Peak.geojson
 image: "/v1580148807/trailcoffee/DSCF4004.jpg"
 images:
   - alt: Desert Palm Trees at Cottonwood Springs
