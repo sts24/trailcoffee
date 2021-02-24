@@ -1,10 +1,9 @@
 <header class="site-header">
-	<div class="row row-spaced row-vertical-top padding-x-2 padding-y-1 site-masthead">
-		<div class="col-s-12 col-m-8">
-			<a href="/" class="site-logo">{{ settings.siteName }}</a>
+	<div class="row row-spaced row-vertical-top row-center padding-x-2 padding-y-1 site-masthead">
+		<div class="col-s-12 col-m-5">
+			<a href="/" class="site-logo"><img src="/images/tc-badge.svg" alt="{{ settings.siteName }}" /></a>
 			<div class="site-tagline">{{ settings.description }}</div>
-		</div>
-		<div class="col-s-12 col-m-4">
+
 			{% include 'partials/site-search.njk' %}
 		</div>
 	</div>

@@ -1,14 +1,15 @@
 .site-search-wrapper {
 	max-width: 300px;
+	margin: 2rem auto 0 auto;
 	width: 100%;
 	position: relative;
 	z-index: 2000;
 
 	label {
-		color: white;
+		color: var(--sand);
 		display: block;
 		font-size: rem(14);
-		text-transform: uppercase;
+		text-align: center;
 	}
 
 	input {
@@ -16,7 +17,7 @@
 	}
 
 	@media (max-width: 767px){
-		margin: 0 0 1rem 0;
+		//margin: 0 0 1rem 0;
 		max-width: 100%;
 	}
 }
