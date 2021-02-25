@@ -1,0 +1,15 @@
+---
+layout: layouts/page.njk
+title: Find a Hike by Region
+permalink: /places/index.html
+---
+
+<h1 class="places-index-title margin-bottom-places-index-header">Find a Hike by Region</h1>
+
+<ul class="places-nav">
+
+  {% for key, place in placeData %}
+    <li><a href="/places/{{ place.slug }}/" class="places-index-link" style="background-color: {{ place.color }};">{{ place.fullname }}</a></li>
+  {% endfor %}
+
+</ul>

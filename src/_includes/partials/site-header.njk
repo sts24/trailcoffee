@@ -1,10 +1,14 @@
 <header class="site-header">
 	<div class="row row-spaced row-vertical-top row-center padding-x-2 padding-y-1 site-masthead">
-		<div class="col-s-12 col-m-5">
+		<div class="col-s-12">
 			<a href="/" class="site-logo"><img src="/images/tc-badge.svg" alt="{{ settings.siteName }}" /></a>
-			<div class="site-tagline">{{ settings.description }}</div>
-
-			{% include 'partials/site-search.njk' %}
 		</div>
+		<nav class="col-auto" >
+			<ul class="site-nav-list">
+				<li><a href="/" class="site-nav-link">Latest Hikes</a></li>
+				<li><a href="/places" class="site-nav-link">Find by Region</a></li>
+				<li>{% include 'partials/site-search.njk' %}</li>
+			</ul>
+		</nav>
 	</div>
 </header>
