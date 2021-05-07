@@ -76,6 +76,15 @@ module.exports = function (config) {
 		return image;
 	});
 
+	config.addNunjucksFilter("getImgID", function (filename) {
+		const fileVersion = filename.split('/v')[1].split('/')[0];
+		const splitFilename = filename.split('/');
+		const newFilepath = splitFilename[2] + '/' + splitFilename[3];
+		const newFilename = newFilepath.split('.')[0];
+
+		return newFilename;
+	});
+
 
 	// add RSS feed
 	config.addPlugin(pluginRss);
