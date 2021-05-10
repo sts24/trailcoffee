@@ -8,8 +8,11 @@
 			{% for post in collections.post | reverse %}
 				{% if loop.first %}
 
+					{% set imgID = post.data.image | getImgID %}
+					{% set imgMeta = imageData[imgID] %}
+
 					<div class="col-s-12 col-m-6">
-						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" /></a>
+						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" /></a>
 					</div>
 					<div class="col-s-12 col-m-6">
 						<p class="top-post-lead-in">Latest Hike</p>
