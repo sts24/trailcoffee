@@ -2,7 +2,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cloudinary = require('cloudinary');
 
 cloudinary.config({
-	cloud_name: 'stsmith'
+	cloud_name: process.env.CLOUD_NAME
 });
 
 module.exports = function (config) {

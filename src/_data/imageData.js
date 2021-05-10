@@ -1,20 +1,20 @@
-//const CacheAsset = require("@11ty/eleventy-cache-assets");
-
+require('dotenv').config();
 const cloudinary = require('cloudinary');
+const fs = require('fs');
 
 
 
 module.exports = async function(){
 
-	
 	cloudinary.config({ 
-		  cloud_name: 'stsmith', 
-		  api_key: '183459463763494', 
-		  api_secret: 'PggVaFagyP1HSfPjL5odpdn2psg' 
+		  cloud_name: process.env.CLOUD_NAME, 
+		  api_key: process.env.CLOUD_KEY, 
+		  api_secret: process.env.CLOUD_SECRET
 	});
 	
 	const cloudImageData = cloudinary.v2.search.expression('trailcoffee').max_results(500).execute().then(result => {
 		
+		console.log('cloudinary accessed');
 		
 		let jsonData = [];
 	
@@ -33,10 +33,13 @@ module.exports = async function(){
 
 		};
 
+		
 		return jsonData;
-		//fs.writeFileSync('./image-data.json', JSON.stringify(jsonData));
+		
 		
 	});
+
+	fs.writeFileSync('./image-data.json', cloudImageData);
 
 	return cloudImageData;
 
