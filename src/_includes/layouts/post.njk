@@ -55,7 +55,7 @@
 
 					<picture>
 						<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-						<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" />
+						<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" loading="lazy" />
 					</picture>
 				{% endfor %}
 			</div>
