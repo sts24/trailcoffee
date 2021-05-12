@@ -16,8 +16,14 @@ module.exports = async function(){
 	let asset = new AssetCache(cacheID);
 
 	if(asset.isCacheValid("7d")) {
+
+		const cachedData = await asset.getCachedValue();
+
+		const parsedData = JSON.parse(cachedData);
+
 		console.log('cache accesssed');
-		return asset.getCachedValue();
+		return parsedData;
+
 	} else {
 	
 		function getData() {
@@ -50,8 +56,8 @@ module.exports = async function(){
 
 
 		return getData().then(data => {
-			console.log('cloudinary accessed');
-			asset.save([JSON.stringify(data)], cacheID); 
+			console.log('cloudinary accessed, cache created');
+			asset.save(JSON.stringify(data), cacheID); 
 			return data
 		});
 
