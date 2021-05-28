@@ -15,9 +15,9 @@
 
 {% block content %}
 
-<main class="row padding-x-3 post">
-	<article class="col-s-12">
-		<header class="post-header margin-bottom-3">
+<main class="post">
+	<article class="post-article">
+		<header class="post-header">
 			<h1 class="margin-x-0">{{ title }}</h1>
 			<h2 class="margin-x-0">{{ excerpt }}</h2>
 			<p>{% postTags tags, placeData %}</p>
@@ -27,42 +27,41 @@
 
 			{% set imgID = image | getImgID %}
 			{% set imgMeta = imageData[imgID] %}
-
-			<picture>
-				<source srcset="{% imgPath image, '2400', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-				<img src="{% imgPath image, '1200', '', 'fit' %}" class="post-featured-image" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" />
-			</picture>
+			<aside class="post-featured-image">
+				<picture>
+					<source srcset="{% imgPath image, '2400', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
+					<img src="{% imgPath image, '1200', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" />
+				</picture>
+			</aside>
 		{% endif %}
 
-		<div class="row margin-x-3 post-content">
-			<div class="col-s-12">
-				{{ content | safe }}
-			</div>
+		<div class="post-content">
+			{{ content | safe }}
+
+			{% if coords %}
+				<div id="map" class="post-map-view" data-coords="{{ coords }}" data-geojson="{{ geojson }}"></div>
+			{% endif %}
+
+			{% if images %}
+				<div class="post-image-gallery">
+					{% for img in images %}
+						{% set imgID = img.image | getImgID %}
+						{% set imgMeta = imageData[imgID] %}
+
+						<picture>
+							<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
+							<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" loading="lazy" />
+						</picture>
+					{% endfor %}
+				</div>
+			{% endif %}
 		</div>
 		
-		{% if coords %}
+		
 
-			<div id="map" class="post-map-view" data-coords="{{ coords }}" data-geojson="{{ geojson }}"></div>
+		
 
-		{% endif %}
-
-		{% if images %}
-	
-			<div class="post-image-gallery margin-top-3">
-				{% for img in images %}
-					{% set imgID = img.image | getImgID %}
-					{% set imgMeta = imageData[imgID] %}
-
-					<picture>
-						<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-						<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" loading="lazy" />
-					</picture>
-				{% endfor %}
-			</div>
-			
-		{% endif %}
-
-		<footer class="post-footer">
+		{# <footer class="post-footer">
 			<time>Originally published on {% timestamp date %}</time>
 
 				{% set thisURL = page.url %}
@@ -86,7 +85,7 @@
 					{% endif %}
 				{% endfor %}
 			
-		</footer>
+		</footer> #}
 
 	</article>
 </main>

@@ -1,77 +1,115 @@
+.post-article {
+	display: grid;
 
-
-
-.post {
-	font-size: rem(24);
+	grid-template-columns: 50% 50%;
+	grid-template-rows: auto 1fr;
 }
 
 .post-header {
+	grid-area: header;
+	grid-column: 1 / 2;
+	grid-row: 1 / 2;
+
+	z-index: 100;
+	position: sticky;
+	top: 0;
+
+	padding: 3rem;
+	background-image: linear-gradient(to top,rgba(black, 0) 0%, rgba(black, 0.75) 100%);
+	text-shadow: 0 0 3px rgba(black, 0.9), 0 0 20px rgba(black, 0.5);
+
 	h1 {
 		font-family: var(--primary-font);
-		font-size: rem(24);
-		font-weight: normal;
-
-		@media (min-width: 768px){
-			font-size: rem(48);
-		}
+		font-size: 3rem;
+		color: white;
 	}
-
 
 	h2 {
-		font-size: rem(18);
+		color: white;
 	}
 
-	@media (min-width: 768px){
-		h2 {
-			font-size: rem(24);
+	p {
+		color: white;
+
+		a {
+			color: var(--lightblue);
 		}
 	}
 }
 
 .post-featured-image {
-	width: 100%;
-	height: auto;
+	grid-area: featured-img;
+	grid-column: 1 / 2;
+	grid-row: 1 / 4;
+
+	position: sticky;
+	top: 0;
+	bottom: 0;
+
+	> picture {
+		//display: block;
+		//position: relative;
+
+		> img {
+			display: block;
+			width: 100%;
+			height: auto;
+			position: sticky;
+			top: 0;	
+			z-index: 150;
+		}
+
+		// &::after {
+		// 	display: block;
+		// 	content: "";
+		// 	position: absolute;
+		// 	bottom: 0;
+		// 	z-index: 200;
+		// 	width: 100%;
+		// 	height: 200px;
+		// 	background-image: linear-gradient(to top,rgba(black, 0) 0%, rgba(black, 0.75) 100%);
+		// }
+
+	}
+
+	
 }
 
 .post-content {
+	grid-area: content;
+	grid-column: 2 / 4;
+	grid-row: 1 / 4;
 	background: white;
-}
+	padding: 3rem;
 
-.post-image-gallery {
-	display: grid;
-	grid-gap: 1rem;
-	grid-template-columns: 100%;
-
-	img {
-		width: 100%;
-		height: auto;
-	}
-
-	@media (min-width: 768px){
-		grid-template-columns: 1fr 1fr;
+	p {
+		font-size: 120%;
+		padding: 0;
+		margin: 0 0 1em 0;
 	}
 }
-
-
-
 
 .post-map-view {
 	width: 100%;
-	height: 400px;
+	height: 40vh;
+	min-height: 400px;
+	margin: 3rem 0;
 }
 
+.post-image-gallery {
 
+	picture {
+		display: block;
+		margin: 0 0 3rem 0;
 
-.post-footer {
-	border-top: 1px solid var(--color2-dark);
-	margin-top: 3rem;
-
-	time {
-		font-size: rem(14);
-	}
-
-	.post-footer-title {
-		font-family: var(--primary-font);
-		font-size: rem(24);
+		img {
+			width: 100%;
+			height: auto;
+			display: block;
+		}
+		
+		&:last-child {
+			margin-bottom: 0;
+		}
 	}
 }
