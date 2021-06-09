@@ -14,11 +14,11 @@ module.exports = function (config) {
 
 	// shortcodes
 
-	config.addShortcode("cacheBuster", function(){
+	config.addShortcode("cacheBuster", function () {
 
 		let newDate = Date.now();
 
-		return '?v='+newDate;
+		return '?v=' + newDate;
 
 	});
 
@@ -72,7 +72,7 @@ module.exports = function (config) {
 		options['secure'] = true;
 
 		const image = cloudinary.url(newFilename, options);
-		
+
 		return image;
 	});
 
@@ -83,6 +83,12 @@ module.exports = function (config) {
 		const newFilename = newFilepath.split('.')[0];
 
 		return newFilename;
+	});
+
+	config.addShortcode("formatCoords", function (coords) {
+		const coordArray = coords.split(',');
+		const newCoords = coordArray[1].trim() + ',' + coordArray[0].trim();
+		return newCoords;
 	});
 
 

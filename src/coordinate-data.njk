@@ -3,10 +3,11 @@ permalink: coordinate-data.json
 ---
 [
   {% for post in collections.post  %}
+
     {
       "title": "{{ post.data.title }}",
 	  "slug": "{{ post.fileSlug }}",
-	  "coords": "{{ post.data.coords }}"
+	  "coords": [{% formatCoords post.data.coords %}]
     }{{ '' if loop.last else ',' }}
   {% endfor  %}
 ]

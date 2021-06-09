@@ -4,6 +4,19 @@ title: Find a Hike by Region
 permalink: /places/index.html
 ---
 
+{% block head %}
+
+
+
+		<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
+		<script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+
+		<script src="/assets/js/map-all-places.js" defer></script>
+
+
+
+{% endblock %}
+
 <h1 class="places-index-title margin-bottom-places-index-header">Find a Hike by Region</h1>
 
 <ul class="places-nav">
@@ -13,3 +26,8 @@ permalink: /places/index.html
   {% endfor %}
 
 </ul>
+
+
+
+<div id="map-all-places" style="height: 600px; margin-top: 3rem;"></div>
+
