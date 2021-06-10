@@ -9,8 +9,13 @@ var map = new mapboxgl.Map({
 
 
 
+// label popups
 
-
+var popup = new mapboxgl.Popup({
+	closeButton: false,
+	closeOnClick: false,
+	anchor: 'top'
+});
 
 
 // get the first and last data points and make map markers
@@ -18,18 +23,39 @@ var map = new mapboxgl.Map({
 async function mapData() {
 	await fetch('/coordinate-data.json').then(res => res.json()).then(data => {
 
-		data.forEach(place => {
-			new mapboxgl.Marker()
-				.setLngLat(place.coords)
+		data.features.forEach(place => {
+
+			const placeLink = place.properties.url;
+			const placeName = place.properties.name;
+
+			const placeMarker = new mapboxgl.Marker()
+				.setLngLat(place.geometry.coordinates)
 				.addTo(map);
+
+			// go to place on click
+			placeMarker.getElement().addEventListener('click', () => {
+				window.location.href = placeLink;
+			});
+
+			// show popup label on mouseover
+			placeMarker.getElement().addEventListener('mouseover', () => {
+				popup.setLngLat(place.geometry.coordinates).setHTML(placeName).addTo(map);
+			});
+
+			// remove popup label on mouseleave
+			placeMarker.getElement().addEventListener('mouseleave', () => {
+				popup.remove();
+			});
 		})
-
-
-
 	});
 }
 
 mapData();
+
+
+
+
+
 
 
 // add reference scale

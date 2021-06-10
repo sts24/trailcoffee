@@ -1,13 +1,22 @@
 ---
 permalink: coordinate-data.json
 ---
-[
-  {% for post in collections.post  %}
 
-    {
-      "title": "{{ post.data.title }}",
-	  "slug": "{{ post.fileSlug }}",
-	  "coords": [{% formatCoords post.data.coords %}]
-    }{{ '' if loop.last else ',' }}
-  {% endfor  %}
-]
+{ 
+  "type": "FeatureCollection",
+    "features": [
+      {% for post in collections.post  %}
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "{{ post.data.title }}",
+            "url": "{{ post.url }}"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [{% formatCoords post.data.coords %}]
+          }
+        }{{ '' if loop.last else ',' }}
+      {% endfor  %}
+    ]
+}

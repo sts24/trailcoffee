@@ -37,3 +37,19 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 }
+
+
+#map-all-places {
+	.mapboxgl-marker {
+		&:hover {
+			cursor: pointer;
+			z-index: 1000;
+		}
+	}
+
+	.mapboxgl-popup-content {
+		padding: 5px;
+		line-height: 1em;
+		font-weight: bold;
+	}
+}
