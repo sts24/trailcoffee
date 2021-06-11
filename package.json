@@ -21,12 +21,10 @@
     "dotenv": "^9.0.2",
     "gulp": "^4.0.2",
     "gulp-minify": "^3.1.0",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^4.1.0",
+    "gulp-bro": "^2.0.0"
   },
   "browserslist": [
     "last 2 versions"
-  ],
-  "devDependencies": {
-    "gulp-bro": "^2.0.0"
-  }
+  ]
 }
