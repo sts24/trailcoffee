@@ -1,7 +1,6 @@
-const Alpine = require('alpinejs');
+import alpinejs from 'https://cdn.skypack.dev/alpinejs';
 
-
-window.search = function(){
+window.search = function () {
 	return {
 		searchTerm: '',
 		searchIndex: [],
@@ -18,7 +17,7 @@ window.search = function(){
 		},
 		getSearchData(e) {
 
-			if(this.searchTerm.length > 3){
+			if (this.searchTerm.length > 3) {
 				const searchInput = this.searchTerm.toLowerCase();
 				const searchData = JSON.parse(JSON.stringify(this.searchIndex));
 
@@ -29,23 +28,23 @@ window.search = function(){
 					let searchString = item.text.toLowerCase();
 					let results = searchString.includes(searchInput);
 
-					if(results == true){
+					if (results == true) {
 						this.searchResults.push(item);
 					}
 
 				});
 
 				this.setupKeyboardControl(e);
-			} else if(this.searchTerm.length <= 3){
+			} else if (this.searchTerm.length <= 3) {
 				this.removeKeyboardControl();
 			}
 
 		},
-		setupKeyboardControl(e){
+		setupKeyboardControl(e) {
 
 			const resultItems = e.querySelectorAll('.site-search-results > li > a');
 
-			if(resultItems.length > 0){
+			if (resultItems.length > 0) {
 
 				const resultsTotal = resultItems.length;
 				let focusIndex = 0;
@@ -56,21 +55,21 @@ window.search = function(){
 			}
 
 		},
-		removeKeyboardControl(){
+		removeKeyboardControl() {
 			document.removeEventListener('keydown', this.searchResultsKeyboardControl);
 		},
-		searchResultsKeyboardControl(event){
+		searchResultsKeyboardControl(event) {
 			event.preventDefault();
 
-			if(event.code == 'ArrowDown'){
-				if(focusIndex < resultsTotal){
-					focusIndex++;	
+			if (event.code == 'ArrowDown') {
+				if (focusIndex < resultsTotal) {
+					focusIndex++;
 					resultItems[focusIndex].focus();
 				}
 			}
-			else if(event.code == 'ArrowUp'){
-				if(focusIndex >= 0){
-					focusIndex--;	
+			else if (event.code == 'ArrowUp') {
+				if (focusIndex >= 0) {
+					focusIndex--;
 					resultItems[focusIndex].focus();
 				}
 			}
