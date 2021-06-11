@@ -1,11 +1,19 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cloudinary = require('cloudinary');
+const pluginSass = require("eleventy-plugin-sass");
 
 cloudinary.config({
 	cloud_name: process.env.CLOUD_NAME
 });
 
 module.exports = function (config) {
+
+	// compile sass assets
+	config.addPlugin(pluginSass, {
+		outputDir: './build/assets/css',
+		remap: true,
+		sourceMaps: true
+	});
 
 
 	// enable tags from directory to be merged with posts' own tags
@@ -100,9 +108,11 @@ module.exports = function (config) {
 	config.addPassthroughCopy({ "./src/_assets/fonts": "assets/fonts" });
 	config.addPassthroughCopy({ "./src/gpx": "gpx" });
 	config.addPassthroughCopy({ "./src/geo-json": "geo-json" });
+	config.addPassthroughCopy({ "./src/_assets/js": "assets/js" })
 
 	// watch
 	config.addWatchTarget("./src/_assets/sass/");
+	config.addWatchTarget("./src/_assets/js/");
 
 	// options
 

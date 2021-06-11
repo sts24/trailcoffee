@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gulp watch & eleventy --serve --quiet",
-    "production": "gulp && eleventy",
+    "start": "eleventy --serve --quiet",
+    "production": "eleventy",
     "debug": "DEBUG=Eleventy* eleventy",
     "clean": "rm -rf build",
     "clean:cache": "rm .cache/*"
@@ -19,10 +19,7 @@
     "alpinejs": "^2.8.0",
     "cloudinary": "^1.23.0",
     "dotenv": "^9.0.2",
-    "gulp": "^4.0.2",
-    "gulp-minify": "^3.1.0",
-    "gulp-sass": "^4.1.0",
-    "gulp-bro": "^2.0.0"
+    "eleventy-plugin-sass": "^1.2.0"
   },
   "browserslist": [
     "last 2 versions"
