@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve --quiet",
-    "production": "eleventy",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "production": "npx @11ty/eleventy",
     "debug": "DEBUG=Eleventy* eleventy",
     "clean": "rm -rf build",
     "clean:cache": "rm .cache/*"
