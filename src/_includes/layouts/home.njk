@@ -2,16 +2,16 @@
 
 {% block content %}
 
-<main class="row padding-x-3">
-	<header class="col-s-12 margin-bottom-3">
-		<div class="row row-vertical-center top-post padding-x-1">
+<main class="padding-bottom-3">
+	<header class="margin-bottom-3">
+		<div class="row row-expanded row-vertical-center top-post">
 			{% for post in collections.post | reverse %}
 				{% if loop.first %}
 
 					{% set imgID = post.data.image | getImgID %}
 					{% set imgMeta = imageData[imgID] %}
 
-					<div class="col-s-12 col-m-6">
+					<div class="col-s-12 col-m-6 padding-0">
 						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" /></a>
 					</div>
 					<div class="col-s-12 col-m-6">
@@ -26,25 +26,28 @@
 		</div>
 	</header>
 
+	<div class="row">
 
-	<div class="col-s-12 recent-posts">
-		<h2>Find a Hike</h2>
+		<div class="col-s-12 recent-posts">
+			<h2>Find a Hike</h2>
 
-		<div class="post-card-wrapper">
+			<div class="post-card-wrapper">
 
-		{% for key, place in placeData %}
+			{% for key, place in placeData %}
 
-			{% for post in collections[place.slug] %}
+				{% for post in collections[place.slug] %}
 
-				{% if loop.last == true %}
-					{% set placeName = place %}
-					{% set titleHeading = 'h3' %}
-					{% include "partials/post-card.njk" %}
-				{% endif %}
+					{% if loop.last == true %}
+						{% set placeName = place %}
+						{% set titleHeading = 'h3' %}
+						{% include "partials/post-card.njk" %}
+					{% endif %}
+
+				{% endfor %}
 
 			{% endfor %}
 
-		{% endfor %}
+			</div>
 
 		</div>
 
