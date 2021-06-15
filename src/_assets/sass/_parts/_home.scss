@@ -20,7 +20,7 @@
 		display: block;
 	}
 
-	@media (min-width: 768px){
+	@media (min-width: 1024px){
 		h1 { font-size: rem(42); }
 	}
 }
@@ -29,6 +29,12 @@
 	width: 100%;
 	height: auto;
 	display: block;
+}
+
+.top-post-info {
+	@media (max-width: 768px){
+		padding-bottom: 2rem;
+	}
 }
 
 
