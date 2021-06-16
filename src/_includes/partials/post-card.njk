@@ -3,9 +3,8 @@
 <article class="post-card">
 	{% if placeName !== "" %}
 		{% set titleHeading = 'h3' %}
-		<header class="post-card-header" style="background-color: {{ placeName.color }};">
+		<header class="post-card-header" style="border-top: 4px solid {{ placeName.color }}">
 			<h2><a href="/places/{{ placeName.slug }}/">{{ placeName.fullname }}</a></h2>
-			<a href="/places/{{ placeName.slug }}/" class="more-places-link" aria-hidden="true" tabindex="-1">See more hikes</a>
 		</header>
 	{% endif %}
 	<a href="{{ post.url }}" class="post-card-img" aria-label="{{ post.data.title }}">
