@@ -1,12 +1,20 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cloudinary = require('cloudinary');
 const pluginSass = require("eleventy-plugin-sass");
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 cloudinary.config({
 	cloud_name: process.env.CLOUD_NAME
 });
 
 module.exports = function (config) {
+
+	// site map setup
+	config.addPlugin(sitemap, {
+		sitemap: {
+			hostname: "https://www.trailcoffee.net",
+		},
+	});
 
 	// compile sass assets
 	config.addPlugin(pluginSass, {
