@@ -1,0 +1,10 @@
+[[redirects]]
+from = "https://trailcoffee.net/*"
+to = "https://trailcoffee.smithscott.net/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://www.trailcoffee.net/*"
+to = "https://trailcoffee.smithscott.net/:splat"
+status = 301
+force = true
