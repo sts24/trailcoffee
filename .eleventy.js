@@ -12,7 +12,7 @@ module.exports = function (config) {
 	// site map setup
 	config.addPlugin(sitemap, {
 		sitemap: {
-			hostname: "https://www.trailcoffee.net",
+			hostname: "https://trailcoffee.smithscott.net",
 		},
 	});
 
