@@ -117,6 +117,7 @@ module.exports = function (config) {
 	config.addPassthroughCopy({ "./src/gpx": "gpx" });
 	config.addPassthroughCopy({ "./src/geo-json": "geo-json" });
 	config.addPassthroughCopy({ "./src/_assets/js": "assets/js" })
+	config.addPassthroughCopy({ './src/robots.txt': '/robots.txt' });
 
 	// watch
 	config.addWatchTarget("./src/_assets/sass/");
