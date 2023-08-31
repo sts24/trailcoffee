@@ -1,3 +1,5 @@
+@use "sass:math";
+
 // variables
 $page_width: 1200px;
 $base_size: 1rem;
@@ -12,7 +14,7 @@ $breakpoints: (
 
 // column system
 $columns: 12;
-$base_col: (100% / $columns);
+$base_col: math.div(100%, $columns);
 
 
 @import '_parts/base';

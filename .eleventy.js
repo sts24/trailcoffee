@@ -1,7 +1,6 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cloudinary = require('cloudinary');
-const pluginSass = require("eleventy-plugin-sass");
-const sitemap = require("@quasibit/eleventy-plugin-sitemap");
+require('dotenv').config();
 
 cloudinary.config({
 	cloud_name: process.env.CLOUD_NAME
@@ -9,19 +8,14 @@ cloudinary.config({
 
 module.exports = function (config) {
 
-	// site map setup
-	config.addPlugin(sitemap, {
-		sitemap: {
-			hostname: "https://trailcoffee.smithscott.net",
-		},
-	});
-
 	// compile sass assets
-	config.addPlugin(pluginSass, {
-		outputDir: './build/assets/css',
-		remap: true,
-		sourceMaps: true
-	});
+	// config.addPlugin(pluginSass, {
+	// 	outputDir: './build/assets/css',
+	// 	remap: true,
+	// 	sourceMaps: true
+	// });
+
+	//config.addPlugin(pluginSass);
 
 
 	// enable tags from directory to be merged with posts' own tags

@@ -1,3 +1,5 @@
+@use "sass:math";
+
 // svg sprite icons
 
 .svg-icon {
@@ -6,8 +8,8 @@
 
 @for $size from 1 through 6 {
     .icon-size-#{$size} {
-        width: ($base_size * $size);
-        height: ($base_size * $size);
+        width: $base_size * $size;
+        height: $base_size * $size;
     }
 }
 

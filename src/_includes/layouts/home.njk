@@ -9,10 +9,10 @@
 				{% if loop.first %}
 
 					{% set imgID = post.data.image | getImgID %}
-					{% set imgMeta = imageData[imgID] %}
+					{# {% set imgMeta = imageData[imgID] %} #}
 
 					<div class="col-s-12 col-m-6 padding-0 top-post-image-container">
-						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" /></a>
+						<a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" /></a>
 					</div>
 					<div class="col-s-12 col-m-6 top-post-info">
 						<p class="top-post-lead-in">Latest Hike</p>

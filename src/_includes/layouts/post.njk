@@ -26,11 +26,11 @@
 		{% if image %}
 
 			{% set imgID = image | getImgID %}
-			{% set imgMeta = imageData[imgID] %}
+			{# {% set imgMeta = imageData[imgID] %} #}
 			<aside class="post-featured-image">
 				<picture>
 					<source srcset="{% imgPath image, '2400', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-					<img src="{% imgPath image, '1200', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" />
+					<img src="{% imgPath image, '1200', '', 'fit' %}" />
 				</picture>
 			</aside>
 		{% endif %}
@@ -46,11 +46,11 @@
 				<div class="post-image-gallery">
 					{% for img in images %}
 						{% set imgID = img.image | getImgID %}
-						{% set imgMeta = imageData[imgID] %}
+						
 
 						<picture>
 							<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-							<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" loading="lazy" />
+							<img src="{% imgPath img.image, '600', '', 'fit' %}" loading="lazy" />
 						</picture>
 					{% endfor %}
 				</div>

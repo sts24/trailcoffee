@@ -1,11 +1,13 @@
+@use "sass:math";
+
 // mixins for layout
 @mixin make_columns ($name){
 	@for $i from 1 through $columns {
 		.col-#{$name}-#{$i} {
-			width: ($base_col * $i);
+			width: $base_col * $i;
 		}
 		.col-offset-#{$name}-#{$i}{
-			margin-left: ($base_col * $i);
+			margin-left: $base_col * $i;
 		}
 	}
 }
